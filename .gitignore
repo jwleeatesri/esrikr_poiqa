@@ -4,3 +4,4 @@ prepare/
 dw_poi_all.csv
 *.ipynb
 region_db.py
+__pycache__/
