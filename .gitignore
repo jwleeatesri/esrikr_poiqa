@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.vscode/
+prepare/
+dw_poi_all.csv
+*.ipynb
+randomtest.py
+region_db.py
