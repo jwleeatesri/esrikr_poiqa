@@ -29,6 +29,10 @@ def read_json(category:Category):
         data = json.load(f)
     return data
 
+def build_markdown(filepath):
+    with open("".join([filepath,".md"]),"w",encoding="utf-8") as f:
+        f.write(r"![image](./report.png)")
+
 def build_individual_plot(data:dict,title:str):
     report_dict = dict.fromkeys(data.keys(),0)
     report_dict["Correct"] = 0
@@ -45,10 +49,11 @@ def build_individual_plot(data:dict,title:str):
         ax.set_title(title)
         fig.savefig(filepath)
         plt.close(fig)
+        build_markdown(filepath)
     except ValueError:
         pass
 
-def build_plots():
+def build_reports():
     for _, category in Category.__members__.items():
         data = read_json(category)
         build_individual_plot(data,category.value)
@@ -57,4 +62,4 @@ if __name__ == "__main__":
     dw = pd.read_csv("dw_poi_all.csv",encoding="utf-8")
     if BUILD_BASE_JSON:
         build_base_json(dw)
-    build_plots()
+    build_reports()
