@@ -20,7 +20,7 @@ __version__ = "0.1.0"
 komoran = Komoran()
 
 # PATHS
-OUTPUT_DIR = os.path.join(os.getcwd(),"results")
+OUTPUT_DIR = os.path.join(os.getcwd(),"prepare")
 LOG_DIR = os.path.join(os.getcwd(), "logs")
 REPORTS_DIR = os.path.join(os.getcwd(),"reports")
 
@@ -112,8 +112,8 @@ def load_location_dictionary() -> dict:
 
 def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float:
     """Read df and reviews the categories
-    :param _df DataFrame: what
-    :param subcategory Subcategory: what"""
+    :param _df DataFrame: source dataframe (this dataframe is the entire dataset)
+    :param subcategory Subcategory: target subcategory"""
     filename = f"Subcategory_{subcategory.value.replace(' ','_')}.csv"
     subcategory_dict_name = os.path.join(OUTPUT_DIR,filename)
     with open(subcategory_dict_name,"r",encoding="utf-8") as _f:
@@ -122,7 +122,7 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
     problems = set([])
     def review(row):
         """Apply this function to compare results
-        :param row: sup
+        :param row: the row to process. use axis=1 for df.apply
         """
         name = row["name"]
         name_eng = row["name_eng"].lower()
@@ -135,21 +135,27 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
         return True
     df_interest = _df.loc[_df["subcategory"] == subcategory.value]
     df_interest.loc[:,"result"] = df_interest.apply(review,axis=1)
-    df_result = df_interest.loc[df_interest["result"] == False]
+    df_result = df_interest.loc[df_interest["result"] == False] # deprecated?
+    main_category = df_interest["category"].iloc[0]
+    print(main_category)
 
-    review_string = ",".join(problems)
-    logging.info("%s %s processed. Found these to be problematic:\n%s",
-        datetime.now(),
-        filename,
-        review_string)
+    # if no problem, no file
+    if len(problems) == 0:
+        logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
+    else:
+        review_string = ",".join(problems)
+        logging.info("%s %s processed. Found these to be problematic:\n%s",
+            datetime.now(),
+            filename,
+            review_string)
 
-    subcategory_report_name = os.path.join(REPORTS_DIR,filename)
-    df_result.to_csv(subcategory_report_name,encoding="utf-8")
-    logging.info("%s\n\tOriginal Length:%s\n\tIncorrect Length:%s\n\tPercentage:%s",
-        subcategory.value,
-        (lendf:=len(df_interest)),
-        (lenres:=len(df_result)),
-        100 * lenres/lendf)
+        subcategory_report_name = os.path.join(REPORTS_DIR,main_category,filename)
+        df_result.to_csv(subcategory_report_name,encoding="utf-8")
+        logging.info("%s\n\tOriginal Length:%s\n\tIncorrect Length:%s\n\tPercentage:%s",
+            subcategory.value,
+            (lendf:=len(df_interest)),
+            (lenres:=len(df_result)),
+            100 * lenres/lendf)
     return 100 * len(df_result)/len(df_interest)
 
 if __name__ == "__main__":

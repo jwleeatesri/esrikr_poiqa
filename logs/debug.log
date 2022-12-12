@@ -551,3 +551,9 @@ INFO:root:Sushi
 	Original Length:72
 	Incorrect Length:5
 	Percentage:6.944444444444445
+INFO:root:2022-12-12 10:27:39.836002 Subcategory_Sushi.csv processed. Found these to be problematic:
+초밥,궁기,유진
+INFO:root:Sushi
+	Original Length:72
+	Incorrect Length:5
+	Percentage:6.944444444444445
