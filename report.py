@@ -30,7 +30,7 @@ def read_json(category:Category):
     return data
 
 def build_markdown(filepath):
-    with open("".join([filepath,".md"]),"w",encoding="utf-8") as f:
+    with open("".join([filepath,"README.md"]),"w",encoding="utf-8") as f:
         f.write(r"![image](./report.png)")
 
 def build_individual_plot(data:dict,title:str):
@@ -45,11 +45,12 @@ def build_individual_plot(data:dict,title:str):
             pass
     try:
         filepath = os.path.join(BASE_REPORT_PATH,title,"report")
+        for_md = os.path.join(BASE_REPORT_PATH,title)
         ax.pie(report_dict.values(),labels=report_dict.keys())
         ax.set_title(title)
         fig.savefig(filepath)
         plt.close(fig)
-        build_markdown(filepath)
+        build_markdown(for_md)
     except ValueError:
         pass
 
