@@ -1,4 +1,4 @@
 """
 Just for settings
 """
-BUILD_CSV = True
+BUILD_CSV = False
