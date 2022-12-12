@@ -87,7 +87,7 @@ def get_common_words_sub(_df: pd.DataFrame,
         _f.write("kor,eng,priority,warn\n")
         for item in commons:
             if len(value:=item[0].strip()) > 1:
-                _f.write(f"{value},\n")
+                _f.write(f"{value},,,\n")
 
     logging.info('%s %s created.', datetime.now(), output_filename)
 
