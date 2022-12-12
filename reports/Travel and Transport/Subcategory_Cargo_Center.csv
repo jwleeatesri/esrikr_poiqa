@@ -1,0 +1,5 @@
+,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
+32773,32774,3239034,이원컨테이너터미널,,Binary container terminal,Travel and Transport,Cargo Center,126.61127359988885,37.44152870108126,대한민국,KOR,KOR,인천광역시,중구,,항동7가,,서해대로93번길,42,112,2022-08-04 10:04:43,"도로,교통||운송||화물운송||화물보관소",False
+57317,57318,27118107,유한,,finite,Travel and Transport,Cargo Center,126.48007291605067,37.48476167624273,대한민국,KOR,KOR,인천광역시,중구,,운서동,,공항동로296번길,171,3166-1,2022-05-01 12:37:48,"도로,교통||운송||화물운송||화물보관소",False
+104691,104692,2614597,유앤아이물류,,U&I Logistics,Travel and Transport,Cargo Center,126.62385699966681,37.45280299987976,대한민국,KOR,KOR,인천광역시,중구,,항동7가,,,,57-18,2022-05-01 12:37:48,"도로,교통||운송||화물운송||화물보관소",False
+107069,107070,5672195,스카이국제운송,,Sky International Transport,Travel and Transport,Cargo Center,126.61834965775881,37.45140807828677,대한민국,KOR,KOR,인천광역시,중구,,항동7가,,축항대로,202,95-1,2021-12-23 15:49:18,"도로,교통||운송||화물운송||화물보관소",False

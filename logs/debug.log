@@ -557,3 +557,981 @@ INFO:root:Sushi
 	Original Length:72
 	Incorrect Length:5
 	Percentage:6.944444444444445
+INFO:root:2022-12-12 10:40:38.814541 Subcategory_Other_Professional_Place.csv processed. Found these to be problematic:
+정문,공원,후문,지하,단지,센터,송도,빌딩,입구,인천,아파트,부평,복지,출구
+INFO:root:Other Professional Place
+	Original Length:21786
+	Incorrect Length:17750
+	Percentage:81.47434132011384
+INFO:root:2022-12-12 10:40:39.619216 Subcategory_House.csv processed. Found these to be problematic:
+오피스텔,드림,타운,파크빌,삼성,현대,아트,주택,빌라,하우스,그린,아파트,리지,맨션,캐슬
+INFO:root:House
+	Original Length:20413
+	Incorrect Length:14056
+	Percentage:68.85808063488953
+INFO:root:2022-12-12 10:40:39.734343 Subcategory_Harbor.csv processed. Found these to be problematic:
+장곳항,외포항,산포,포구,인천항,선착장
+INFO:root:Harbor
+	Original Length:9
+	Incorrect Length:9
+	Percentage:100.0
+INFO:root:2022-12-12 10:40:39.881474 Subcategory_Korean_Food.csv processed. Found these to be problematic:
+분식,곱창,김밥,떡볶이,족발,본점,갈비,인천,식당,부평,순대,칼국수
+INFO:root:Korean Food
+	Original Length:10181
+	Incorrect Length:1581
+	Percentage:15.528926431588253
+INFO:root:2022-12-12 10:40:39.932088 Subcategory_Coffee_Shop.csv processed. Found these to be problematic:
+커피,다방,인천,카페,구월
+INFO:root:Coffee Shop
+	Original Length:2659
+	Incorrect Length:194
+	Percentage:7.295975930801053
+INFO:root:2022-12-12 10:40:39.945720 Subcategory_Motel.csv processed. Found these to be problematic:
+스테이,인천,호텔
+INFO:root:Motel
+	Original Length:539
+	Incorrect Length:3
+	Percentage:0.5565862708719852
+WARNING:root:2022-12-12 10:40:40.054040 Subcategory.BUSINESS dictionary is not yet built
+INFO:root:2022-12-12 10:40:40.345892 Subcategory_Other_Shops_and_Service.csv processed. Found these to be problematic:
+자원,인테리어,단지,상사,네일,대리점,종합,센터,송도,인천,상가,아파트,부평,지점
+INFO:root:Other Shops and Service
+	Original Length:15760
+	Incorrect Length:4726
+	Percentage:29.987309644670052
+INFO:root:2022-12-12 10:40:40.399426 Subcategory_Market.csv processed. Found these to be problematic:
+시장,소래
+INFO:root:Market
+	Original Length:86
+	Incorrect Length:74
+	Percentage:86.04651162790698
+INFO:root:2022-12-12 10:40:40.423897 Subcategory_Chinese_Food.csv processed. Found these to be problematic:
+반점,짬뽕,탕수육,중화요리,본점,꼬치,인천,차이나,마라탕,중국
+INFO:root:Chinese Food
+	Original Length:795
+	Incorrect Length:353
+	Percentage:44.40251572327044
+INFO:root:2022-12-12 10:40:40.441053 Subcategory_Consumer_Electronics_Store.csv processed. Found these to be problematic:
+가전,프라자,삼성,미싱,전자,센터,롯데하이마트,인천,매장,부평,종합,중고,디지털
+INFO:root:Consumer Electronics Store
+	Original Length:303
+	Incorrect Length:226
+	Percentage:74.58745874587459
+INFO:root:2022-12-12 10:40:40.477521 Subcategory_Electrical.csv processed. Found these to be problematic:
+케이,가스,전기,테크,산업,코리아,전자,시스템,에너지,인천,조명,기전
+INFO:root:Electrical
+	Original Length:1198
+	Incorrect Length:715
+	Percentage:59.68280467445743
+INFO:root:2022-12-12 10:40:40.509035 Subcategory_Parking.csv processed. Found these to be problematic:
+병원,주안,교회,센터,인천,주차장,공영
+INFO:root:Parking
+	Original Length:1420
+	Incorrect Length:152
+	Percentage:10.704225352112676
+INFO:root:2022-12-12 10:40:40.700219 Subcategory_Other_Education.csv processed. Found these to be problematic:
+교습소,캠퍼스,수학,영어,병설,어린이집,미술,아이,전문,교실,센터,유치원,송도,인천,학원,피아노
+INFO:root:Other Education
+	Original Length:6325
+	Incorrect Length:5588
+	Percentage:88.34782608695652
+INFO:root:2022-12-12 10:40:40.763055 Subcategory_Nursing_Home.csv processed. Found these to be problematic:
+드림,요양,실버,행복,노인,사랑,센터,복지
+INFO:root:Nursing Home
+	Original Length:311
+	Incorrect Length:298
+	Percentage:95.81993569131832
+INFO:root:2022-12-12 10:40:40.924865 Subcategory_Building.csv processed. Found these to be problematic:
+무소,드림,부동산,삼성,개발,현대,제일,중개,송도,조은,행운,랜드,우리,미래
+INFO:root:Building
+	Original Length:4504
+	Incorrect Length:4081
+	Percentage:90.60834813499112
+INFO:root:2022-12-12 10:40:40.971812 Subcategory_Footwear.csv processed. Found these to be problematic:
+엘칸토,아이,슈즈,제화,인천,홈플러스,부평,신발,중심
+INFO:root:Footwear
+	Original Length:158
+	Incorrect Length:104
+	Percentage:65.82278481012658
+INFO:root:2022-12-12 10:40:41.022453 Subcategory_Chicken_Restaurant.csv processed. Found these to be problematic:
+통닭,닭강정,치킨,송도,인천,페리카나,부평,동점
+INFO:root:Chicken Restaurant
+	Original Length:1301
+	Incorrect Length:1106
+	Percentage:85.01152959262106
+INFO:root:2022-12-12 10:40:41.038978 No errors for the file: Aquarium
+INFO:root:2022-12-12 10:40:41.138511 Subcategory_Home_Improvement_Store.csv processed. Found these to be problematic:
+공사,전기,인테리어,개발,산업,종합,하수구,누수,설비,건설,인천,건축,수도,철물,변기
+INFO:root:Home Improvement Store
+	Original Length:3272
+	Incorrect Length:2155
+	Percentage:65.86185819070904
+INFO:root:2022-12-12 10:40:41.179893 Subcategory_Warehouse.csv processed. Found these to be problematic:
+케이,유통,통상,경인,로지스틱스,국제,센터,인천,창고,한국,푸드,종합,물류
+INFO:root:Warehouse
+	Original Length:511
+	Incorrect Length:407
+	Percentage:79.6477495107632
+INFO:root:2022-12-12 10:40:41.199186 Subcategory_Bank.csv processed. Found these to be problematic:
+남동,금융,기업은행,출장소,주안,센터,본점,인천,새마을금고,지점,공단
+INFO:root:Bank
+	Original Length:381
+	Incorrect Length:208
+	Percentage:54.59317585301837
+INFO:root:2022-12-12 10:40:41.213930 Subcategory_Auto_Parts.csv processed. Found these to be problematic:
+유리,부품,대리점,인천,자동차
+INFO:root:Auto Parts
+	Original Length:354
+	Incorrect Length:74
+	Percentage:20.903954802259886
+INFO:root:2022-12-12 10:40:41.251653 Subcategory_Grocery.csv processed. Found these to be problematic:
+유통,농협,슈퍼,매점,현대,마트,인천,할인,상회
+INFO:root:Grocery
+	Original Length:1747
+	Incorrect Length:443
+	Percentage:25.357756153405838
+INFO:root:2022-12-12 10:40:41.330224 Subcategory_Beauty_Salon.csv processed. Found these to be problematic:
+이용원,클럽,미용실,헤어,갤러리,이발관,라인,아트,사랑,인천,살롱,뷰티,부평
+INFO:root:Beauty Salon
+	Original Length:3869
+	Incorrect Length:1139
+	Percentage:29.439131558542257
+INFO:root:2022-12-12 10:40:41.351898 Subcategory_Orchard.csv processed. Found these to be problematic:
+나라,농장,농산물,과일,농원,마트,상회,야채
+INFO:root:Orchard
+	Original Length:186
+	Incorrect Length:94
+	Percentage:50.53763440860215
+INFO:root:2022-12-12 10:40:41.366360 Subcategory_Bakery.csv processed. Found these to be problematic:
+과자,뚜레쥬르,찹쌀,인천,구월,연수
+INFO:root:Bakery
+	Original Length:526
+	Incorrect Length:77
+	Percentage:14.638783269961976
+INFO:root:2022-12-12 10:40:41.410251 Subcategory_Auto_Maintenance.csv processed. Found these to be problematic:
+오토,광택,모터스,공업,인천,랜드,정비,자동차,서비스
+INFO:root:Auto Maintenance
+	Original Length:1618
+	Incorrect Length:686
+	Percentage:42.398022249690975
+INFO:root:2022-12-12 10:40:41.426486 Subcategory_Temple.csv processed. Found these to be problematic:
+대한불교조계종,선원,현사,수사,보문사,관음사,정사,운사,불사,명사
+INFO:root:Temple
+	Original Length:164
+	Incorrect Length:54
+	Percentage:32.926829268292686
+INFO:root:2022-12-12 10:40:41.455510 Subcategory_Laundry.csv processed. Found these to be problematic:
+수선,세탁,현대,세탁소,운동화
+INFO:root:Laundry
+	Original Length:1067
+	Incorrect Length:343
+	Percentage:32.146204311152765
+INFO:root:2022-12-12 10:40:41.481742 Subcategory_Other_Parks_and_Outdoors.csv processed. Found these to be problematic:
+공원,도시,영종,타운,배드민턴,체육,클럽,단지,자연,센터,파크,송도,인천,탁구,구역,아파트
+INFO:root:Other Parks and Outdoors
+	Original Length:466
+	Incorrect Length:405
+	Percentage:86.9098712446352
+INFO:root:2022-12-12 10:40:41.495187 Subcategory_Fire_Station.csv processed. Found these to be problematic:
+강화,구조,센터,지역,인천,부평
+INFO:root:Fire Station
+	Original Length:91
+	Incorrect Length:91
+	Percentage:100.0
+INFO:root:2022-12-12 10:40:41.525566 Subcategory_Butcher.csv processed. Found these to be problematic:
+미트,유통,정육,센터,인천,고기,우리,총각,도매,계란,화점,축산,한우
+INFO:root:Butcher
+	Original Length:662
+	Incorrect Length:578
+	Percentage:87.31117824773413
+INFO:root:2022-12-12 10:40:41.542986 Subcategory_Japanese_Food.csv processed. Found these to be problematic:
+샤브샤브,부평,돈가스,일식,본점,연어,우동,인천,구월,초밥
+INFO:root:Japanese Food
+	Original Length:402
+	Incorrect Length:47
+	Percentage:11.691542288557214
+INFO:root:2022-12-12 10:40:41.582331 Subcategory_Bed_and_Breakfast.csv processed. Found these to be problematic:
+노을,강화,바다,비치,여인숙,여관,마을,하우스,민박,풍경,향기
+INFO:root:Bed and Breakfast
+	Original Length:1493
+	Incorrect Length:635
+	Percentage:42.53181513730743
+INFO:root:2022-12-12 10:40:41.601136 Subcategory_Pet_Store.csv processed. Found these to be problematic:
+부평,퍼피,용품,강아지,호텔,하우스,본점,사랑,인천,러브,애견,꼬리
+INFO:root:Pet Store
+	Original Length:304
+	Incorrect Length:112
+	Percentage:36.8421052631579
+INFO:root:2022-12-12 10:40:41.643575 Subcategory_Clothing_Store.csv processed. Found these to be problematic:
+구제,아이즈,명품,의류,논현,스퀘어,패션,레드,인천,학생복,구월,홈플러스,부평,연수
+INFO:root:Clothing Store
+	Original Length:1193
+	Incorrect Length:628
+	Percentage:52.640402347024306
+INFO:root:2022-12-12 10:40:41.660666 Subcategory_Dock.csv processed. Found these to be problematic:
+신도,포리,남항,무리,부두,나루,선착장
+INFO:root:Dock
+	Original Length:100
+	Incorrect Length:99
+	Percentage:99.0
+INFO:root:2022-12-12 10:40:41.668815 Subcategory_Port.csv processed. Found these to be problematic:
+군포,왕산,건평,말도,인천,포구,후포항,어류
+INFO:root:Port
+	Original Length:33
+	Incorrect Length:17
+	Percentage:51.515151515151516
+INFO:root:2022-12-12 10:40:41.681531 Subcategory_School.csv processed. Found these to be problematic:
+중학교,인천
+INFO:root:School
+	Original Length:608
+	Incorrect Length:3
+	Percentage:0.4934210526315789
+INFO:root:2022-12-12 10:40:41.709087 Subcategory_Church.csv processed. Found these to be problematic:
+교회,인천
+INFO:root:Church
+	Original Length:557
+	Incorrect Length:555
+	Percentage:99.64093357271095
+INFO:root:2022-12-12 10:40:41.725154 Subcategory_Pizza.csv processed. Found these to be problematic:
+연수,인천,피자,구월
+INFO:root:Pizza
+	Original Length:360
+	Incorrect Length:10
+	Percentage:2.7777777777777777
+INFO:root:2022-12-12 10:40:41.759830 Subcategory_Convenience_Store.csv processed. Found these to be problematic:
+영종,주안,이마트,인천,미니스톱,구월,연수
+INFO:root:Convenience Store
+	Original Length:2150
+	Incorrect Length:116
+	Percentage:5.395348837209302
+INFO:root:2022-12-12 10:40:41.768677 Subcategory_Farm.csv processed. Found these to be problematic:
+농장,풍년
+INFO:root:Farm
+	Original Length:2
+	Incorrect Length:2
+	Percentage:100.0
+INFO:root:2022-12-12 10:40:41.781323 Subcategory_Veterinarian.csv processed. Found these to be problematic:
+종합,동물
+INFO:root:Veterinarian
+	Original Length:167
+	Incorrect Length:165
+	Percentage:98.80239520958084
+INFO:root:2022-12-12 10:40:41.790734 Subcategory_Sushi.csv processed. Found these to be problematic:
+궁기,초밥,유진
+INFO:root:Sushi
+	Original Length:72
+	Incorrect Length:5
+	Percentage:6.944444444444445
+INFO:root:2022-12-12 10:40:41.814334 Subcategory_Mobile_Phone_Shop.csv processed. Found these to be problematic:
+정보,통신,텔레콤,마트,에이치,휴대폰,인천,매장,모바일,핸드폰,중고,컴퍼니
+INFO:root:Mobile Phone Shop
+	Original Length:533
+	Incorrect Length:404
+	Percentage:75.79737335834896
+INFO:root:2022-12-12 10:40:41.830852 Subcategory_Furniture_Store.csv processed. Found these to be problematic:
+가구,전시장,인천,부평,동서
+INFO:root:Furniture Store
+	Original Length:614
+	Incorrect Length:16
+	Percentage:2.6058631921824102
+INFO:root:2022-12-12 10:40:41.838455 Subcategory_Bridge.csv processed. Found these to be problematic:
+대교,승기,다남,송도,램프,철교,연륙교
+INFO:root:Bridge
+	Original Length:24
+	Incorrect Length:22
+	Percentage:91.66666666666667
+INFO:root:2022-12-12 10:40:41.845562 Subcategory_Ruin.csv processed. Found these to be problematic:
+수목원,강화,인천,온실
+INFO:root:Ruin
+	Original Length:5
+	Incorrect Length:5
+	Percentage:100.0
+INFO:root:2022-12-12 10:40:41.858044 Subcategory_Spa.csv processed. Found these to be problematic:
+가마,강화,목욕탕,황토,사우나,렉스,스파,한증막,랜드,찜질방,대중,해수,보석
+INFO:root:Spa
+	Original Length:160
+	Incorrect Length:141
+	Percentage:88.125
+INFO:root:2022-12-12 10:40:41.875781 Subcategory_Billiards.csv processed. Found these to be problematic:
+클럽,당구
+INFO:root:Billiards
+	Original Length:324
+	Incorrect Length:316
+	Percentage:97.53086419753086
+INFO:root:2022-12-12 10:40:41.891510 Subcategory_Jewelry.csv processed. Found these to be problematic:
+쥬얼리,골드,금사,거래소,귀금속,티파니,주얼리,인천,황금,도매,보석
+INFO:root:Jewelry
+	Original Length:305
+	Incorrect Length:155
+	Percentage:50.81967213114754
+INFO:root:2022-12-12 10:40:41.919350 Subcategory_Repair_Services.csv processed. Found these to be problematic:
+컴퓨터,수선,에어컨,수리,서비스,복구,픽스,닥터,센터,의상실,119,인천,PC,부평,아이폰
+INFO:root:Repair Services
+	Original Length:741
+	Incorrect Length:574
+	Percentage:77.46288798920378
+INFO:root:2022-12-12 10:40:41.937900 Subcategory_Golf_Course.csv processed. Found these to be problematic:
+스크린,골프,클럽,스카이,송도,파크,인천,CC
+INFO:root:Golf Course
+	Original Length:244
+	Incorrect Length:237
+	Percentage:97.1311475409836
+INFO:root:2022-12-12 10:40:41.950030 No errors for the file: Womens Apparel
+INFO:root:2022-12-12 10:40:41.970249 Subcategory_Library.csv processed. Found these to be problematic:
+나무,단지,마을,도서관,센터,송도,사랑,인천,독서실,스터디,문고,푸른
+INFO:root:Library
+	Original Length:442
+	Incorrect Length:423
+	Percentage:95.70135746606334
+INFO:root:2022-12-12 10:40:41.982415 Subcategory_Car_Wash.csv processed. Found these to be problematic:
+스팀,자동차,세차
+INFO:root:Car Wash
+	Original Length:187
+	Incorrect Length:6
+	Percentage:3.2085561497326203
+INFO:root:2022-12-12 10:40:41.992779 Subcategory_Ice_Cream_Shop.csv processed. Found these to be problematic:
+홈플러스,배스킨라빈스,인천,구월
+INFO:root:Ice Cream Shop
+	Original Length:146
+	Incorrect Length:105
+	Percentage:71.91780821917808
+INFO:root:2022-12-12 10:40:42.007681 Subcategory_Hotel.csv processed. Found these to be problematic:
+오피스텔,리스,시티,영종,호텔,송도,예정,인천,스테이
+INFO:root:Hotel
+	Original Length:215
+	Incorrect Length:180
+	Percentage:83.72093023255815
+INFO:root:2022-12-12 10:40:42.038224 Subcategory_Dentist.csv processed. Found these to be problematic:
+치과,서울,의원
+INFO:root:Dentist
+	Original Length:735
+	Incorrect Length:734
+	Percentage:99.8639455782313
+INFO:root:2022-12-12 10:40:42.090489 Subcategory_Hospital.csv processed. Found these to be problematic:
+요양,연세,정형외과,안과,병원,이비인후과,내과,산부인과,비뇨기과,소아청소년과,피부과,보건,인천,의원,부평
+INFO:root:Hospital
+	Original Length:1361
+	Incorrect Length:1306
+	Percentage:95.95885378398236
+INFO:root:2022-12-12 10:40:42.109271 Subcategory_Pastries.csv processed. Found these to be problematic:
+해주,케이크,서정,카페,해피,앙금,인천,오븐,베이
+INFO:root:Pastries
+	Original Length:36
+	Incorrect Length:24
+	Percentage:66.66666666666667
+INFO:root:2022-12-12 10:40:42.119503 Subcategory_Bookstore.csv processed. Found these to be problematic:
+제이,개똥이,웅진,서점,서적,북스,인천,문고,책방
+INFO:root:Bookstore
+	Original Length:109
+	Incorrect Length:85
+	Percentage:77.98165137614679
+INFO:root:2022-12-12 10:40:42.129291 Subcategory_American_Food.csv processed. Found these to be problematic:
+식당,핫도그,감성,명랑
+INFO:root:American Food
+	Original Length:118
+	Incorrect Length:31
+	Percentage:26.271186440677965
+INFO:root:2022-12-12 10:40:42.141050 Subcategory_Fishing.csv processed. Found these to be problematic:
+낚시,인천,유선,피싱
+INFO:root:Fishing
+	Original Length:129
+	Incorrect Length:105
+	Percentage:81.3953488372093
+INFO:root:2022-12-12 10:40:42.152200 Subcategory_Tennis_Court.csv processed. Found these to be problematic:
+클럽,단지,현대,테니스,인천,부평,연수
+INFO:root:Tennis Court
+	Original Length:102
+	Incorrect Length:102
+	Percentage:100.0
+INFO:root:2022-12-12 10:40:42.162242 Subcategory_Food_and_Beverage_Shop.csv processed. Found these to be problematic:
+뷔페,웨딩,부페,한식,호텔,스타,랜드,고기,무한,파티,마루,식당
+INFO:root:Food and Beverage Shop
+	Original Length:36
+	Incorrect Length:28
+	Percentage:77.77777777777777
+INFO:root:2022-12-12 10:40:42.175346 Subcategory_Used_Car_Dealership.csv processed. Found these to be problematic:
+이카,오토,중고차,상사,패밀리,매매,모터스,인천,트레이딩,무역,자동차,부평,지점
+INFO:root:Used Car Dealership
+	Original Length:134
+	Incorrect Length:104
+	Percentage:77.61194029850746
+INFO:root:2022-12-12 10:40:42.183580 Subcategory_Italian_Food.csv processed. Found these to be problematic:
+비스트로,나폴리
+INFO:root:Italian Food
+	Original Length:64
+	Incorrect Length:2
+	Percentage:3.125
+INFO:root:2022-12-12 10:40:42.192074 Subcategory_Bowling_Alley.csv processed. Found these to be problematic:
+볼링,스트라이크
+INFO:root:Bowling Alley
+	Original Length:48
+	Incorrect Length:47
+	Percentage:97.91666666666667
+INFO:root:2022-12-12 10:40:42.201269 Subcategory_Etc.csv processed. Found these to be problematic:
+트리플,스프링,터미널,테크,산업,상가,정밀,기계
+INFO:root:Etc
+	Original Length:82
+	Incorrect Length:45
+	Percentage:54.8780487804878
+INFO:root:2022-12-12 10:40:42.217653 Subcategory_Sporting_Goods_Store.csv processed. Found these to be problematic:
+골프,바이크,체육,프로스펙스,휠라,논현,자전거,렉스,스포츠,인천,부평
+INFO:root:Sporting Goods Store
+	Original Length:299
+	Incorrect Length:221
+	Percentage:73.91304347826087
+INFO:root:2022-12-12 10:40:42.228042 Subcategory_Bus_Station.csv processed. Found these to be problematic:
+센터,정류장,환승
+INFO:root:Bus Station
+	Original Length:70
+	Incorrect Length:12
+	Percentage:17.142857142857142
+INFO:root:2022-12-12 10:40:42.240101 Subcategory_Scientific_Research.csv processed. Found these to be problematic:
+산업,센터,인천,한국,연구,교육,기술
+INFO:root:Scientific Research
+	Original Length:131
+	Incorrect Length:116
+	Percentage:88.54961832061069
+INFO:root:2022-12-12 10:40:42.250032 Subcategory_Burgers.csv processed. Found these to be problematic:
+송도,구월,인천,맥도날드
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:5
+	Percentage:2.9411764705882355
+INFO:root:2022-12-12 10:40:42.275884 Subcategory_Gas_Station.csv processed. Found these to be problematic:
+셀프,유소,충전,직영,동주,행복,GS칼텍스,인천,에너지
+INFO:root:Gas Station
+	Original Length:541
+	Incorrect Length:537
+	Percentage:99.26062846580406
+INFO:root:2022-12-12 10:40:42.288325 Subcategory_Metro_Station.csv processed. Found these to be problematic:
+원인재역
+INFO:root:Metro Station
+	Original Length:91
+	Incorrect Length:1
+	Percentage:1.098901098901099
+INFO:root:2022-12-12 10:40:42.298658 Subcategory_Tire_Store.csv processed. Found these to be problematic:
+한국타이어,자동차,인천,타이어
+INFO:root:Tire Store
+	Original Length:255
+	Incorrect Length:19
+	Percentage:7.450980392156863
+INFO:root:2022-12-12 10:40:42.306881 Subcategory_Basketball.csv processed. Found these to be problematic:
+한화,단지,농구장
+INFO:root:Basketball
+	Original Length:46
+	Incorrect Length:8
+	Percentage:17.391304347826086
+INFO:root:2022-12-12 10:40:42.316812 Subcategory_Mens_Apparel.csv processed. Found these to be problematic:
+복점,옴므,리드,테일러,인천,구월,루쏘,부평
+INFO:root:Mens Apparel
+	Original Length:114
+	Incorrect Length:70
+	Percentage:61.40350877192982
+INFO:root:2022-12-12 10:40:42.331990 Subcategory_Optical.csv processed. Found these to be problematic:
+논현,아이,렌즈,인천,구월,안경,글라스,부평
+INFO:root:Optical
+	Original Length:263
+	Incorrect Length:257
+	Percentage:97.71863117870723
+INFO:root:2022-12-12 10:48:04.420008 Subcategory_Other_Professional_Place.csv processed. Found these to be problematic:
+아파트,복지,부평,정문,공원,입구,송도,지하,빌딩,단지,후문,센터,출구,인천
+INFO:root:Other Professional Place
+	Original Length:21786
+	Incorrect Length:17750
+	Percentage:81.47434132011384
+INFO:root:2022-12-12 10:48:05.458851 Subcategory_House.csv processed. Found these to be problematic:
+아파트,드림,주택,아트,하우스,삼성,빌라,현대,캐슬,오피스텔,파크빌,그린,리지,맨션,타운
+INFO:root:House
+	Original Length:20413
+	Incorrect Length:14056
+	Percentage:68.85808063488953
+INFO:root:2022-12-12 10:48:05.585569 Subcategory_Harbor.csv processed. Found these to be problematic:
+외포항,인천항,장곳항,산포,선착장,포구
+INFO:root:Harbor
+	Original Length:9
+	Incorrect Length:9
+	Percentage:100.0
+INFO:root:2022-12-12 10:48:05.743441 Subcategory_Korean_Food.csv processed. Found these to be problematic:
+떡볶이,부평,식당,순대,갈비,김밥,칼국수,본점,인천,분식,곱창,족발
+INFO:root:Korean Food
+	Original Length:10181
+	Incorrect Length:1581
+	Percentage:15.528926431588253
+INFO:root:2022-12-12 10:48:05.797322 Subcategory_Coffee_Shop.csv processed. Found these to be problematic:
+커피,다방,구월,인천,카페
+INFO:root:Coffee Shop
+	Original Length:2659
+	Incorrect Length:194
+	Percentage:7.295975930801053
+INFO:root:2022-12-12 10:48:05.811315 Subcategory_Motel.csv processed. Found these to be problematic:
+인천,스테이,호텔
+INFO:root:Motel
+	Original Length:539
+	Incorrect Length:3
+	Percentage:0.5565862708719852
+WARNING:root:2022-12-12 10:48:05.912536 Subcategory.BUSINESS dictionary is not yet built
+INFO:root:2022-12-12 10:48:06.210811 Subcategory_Other_Shops_and_Service.csv processed. Found these to be problematic:
+종합,아파트,자원,부평,네일,상사,상가,송도,지점,대리점,단지,센터,인테리어,인천
+INFO:root:Other Shops and Service
+	Original Length:15760
+	Incorrect Length:4726
+	Percentage:29.987309644670052
+INFO:root:2022-12-12 10:48:06.267990 Subcategory_Market.csv processed. Found these to be problematic:
+시장,소래
+INFO:root:Market
+	Original Length:86
+	Incorrect Length:74
+	Percentage:86.04651162790698
+INFO:root:2022-12-12 10:48:06.293621 Subcategory_Chinese_Food.csv processed. Found these to be problematic:
+중국,꼬치,중화요리,짬뽕,반점,마라탕,탕수육,본점,차이나,인천
+INFO:root:Chinese Food
+	Original Length:795
+	Incorrect Length:353
+	Percentage:44.40251572327044
+INFO:root:2022-12-12 10:48:06.312279 Subcategory_Consumer_Electronics_Store.csv processed. Found these to be problematic:
+종합,삼성,가전,미싱,부평,디지털,전자,매장,롯데하이마트,센터,인천,프라자,중고
+INFO:root:Consumer Electronics Store
+	Original Length:303
+	Incorrect Length:226
+	Percentage:74.58745874587459
+INFO:root:2022-12-12 10:48:06.352125 Subcategory_Electrical.csv processed. Found these to be problematic:
+시스템,조명,가스,에너지,테크,산업,케이,전자,코리아,전기,기전,인천
+INFO:root:Electrical
+	Original Length:1198
+	Incorrect Length:715
+	Percentage:59.68280467445743
+INFO:root:2022-12-12 10:48:06.384566 Subcategory_Parking.csv processed. Found these to be problematic:
+주안,공영,주차장,센터,교회,인천,병원
+INFO:root:Parking
+	Original Length:1420
+	Incorrect Length:152
+	Percentage:10.704225352112676
+INFO:root:2022-12-12 10:48:06.596804 Subcategory_Other_Education.csv processed. Found these to be problematic:
+아이,병설,캠퍼스,교습소,송도,유치원,학원,전문,어린이집,영어,교실,센터,인천,피아노,수학,미술
+INFO:root:Other Education
+	Original Length:6325
+	Incorrect Length:5588
+	Percentage:88.34782608695652
+INFO:root:2022-12-12 10:48:06.661059 Subcategory_Nursing_Home.csv processed. Found these to be problematic:
+노인,드림,복지,행복,사랑,센터,요양,실버
+INFO:root:Nursing Home
+	Original Length:311
+	Incorrect Length:298
+	Percentage:95.81993569131832
+INFO:root:2022-12-12 10:48:06.811214 Subcategory_Building.csv processed. Found these to be problematic:
+드림,제일,랜드,조은,삼성,부동산,현대,개발,송도,미래,우리,중개,무소,행운
+INFO:root:Building
+	Original Length:4504
+	Incorrect Length:4081
+	Percentage:90.60834813499112
+INFO:root:2022-12-12 10:48:06.873164 Subcategory_Footwear.csv processed. Found these to be problematic:
+신발,아이,홈플러스,부평,제화,슈즈,엘칸토,인천,중심
+INFO:root:Footwear
+	Original Length:158
+	Incorrect Length:104
+	Percentage:65.82278481012658
+INFO:root:2022-12-12 10:48:06.922049 Subcategory_Chicken_Restaurant.csv processed. Found these to be problematic:
+부평,치킨,송도,동점,페리카나,통닭,닭강정,인천
+INFO:root:Chicken Restaurant
+	Original Length:1301
+	Incorrect Length:1106
+	Percentage:85.01152959262106
+INFO:root:2022-12-12 10:48:06.938598 No errors for the file: Aquarium
+INFO:root:2022-12-12 10:48:07.038530 Subcategory_Home_Improvement_Store.csv processed. Found these to be problematic:
+종합,개발,변기,산업,수도,설비,하수구,건축,누수,전기,철물,공사,인테리어,건설,인천
+INFO:root:Home Improvement Store
+	Original Length:3272
+	Incorrect Length:2155
+	Percentage:65.86185819070904
+INFO:root:2022-12-12 10:48:07.080745 Subcategory_Warehouse.csv processed. Found these to be problematic:
+종합,경인,한국,창고,국제,케이,물류,유통,로지스틱스,통상,센터,인천,푸드
+INFO:root:Warehouse
+	Original Length:511
+	Incorrect Length:407
+	Percentage:79.6477495107632
+INFO:root:2022-12-12 10:48:07.101690 Subcategory_Bank.csv processed. Found these to be problematic:
+출장소,남동,새마을금고,주안,기업은행,지점,금융,본점,공단,센터,인천
+INFO:root:Bank
+	Original Length:381
+	Incorrect Length:208
+	Percentage:54.59317585301837
+INFO:root:2022-12-12 10:48:07.118124 Subcategory_Auto_Parts.csv processed. Found these to be problematic:
+부품,대리점,자동차,유리,인천
+INFO:root:Auto Parts
+	Original Length:354
+	Incorrect Length:74
+	Percentage:20.903954802259886
+INFO:root:2022-12-12 10:48:07.153363 Subcategory_Grocery.csv processed. Found these to be problematic:
+마트,할인,매점,현대,슈퍼,농협,유통,상회,인천
+INFO:root:Grocery
+	Original Length:1747
+	Incorrect Length:443
+	Percentage:25.357756153405838
+INFO:root:2022-12-12 10:48:07.236291 Subcategory_Beauty_Salon.csv processed. Found these to be problematic:
+아트,부평,이용원,뷰티,클럽,라인,사랑,미용실,헤어,이발관,인천,살롱,갤러리
+INFO:root:Beauty Salon
+	Original Length:3869
+	Incorrect Length:1139
+	Percentage:29.439131558542257
+INFO:root:2022-12-12 10:48:07.258181 Subcategory_Orchard.csv processed. Found these to be problematic:
+마트,과일,농원,나라,야채,상회,농장,농산물
+INFO:root:Orchard
+	Original Length:186
+	Incorrect Length:94
+	Percentage:50.53763440860215
+INFO:root:2022-12-12 10:48:07.274169 Subcategory_Bakery.csv processed. Found these to be problematic:
+찹쌀,연수,구월,과자,인천,뚜레쥬르
+INFO:root:Bakery
+	Original Length:526
+	Incorrect Length:77
+	Percentage:14.638783269961976
+INFO:root:2022-12-12 10:48:07.312644 Subcategory_Auto_Maintenance.csv processed. Found these to be problematic:
+광택,정비,랜드,자동차,서비스,오토,모터스,인천,공업
+INFO:root:Auto Maintenance
+	Original Length:1618
+	Incorrect Length:686
+	Percentage:42.398022249690975
+INFO:root:2022-12-12 10:48:07.328204 Subcategory_Temple.csv processed. Found these to be problematic:
+불사,명사,선원,관음사,보문사,수사,대한불교조계종,정사,현사,운사
+INFO:root:Temple
+	Original Length:164
+	Incorrect Length:54
+	Percentage:32.926829268292686
+INFO:root:2022-12-12 10:48:07.354302 Subcategory_Laundry.csv processed. Found these to be problematic:
+수선,현대,세탁소,운동화,세탁
+INFO:root:Laundry
+	Original Length:1067
+	Incorrect Length:343
+	Percentage:32.146204311152765
+INFO:root:2022-12-12 10:48:07.378903 Subcategory_Other_Parks_and_Outdoors.csv processed. Found these to be problematic:
+아파트,영종,자연,체육,공원,송도,클럽,단지,타운,센터,파크,탁구,구역,인천,도시,배드민턴
+INFO:root:Other Parks and Outdoors
+	Original Length:466
+	Incorrect Length:405
+	Percentage:86.9098712446352
+INFO:root:2022-12-12 10:48:07.392445 Subcategory_Fire_Station.csv processed. Found these to be problematic:
+지역,부평,센터,인천,구조,강화
+INFO:root:Fire Station
+	Original Length:91
+	Incorrect Length:91
+	Percentage:100.0
+INFO:root:2022-12-12 10:48:07.419631 Subcategory_Butcher.csv processed. Found these to be problematic:
+계란,화점,정육,한우,도매,축산,우리,미트,유통,센터,인천,총각,고기
+INFO:root:Butcher
+	Original Length:662
+	Incorrect Length:578
+	Percentage:87.31117824773413
+INFO:root:2022-12-12 10:48:07.437422 Subcategory_Japanese_Food.csv processed. Found these to be problematic:
+우동,부평,일식,돈가스,연어,샤브샤브,본점,초밥,구월,인천
+INFO:root:Japanese Food
+	Original Length:402
+	Incorrect Length:47
+	Percentage:11.691542288557214
+INFO:root:2022-12-12 10:48:07.478591 Subcategory_Bed_and_Breakfast.csv processed. Found these to be problematic:
+노을,비치,하우스,민박,여인숙,향기,여관,마을,풍경,바다,강화
+INFO:root:Bed and Breakfast
+	Original Length:1493
+	Incorrect Length:635
+	Percentage:42.53181513730743
+INFO:root:2022-12-12 10:48:07.498578 Subcategory_Pet_Store.csv processed. Found these to be problematic:
+강아지,부평,하우스,용품,꼬리,애견,퍼피,호텔,본점,사랑,인천,러브
+INFO:root:Pet Store
+	Original Length:304
+	Incorrect Length:112
+	Percentage:36.8421052631579
+INFO:root:2022-12-12 10:48:07.536024 Subcategory_Clothing_Store.csv processed. Found these to be problematic:
+홈플러스,부평,의류,연수,스퀘어,명품,패션,구제,구월,학생복,인천,아이즈,레드,논현
+INFO:root:Clothing Store
+	Original Length:1193
+	Incorrect Length:628
+	Percentage:52.640402347024306
+INFO:root:2022-12-12 10:48:07.552023 Subcategory_Dock.csv processed. Found these to be problematic:
+나루,무리,신도,남항,포리,부두,선착장
+INFO:root:Dock
+	Original Length:100
+	Incorrect Length:99
+	Percentage:99.0
+INFO:root:2022-12-12 10:48:07.561261 Subcategory_Port.csv processed. Found these to be problematic:
+건평,어류,후포항,군포,왕산,말도,인천,포구
+INFO:root:Port
+	Original Length:33
+	Incorrect Length:17
+	Percentage:51.515151515151516
+INFO:root:2022-12-12 10:48:07.579535 Subcategory_School.csv processed. Found these to be problematic:
+인천,중학교
+INFO:root:School
+	Original Length:608
+	Incorrect Length:3
+	Percentage:0.4934210526315789
+INFO:root:2022-12-12 10:48:07.610859 Subcategory_Church.csv processed. Found these to be problematic:
+교회,인천
+INFO:root:Church
+	Original Length:557
+	Incorrect Length:555
+	Percentage:99.64093357271095
+INFO:root:2022-12-12 10:48:07.628498 Subcategory_Pizza.csv processed. Found these to be problematic:
+피자,인천,구월,연수
+INFO:root:Pizza
+	Original Length:360
+	Incorrect Length:10
+	Percentage:2.7777777777777777
+INFO:root:2022-12-12 10:48:07.667112 Subcategory_Convenience_Store.csv processed. Found these to be problematic:
+영종,이마트,주안,연수,미니스톱,구월,인천
+INFO:root:Convenience Store
+	Original Length:2150
+	Incorrect Length:116
+	Percentage:5.395348837209302
+INFO:root:2022-12-12 10:48:07.676351 Subcategory_Farm.csv processed. Found these to be problematic:
+농장,풍년
+INFO:root:Farm
+	Original Length:2
+	Incorrect Length:2
+	Percentage:100.0
+INFO:root:2022-12-12 10:48:07.689231 Subcategory_Veterinarian.csv processed. Found these to be problematic:
+종합,동물
+INFO:root:Veterinarian
+	Original Length:167
+	Incorrect Length:165
+	Percentage:98.80239520958084
+INFO:root:2022-12-12 10:48:07.699786 Subcategory_Sushi.csv processed. Found these to be problematic:
+궁기,유진,초밥
+INFO:root:Sushi
+	Original Length:72
+	Incorrect Length:5
+	Percentage:6.944444444444445
+INFO:root:2022-12-12 10:48:07.722874 Subcategory_Mobile_Phone_Shop.csv processed. Found these to be problematic:
+핸드폰,마트,모바일,컴퍼니,통신,에이치,휴대폰,매장,정보,텔레콤,인천,중고
+INFO:root:Mobile Phone Shop
+	Original Length:533
+	Incorrect Length:404
+	Percentage:75.79737335834896
+INFO:root:2022-12-12 10:48:07.740084 Subcategory_Furniture_Store.csv processed. Found these to be problematic:
+부평,동서,전시장,인천,가구
+INFO:root:Furniture Store
+	Original Length:614
+	Incorrect Length:16
+	Percentage:2.6058631921824102
+INFO:root:2022-12-12 10:48:07.748150 Subcategory_Bridge.csv processed. Found these to be problematic:
+다남,대교,송도,연륙교,램프,철교,승기
+INFO:root:Bridge
+	Original Length:24
+	Incorrect Length:22
+	Percentage:91.66666666666667
+INFO:root:2022-12-12 10:48:07.754816 Subcategory_Ruin.csv processed. Found these to be problematic:
+온실,인천,수목원,강화
+INFO:root:Ruin
+	Original Length:5
+	Incorrect Length:5
+	Percentage:100.0
+INFO:root:2022-12-12 10:48:07.767131 Subcategory_Spa.csv processed. Found these to be problematic:
+한증막,랜드,해수,스파,대중,찜질방,렉스,사우나,가마,목욕탕,보석,강화,황토
+INFO:root:Spa
+	Original Length:160
+	Incorrect Length:141
+	Percentage:88.125
+INFO:root:2022-12-12 10:48:07.784538 Subcategory_Billiards.csv processed. Found these to be problematic:
+당구,클럽
+INFO:root:Billiards
+	Original Length:324
+	Incorrect Length:316
+	Percentage:97.53086419753086
+INFO:root:2022-12-12 10:48:07.801185 Subcategory_Jewelry.csv processed. Found these to be problematic:
+황금,귀금속,티파니,도매,거래소,금사,주얼리,쥬얼리,골드,보석,인천
+INFO:root:Jewelry
+	Original Length:305
+	Incorrect Length:155
+	Percentage:50.81967213114754
+INFO:root:2022-12-12 10:48:07.830153 Subcategory_Repair_Services.csv processed. Found these to be problematic:
+복구,아이폰,수선,에어컨,부평,수리,119,서비스,닥터,PC,센터,픽스,컴퓨터,인천,의상실
+INFO:root:Repair Services
+	Original Length:741
+	Incorrect Length:574
+	Percentage:77.46288798920378
+INFO:root:2022-12-12 10:48:07.850780 Subcategory_Golf_Course.csv processed. Found these to be problematic:
+스카이,CC,클럽,송도,스크린,파크,인천,골프
+INFO:root:Golf Course
+	Original Length:244
+	Incorrect Length:237
+	Percentage:97.1311475409836
+INFO:root:2022-12-12 10:48:07.863679 No errors for the file: Womens Apparel
+INFO:root:2022-12-12 10:48:07.885063 Subcategory_Library.csv processed. Found these to be problematic:
+독서실,나무,송도,단지,사랑,스터디,마을,센터,도서관,푸른,문고,인천
+INFO:root:Library
+	Original Length:442
+	Incorrect Length:423
+	Percentage:95.70135746606334
+INFO:root:2022-12-12 10:48:07.897514 Subcategory_Car_Wash.csv processed. Found these to be problematic:
+자동차,세차,스팀
+INFO:root:Car Wash
+	Original Length:187
+	Incorrect Length:6
+	Percentage:3.2085561497326203
+INFO:root:2022-12-12 10:48:07.907414 Subcategory_Ice_Cream_Shop.csv processed. Found these to be problematic:
+홈플러스,구월,인천,배스킨라빈스
+INFO:root:Ice Cream Shop
+	Original Length:146
+	Incorrect Length:105
+	Percentage:71.91780821917808
+INFO:root:2022-12-12 10:48:07.921829 Subcategory_Hotel.csv processed. Found these to be problematic:
+영종,시티,리스,송도,오피스텔,호텔,스테이,인천,예정
+INFO:root:Hotel
+	Original Length:215
+	Incorrect Length:180
+	Percentage:83.72093023255815
+INFO:root:2022-12-12 10:48:07.956819 Subcategory_Dentist.csv processed. Found these to be problematic:
+서울,치과,의원
+INFO:root:Dentist
+	Original Length:735
+	Incorrect Length:734
+	Percentage:99.8639455782313
+INFO:root:2022-12-12 10:48:08.012184 Subcategory_Hospital.csv processed. Found these to be problematic:
+소아청소년과,부평,비뇨기과,이비인후과,보건,의원,정형외과,안과,연세,피부과,내과,요양,인천,병원,산부인과
+INFO:root:Hospital
+	Original Length:1361
+	Incorrect Length:1306
+	Percentage:95.95885378398236
+INFO:root:2022-12-12 10:48:08.031394 Subcategory_Pastries.csv processed. Found these to be problematic:
+해주,해피,오븐,서정,베이,앙금,인천,케이크,카페
+INFO:root:Pastries
+	Original Length:36
+	Incorrect Length:24
+	Percentage:66.66666666666667
+INFO:root:2022-12-12 10:48:08.041122 Subcategory_Bookstore.csv processed. Found these to be problematic:
+개똥이,북스,서점,서적,제이,웅진,문고,책방,인천
+INFO:root:Bookstore
+	Original Length:109
+	Incorrect Length:85
+	Percentage:77.98165137614679
+INFO:root:2022-12-12 10:48:08.050785 Subcategory_American_Food.csv processed. Found these to be problematic:
+감성,식당,명랑,핫도그
+INFO:root:American Food
+	Original Length:118
+	Incorrect Length:31
+	Percentage:26.271186440677965
+INFO:root:2022-12-12 10:48:08.062240 Subcategory_Fishing.csv processed. Found these to be problematic:
+피싱,인천,낚시,유선
+INFO:root:Fishing
+	Original Length:129
+	Incorrect Length:105
+	Percentage:81.3953488372093
+INFO:root:2022-12-12 10:48:08.073126 Subcategory_Tennis_Court.csv processed. Found these to be problematic:
+테니스,부평,현대,연수,클럽,단지,인천
+INFO:root:Tennis Court
+	Original Length:102
+	Incorrect Length:102
+	Percentage:100.0
+INFO:root:2022-12-12 10:48:08.081845 Subcategory_Food_and_Beverage_Shop.csv processed. Found these to be problematic:
+웨딩,랜드,식당,호텔,뷔페,무한,스타,부페,마루,한식,파티,고기
+INFO:root:Food and Beverage Shop
+	Original Length:36
+	Incorrect Length:28
+	Percentage:77.77777777777777
+INFO:root:2022-12-12 10:48:08.093117 Subcategory_Used_Car_Dealership.csv processed. Found these to be problematic:
+중고차,부평,매매,상사,지점,트레이딩,무역,자동차,패밀리,오토,이카,모터스,인천
+INFO:root:Used Car Dealership
+	Original Length:134
+	Incorrect Length:104
+	Percentage:77.61194029850746
+INFO:root:2022-12-12 10:48:08.101801 Subcategory_Italian_Food.csv processed. Found these to be problematic:
+나폴리,비스트로
+INFO:root:Italian Food
+	Original Length:64
+	Incorrect Length:2
+	Percentage:3.125
+INFO:root:2022-12-12 10:48:08.110369 Subcategory_Bowling_Alley.csv processed. Found these to be problematic:
+볼링,스트라이크
+INFO:root:Bowling Alley
+	Original Length:48
+	Incorrect Length:47
+	Percentage:97.91666666666667
+INFO:root:2022-12-12 10:48:08.120983 Subcategory_Etc.csv processed. Found these to be problematic:
+정밀,상가,테크,산업,터미널,기계,스프링,트리플
+INFO:root:Etc
+	Original Length:82
+	Incorrect Length:45
+	Percentage:54.8780487804878
+INFO:root:2022-12-12 10:48:08.137622 Subcategory_Sporting_Goods_Store.csv processed. Found these to be problematic:
+부평,골프,바이크,프로스펙스,자전거,렉스,스포츠,인천,휠라,체육,논현
+INFO:root:Sporting Goods Store
+	Original Length:299
+	Incorrect Length:221
+	Percentage:73.91304347826087
+INFO:root:2022-12-12 10:48:08.147469 Subcategory_Bus_Station.csv processed. Found these to be problematic:
+센터,환승,정류장
+INFO:root:Bus Station
+	Original Length:70
+	Incorrect Length:12
+	Percentage:17.142857142857142
+INFO:root:2022-12-12 10:48:08.157729 Subcategory_Scientific_Research.csv processed. Found these to be problematic:
+연구,한국,교육,산업,센터,기술,인천
+INFO:root:Scientific Research
+	Original Length:131
+	Incorrect Length:116
+	Percentage:88.54961832061069
+INFO:root:2022-12-12 10:48:08.167802 Subcategory_Burgers.csv processed. Found these to be problematic:
+인천,송도,맥도날드,구월
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:5
+	Percentage:2.9411764705882355
+INFO:root:2022-12-12 10:48:08.191774 Subcategory_Gas_Station.csv processed. Found these to be problematic:
+충전,직영,행복,에너지,GS칼텍스,유소,동주,인천,셀프
+INFO:root:Gas Station
+	Original Length:541
+	Incorrect Length:537
+	Percentage:99.26062846580406
+INFO:root:2022-12-12 10:48:08.204671 Subcategory_Metro_Station.csv processed. Found these to be problematic:
+원인재역
+INFO:root:Metro Station
+	Original Length:91
+	Incorrect Length:1
+	Percentage:1.098901098901099
+INFO:root:2022-12-12 10:48:08.215700 Subcategory_Tire_Store.csv processed. Found these to be problematic:
+타이어,자동차,인천,한국타이어
+INFO:root:Tire Store
+	Original Length:255
+	Incorrect Length:19
+	Percentage:7.450980392156863
+INFO:root:2022-12-12 10:48:08.223506 Subcategory_Basketball.csv processed. Found these to be problematic:
+농구장,한화,단지
+INFO:root:Basketball
+	Original Length:46
+	Incorrect Length:8
+	Percentage:17.391304347826086
+INFO:root:2022-12-12 10:48:08.234284 Subcategory_Mens_Apparel.csv processed. Found these to be problematic:
+테일러,부평,루쏘,리드,옴므,복점,구월,인천
+INFO:root:Mens Apparel
+	Original Length:114
+	Incorrect Length:70
+	Percentage:61.40350877192982
+INFO:root:2022-12-12 10:48:08.252279 Subcategory_Optical.csv processed. Found these to be problematic:
+아이,부평,렌즈,안경,구월,글라스,인천,논현
+INFO:root:Optical
+	Original Length:263
+	Incorrect Length:257
+	Percentage:97.71863117870723
+WARNING:root:2022-12-12 10:50:28.777338 Subcategory.BUSINESS dictionary is not yet built
+INFO:root:2022-12-12 10:50:29.284658 No errors for the file: Aquarium
+INFO:root:2022-12-12 10:50:29.864714 No errors for the file: Womens Apparel
+WARNING:root:2022-12-12 10:50:30.138068 Subcategory.MOT dictionary is not yet built
+WARNING:root:2022-12-12 10:52:53.703520 Subcategory.BUSINESS dictionary is not yet built
+INFO:root:2022-12-12 10:52:54.209538 No errors for the file: Aquarium
+INFO:root:2022-12-12 10:52:54.787746 No errors for the file: Womens Apparel
+WARNING:root:2022-12-12 10:52:55.056887 Subcategory.MOT dictionary is not yet built
+WARNING:root:2022-12-12 10:52:55.168164 Subcategory.ORP dictionary is not yet built
+INFO:root:2022-12-12 10:52:55.316988 No errors for the file: Restaurant
+INFO:root:2022-12-12 10:52:55.343162 No errors for the file: Turkish Food
+INFO:root:2022-12-12 10:52:55.361782 No errors for the file: Airport
+INFO:root:2022-12-12 10:52:55.367477 No errors for the file: Train Station
+INFO:root:2022-12-12 10:52:55.379290 No errors for the file: Ice Skating Rink
+WARNING:root:2022-12-12 10:53:48.831384 Subcategory.BUSINESS dictionary is not yet built
+INFO:root:2022-12-12 10:53:49.338773 No errors for the file: Aquarium
+INFO:root:2022-12-12 10:53:49.910168 No errors for the file: Womens Apparel
+WARNING:root:2022-12-12 10:53:50.169577 Subcategory.MOT dictionary is not yet built
+WARNING:root:2022-12-12 10:53:50.276386 Subcategory.ORP dictionary is not yet built
+INFO:root:2022-12-12 10:53:50.422588 No errors for the file: Restaurant
+INFO:root:2022-12-12 10:53:50.452038 No errors for the file: Turkish Food
+INFO:root:2022-12-12 10:53:50.471898 No errors for the file: Airport
+INFO:root:2022-12-12 10:53:50.478033 No errors for the file: Train Station
+INFO:root:2022-12-12 10:53:50.489712 No errors for the file: Ice Skating Rink

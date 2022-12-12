@@ -1,0 +1,5 @@
+,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
+32817,32818,27548903,북청라IC출구,,Bukcheongna IC exit,Travel and Transport,Highway Exit,126.6281296026622,37.559709919509615,대한민국,KOR,KOR,인천광역시,서구,,오류동,,,,1797,2022-09-06 15:18:26,"도로,교통||도로시설||방면정보||IC,JC출구",False
+41202,41203,27553372,신천IC출구,,Shincheon IC exit,Travel and Transport,Highway Exit,126.76569951513872,37.432242836302045,대한민국,KOR,KOR,인천광역시,남동구,,운연동,,,,443,2022-09-06 15:18:26,"도로,교통||도로시설||방면정보||IC,JC출구",False
+66316,66317,27550643,영종IC출구,,Yeongjong IC exit,Travel and Transport,Highway Exit,126.51250635734756,37.470311222613454,대한민국,KOR,KOR,인천광역시,중구,,운남동,,인천대교고속도로,3,1113-81,2022-09-06 15:18:26,"도로,교통||도로시설||방면정보||IC,JC출구",False
+146026,146027,27553719,북인천IC출구,,Bukincheon IC exit,Travel and Transport,Highway Exit,126.6165159713319,37.55429437354756,대한민국,KOR,KOR,인천광역시,서구,,청라동,,경명대로,11,3-51,2022-09-06 15:18:26,"도로,교통||도로시설||방면정보||IC,JC출구",False

@@ -12,7 +12,7 @@ class Category(Enum):
     EDUCATION = "Education"
     ARTS = "Arts and Entertainment"
     ETC = "Etc"
-    WATER = "Water"
+    WATER = "Water Features"
 
 class Subcategory(Enum):
     """subcategories found in dawul dataset"""
@@ -98,7 +98,7 @@ class Subcategory(Enum):
     BASK = "Basketball"
     MA = "Mens Apparel"
     OPT = "Optical"
-    MOT = "Moteorcycle Shop"
+    MOT = "Motorcycle Shop"
     VFOOD = "Vietnamese Food"
     RENT = "Rental Cars"
     TEL = "Telecom"
@@ -112,7 +112,7 @@ class Subcategory(Enum):
     PO = "Post Office"
     OAE = "Other Arts and Entertainment"
     RF = "Recreation Facility"
-    ORP = "Other Religious Facility"
+    ORP = "Other Religious Place"
     POL = "Police Station"
     RES = "Resort"
     CA = "Childrens Apparel"

@@ -119,6 +119,8 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
     with open(subcategory_dict_name,"r",encoding="utf-8") as _f:
         data = _f.readlines()[1:]
     _dictionary = [(row.split(",")[0],row.split(",")[1]) for row in data]
+    if _dictionary[0][1] == "":
+        raise AttributeError("The dictionary has not yet been built")
     problems = set([])
     def review(row):
         """Apply this function to compare results
@@ -128,8 +130,8 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
         name_eng = row["name_eng"].lower()
         for elem in sorted(_dictionary,key=lambda x:len(x[0])):
             if elem[0] in name and elem[1].lower() not in name_eng:
-                print(elem[1].lower(),end="\t")
-                print(name_eng)
+                # print(elem[1].lower(),end="\t")
+                # print(name_eng)
                 problems.add(elem[0])
                 return False
         return True
@@ -143,24 +145,36 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
     if len(problems) == 0:
         logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
     else:
-        review_string = ",".join(problems)
-        logging.info("%s %s processed. Found these to be problematic:\n%s",
-            datetime.now(),
-            filename,
-            review_string)
+        # review_string = ",".join(problems)
+        # logging.info("%s %s processed. Found these to be problematic:\n%s",
+        #     datetime.now(),
+        #     filename,
+        #     review_string)
 
         subcategory_report_name = os.path.join(REPORTS_DIR,main_category,filename)
         df_result.to_csv(subcategory_report_name,encoding="utf-8")
-        logging.info("%s\n\tOriginal Length:%s\n\tIncorrect Length:%s\n\tPercentage:%s",
-            subcategory.value,
-            (lendf:=len(df_interest)),
-            (lenres:=len(df_result)),
-            100 * lenres/lendf)
+        # logging.info("%s\n\tOriginal Length:%s\n\tIncorrect Length:%s\n\tPercentage:%s",
+        #     subcategory.value,
+        #     (lendf:=len(df_interest)),
+        #     (lenres:=len(df_result)),
+        #     100 * lenres/lendf)
     return 100 * len(df_result)/len(df_interest)
+
+def process_all(_df: pd.DataFrame):
+    """Process all the subcategories at once
+    and alert if the dictionary is not yet translated.
+    """
+    for _, member in Subcategory.__members__.items():
+        try:
+            process_by_subcategory(_df,member)
+        except AttributeError:
+            logging.warning("%s %s dictionary is not yet built",
+                datetime.now(),
+                member)
 
 if __name__ == "__main__":
     dw = pd.read_csv("dw_poi_all.csv", encoding="utf-8")
     location_dictionary = load_location_dictionary()
     if BUILD_CSV:
         build_all_prep_csvs(dw)
-    print(process_by_subcategory(dw,Subcategory.SUS))
+    process_all(dw)
