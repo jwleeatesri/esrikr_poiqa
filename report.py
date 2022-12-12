@@ -30,7 +30,7 @@ def read_json(category:Category):
     return data
 
 def build_markdown(filepath):
-    with open("".join([filepath,"README.md"]),"w",encoding="utf-8") as f:
+    with open(os.path.join(filepath,"README.md"),"w",encoding="utf-8") as f:
         f.write(r"![image](./report.png)")
 
 def build_individual_plot(data:dict,title:str):
