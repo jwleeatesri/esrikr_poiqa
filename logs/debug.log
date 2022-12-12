@@ -1,0 +1,553 @@
+INFO:root:2022-12-08 12:17:04.956155 /home/ljin/Projects/poiqa/results/Subcategory_Other_Professional_Place.csv created.
+INFO:root:2022-12-08 12:17:06.263442 /home/ljin/Projects/poiqa/results/Subcategory_House.csv created.
+WARNING:root:2022-12-08 12:17:06.270527 The commons list has less than 20 elements.        len(Harbor) = 15
+INFO:root:2022-12-08 12:17:06.270714 /home/ljin/Projects/poiqa/results/Subcategory_Harbor.csv created.
+INFO:root:2022-12-08 12:17:07.391519 /home/ljin/Projects/poiqa/results/Subcategory_Korean_Food.csv created.
+INFO:root:2022-12-08 12:17:07.626772 /home/ljin/Projects/poiqa/results/Subcategory_Coffee_Shop.csv created.
+INFO:root:2022-12-08 12:17:07.660969 /home/ljin/Projects/poiqa/results/Subcategory_Motel.csv created.
+INFO:root:2022-12-08 12:17:09.357983 /home/ljin/Projects/poiqa/results/Subcategory_Business_Facility.csv created.
+INFO:root:2022-12-08 12:17:10.712552 /home/ljin/Projects/poiqa/results/Subcategory_Other_Shops_and_Service.csv created.
+INFO:root:2022-12-08 12:17:10.725967 /home/ljin/Projects/poiqa/results/Subcategory_Market.csv created.
+INFO:root:2022-12-08 12:17:10.790946 /home/ljin/Projects/poiqa/results/Subcategory_Chinese_Food.csv created.
+INFO:root:2022-12-08 12:17:10.827506 /home/ljin/Projects/poiqa/results/Subcategory_Consumer_Electronics_Store.csv created.
+INFO:root:2022-12-08 12:17:10.912408 /home/ljin/Projects/poiqa/results/Subcategory_Electrical.csv created.
+INFO:root:2022-12-08 12:17:11.085889 /home/ljin/Projects/poiqa/results/Subcategory_Parking.csv created.
+INFO:root:2022-12-08 12:17:11.744686 /home/ljin/Projects/poiqa/results/Subcategory_Other_Education.csv created.
+INFO:root:2022-12-08 12:17:11.778890 /home/ljin/Projects/poiqa/results/Subcategory_Nursing_Home.csv created.
+INFO:root:2022-12-08 12:17:12.418739 /home/ljin/Projects/poiqa/results/Subcategory_Building.csv created.
+INFO:root:2022-12-08 12:17:12.440924 /home/ljin/Projects/poiqa/results/Subcategory_Footwear.csv created.
+INFO:root:2022-12-08 12:17:12.609412 /home/ljin/Projects/poiqa/results/Subcategory_Chicken_Restaurant.csv created.
+INFO:root:2022-12-08 12:17:12.617685 /home/ljin/Projects/poiqa/results/Subcategory_Aquarium.csv created.
+INFO:root:2022-12-08 12:17:12.906022 /home/ljin/Projects/poiqa/results/Subcategory_Home_Improvement_Store.csv created.
+INFO:root:2022-12-08 12:17:12.948580 /home/ljin/Projects/poiqa/results/Subcategory_Warehouse.csv created.
+INFO:root:2022-12-08 12:17:13.004053 /home/ljin/Projects/poiqa/results/Subcategory_Bank.csv created.
+INFO:root:2022-12-08 12:17:13.073907 /home/ljin/Projects/poiqa/results/Subcategory_Auto_Parts.csv created.
+INFO:root:2022-12-08 12:17:13.255952 /home/ljin/Projects/poiqa/results/Subcategory_Grocery.csv created.
+INFO:root:2022-12-08 12:17:13.523474 /home/ljin/Projects/poiqa/results/Subcategory_Beauty_Salon.csv created.
+INFO:root:2022-12-08 12:17:13.541482 /home/ljin/Projects/poiqa/results/Subcategory_Orchard.csv created.
+INFO:root:2022-12-08 12:17:13.593573 /home/ljin/Projects/poiqa/results/Subcategory_Bakery.csv created.
+INFO:root:2022-12-08 12:17:13.770054 /home/ljin/Projects/poiqa/results/Subcategory_Auto_Maintenance.csv created.
+INFO:root:2022-12-08 12:17:13.784033 /home/ljin/Projects/poiqa/results/Subcategory_Temple.csv created.
+INFO:root:2022-12-08 12:17:13.883451 /home/ljin/Projects/poiqa/results/Subcategory_Laundry.csv created.
+INFO:root:2022-12-08 12:17:13.954212 /home/ljin/Projects/poiqa/results/Subcategory_Other_Parks_and_Outdoors.csv created.
+INFO:root:2022-12-08 12:17:13.972693 /home/ljin/Projects/poiqa/results/Subcategory_Fire_Station.csv created.
+INFO:root:2022-12-08 12:17:14.032217 /home/ljin/Projects/poiqa/results/Subcategory_Butcher.csv created.
+INFO:root:2022-12-08 12:17:14.073146 /home/ljin/Projects/poiqa/results/Subcategory_Japanese_Food.csv created.
+INFO:root:2022-12-08 12:17:14.189358 /home/ljin/Projects/poiqa/results/Subcategory_Bed_and_Breakfast.csv created.
+INFO:root:2022-12-08 12:17:14.214917 /home/ljin/Projects/poiqa/results/Subcategory_Pet_Store.csv created.
+INFO:root:2022-12-08 12:17:14.351777 /home/ljin/Projects/poiqa/results/Subcategory_Clothing_Store.csv created.
+INFO:root:2022-12-08 12:17:14.364439 /home/ljin/Projects/poiqa/results/Subcategory_Dock.csv created.
+INFO:root:2022-12-08 12:17:14.372031 /home/ljin/Projects/poiqa/results/Subcategory_Port.csv created.
+INFO:root:2022-12-08 12:17:14.424846 /home/ljin/Projects/poiqa/results/Subcategory_School.csv created.
+INFO:root:2022-12-08 12:17:14.474871 /home/ljin/Projects/poiqa/results/Subcategory_Church.csv created.
+INFO:root:2022-12-08 12:17:14.519547 /home/ljin/Projects/poiqa/results/Subcategory_Pizza.csv created.
+INFO:root:2022-12-08 12:17:14.760901 /home/ljin/Projects/poiqa/results/Subcategory_Convenience_Store.csv created.
+WARNING:root:2022-12-08 12:17:14.766844 The commons list has less than 20 elements.        len(Farm) = 5
+INFO:root:2022-12-08 12:17:14.767298 /home/ljin/Projects/poiqa/results/Subcategory_Farm.csv created.
+INFO:root:2022-12-08 12:17:14.786958 /home/ljin/Projects/poiqa/results/Subcategory_Veterinarian.csv created.
+INFO:root:2022-12-08 12:17:14.797015 /home/ljin/Projects/poiqa/results/Subcategory_Sushi.csv created.
+INFO:root:2022-12-08 12:17:14.862918 /home/ljin/Projects/poiqa/results/Subcategory_Mobile_Phone_Shop.csv created.
+INFO:root:2022-12-08 12:17:14.921403 /home/ljin/Projects/poiqa/results/Subcategory_Furniture_Store.csv created.
+INFO:root:2022-12-08 12:17:14.928019 /home/ljin/Projects/poiqa/results/Subcategory_Bridge.csv created.
+WARNING:root:2022-12-08 12:17:14.933859 The commons list has less than 20 elements.        len(Ruin) = 9
+INFO:root:2022-12-08 12:17:14.934294 /home/ljin/Projects/poiqa/results/Subcategory_Ruin.csv created.
+INFO:root:2022-12-08 12:17:14.954487 /home/ljin/Projects/poiqa/results/Subcategory_Spa.csv created.
+INFO:root:2022-12-08 12:17:14.983743 /home/ljin/Projects/poiqa/results/Subcategory_Billiards.csv created.
+INFO:root:2022-12-08 12:17:15.009485 /home/ljin/Projects/poiqa/results/Subcategory_Jewelry.csv created.
+INFO:root:2022-12-08 12:17:15.079873 /home/ljin/Projects/poiqa/results/Subcategory_Repair_Services.csv created.
+INFO:root:2022-12-08 12:17:15.107121 /home/ljin/Projects/poiqa/results/Subcategory_Golf_Course.csv created.
+INFO:root:2022-12-08 12:17:15.145034 /home/ljin/Projects/poiqa/results/Subcategory_Womens_Apparel.csv created.
+INFO:root:2022-12-08 12:17:15.195001 /home/ljin/Projects/poiqa/results/Subcategory_Library.csv created.
+INFO:root:2022-12-08 12:17:15.216043 /home/ljin/Projects/poiqa/results/Subcategory_Car_Wash.csv created.
+INFO:root:2022-12-08 12:17:15.239976 /home/ljin/Projects/poiqa/results/Subcategory_Ice_Cream_Shop.csv created.
+INFO:root:2022-12-08 12:17:15.262989 /home/ljin/Projects/poiqa/results/Subcategory_Hotel.csv created.
+INFO:root:2022-12-08 12:17:15.339305 /home/ljin/Projects/poiqa/results/Subcategory_Dentist.csv created.
+INFO:root:2022-12-08 12:17:15.492704 /home/ljin/Projects/poiqa/results/Subcategory_Hospital.csv created.
+INFO:root:2022-12-08 12:17:15.504870 /home/ljin/Projects/poiqa/results/Subcategory_Pastries.csv created.
+INFO:root:2022-12-08 12:17:15.523923 /home/ljin/Projects/poiqa/results/Subcategory_Bookstore.csv created.
+INFO:root:2022-12-08 12:17:15.539867 /home/ljin/Projects/poiqa/results/Subcategory_American_Food.csv created.
+INFO:root:2022-12-08 12:17:15.556081 /home/ljin/Projects/poiqa/results/Subcategory_Fishing.csv created.
+INFO:root:2022-12-08 12:17:15.574650 /home/ljin/Projects/poiqa/results/Subcategory_Tennis_Court.csv created.
+INFO:root:2022-12-08 12:17:15.582702 /home/ljin/Projects/poiqa/results/Subcategory_Food_and_Beverage_Shop.csv created.
+INFO:root:2022-12-08 12:17:15.597461 /home/ljin/Projects/poiqa/results/Subcategory_Used_Car_Dealership.csv created.
+INFO:root:2022-12-08 12:17:15.608568 /home/ljin/Projects/poiqa/results/Subcategory_Italian_Food.csv created.
+INFO:root:2022-12-08 12:17:15.617462 /home/ljin/Projects/poiqa/results/Subcategory_Bowling_Alley.csv created.
+INFO:root:2022-12-08 12:17:15.630049 /home/ljin/Projects/poiqa/results/Subcategory_Etc.csv created.
+INFO:root:2022-12-08 12:17:15.662004 /home/ljin/Projects/poiqa/results/Subcategory_Sporting_Goods_Store.csv created.
+INFO:root:2022-12-08 12:17:15.672431 /home/ljin/Projects/poiqa/results/Subcategory_Bus_Station.csv created.
+INFO:root:2022-12-08 12:17:15.693380 /home/ljin/Projects/poiqa/results/Subcategory_Scientific_Research.csv created.
+INFO:root:2022-12-08 12:17:15.715218 /home/ljin/Projects/poiqa/results/Subcategory_Burgers.csv created.
+INFO:root:2022-12-08 12:17:15.790729 /home/ljin/Projects/poiqa/results/Subcategory_Gas_Station.csv created.
+INFO:root:2022-12-08 12:17:15.806607 /home/ljin/Projects/poiqa/results/Subcategory_Metro_Station.csv created.
+INFO:root:2022-12-08 12:17:15.838909 /home/ljin/Projects/poiqa/results/Subcategory_Tire_Store.csv created.
+INFO:root:2022-12-08 12:17:15.851501 /home/ljin/Projects/poiqa/results/Subcategory_Basketball.csv created.
+INFO:root:2022-12-08 12:17:15.866461 /home/ljin/Projects/poiqa/results/Subcategory_Mens_Apparel.csv created.
+INFO:root:2022-12-08 12:17:15.896851 /home/ljin/Projects/poiqa/results/Subcategory_Optical.csv created.
+WARNING:root:2022-12-08 12:17:15.902016 The commons list has 0 elements. No file is created for Moteorcycle Shop
+INFO:root:2022-12-08 12:17:15.911310 /home/ljin/Projects/poiqa/results/Subcategory_Vietnamese_Food.csv created.
+INFO:root:2022-12-08 12:17:15.930153 /home/ljin/Projects/poiqa/results/Subcategory_Rental_Cars.csv created.
+INFO:root:2022-12-08 12:17:15.950903 /home/ljin/Projects/poiqa/results/Subcategory_Telecom.csv created.
+INFO:root:2022-12-08 12:17:15.963483 /home/ljin/Projects/poiqa/results/Subcategory_College.csv created.
+INFO:root:2022-12-08 12:17:15.979235 /home/ljin/Projects/poiqa/results/Subcategory_Pharmacy.csv created.
+INFO:root:2022-12-08 12:17:16.028942 /home/ljin/Projects/poiqa/results/Subcategory_Government_Office.csv created.
+INFO:root:2022-12-08 12:17:16.038185 /home/ljin/Projects/poiqa/results/Subcategory_Toy_Store.csv created.
+INFO:root:2022-12-08 12:17:16.051176 /home/ljin/Projects/poiqa/results/Subcategory_Fitness_Center.csv created.
+INFO:root:2022-12-08 12:17:16.060073 /home/ljin/Projects/poiqa/results/Subcategory_Southeast_Asian_Food.csv created.
+INFO:root:2022-12-08 12:17:16.068988 /home/ljin/Projects/poiqa/results/Subcategory_Sandwich_Shop.csv created.
+INFO:root:2022-12-08 12:17:16.080307 /home/ljin/Projects/poiqa/results/Subcategory_Post_Office.csv created.
+INFO:root:2022-12-08 12:17:16.086883 /home/ljin/Projects/poiqa/results/Subcategory_Other_Arts_and_Entertainment.csv created.
+INFO:root:2022-12-08 12:17:16.113913 /home/ljin/Projects/poiqa/results/Subcategory_Recreation_Facility.csv created.
+WARNING:root:2022-12-08 12:17:16.119191 The commons list has 0 elements. No file is created for Other Religious Facility
+INFO:root:2022-12-08 12:17:16.158504 /home/ljin/Projects/poiqa/results/Subcategory_Police_Station.csv created.
+INFO:root:2022-12-08 12:17:16.164411 /home/ljin/Projects/poiqa/results/Subcategory_Resort.csv created.
+INFO:root:2022-12-08 12:17:16.190653 /home/ljin/Projects/poiqa/results/Subcategory_Childrens_Apparel.csv created.
+INFO:root:2022-12-08 12:17:16.197330 /home/ljin/Projects/poiqa/results/Subcategory_Tourist_Attraction.csv created.
+INFO:root:2022-12-08 12:17:16.205842 /home/ljin/Projects/poiqa/results/Subcategory_Banquet_Hall.csv created.
+WARNING:root:2022-12-08 12:17:16.211823 The commons list has less than 20 elements.        len(Tollbooth) = 13
+INFO:root:2022-12-08 12:17:16.212030 /home/ljin/Projects/poiqa/results/Subcategory_Tollbooth.csv created.
+INFO:root:2022-12-08 12:17:16.218784 /home/ljin/Projects/poiqa/results/Subcategory_Department_Store.csv created.
+INFO:root:2022-12-08 12:17:16.230964 /home/ljin/Projects/poiqa/results/Subcategory_Art_Gallery.csv created.
+WARNING:root:2022-12-08 12:17:16.236837 The commons list has less than 20 elements.        len(Amusement Park) = 16
+INFO:root:2022-12-08 12:17:16.237124 /home/ljin/Projects/poiqa/results/Subcategory_Amusement_Park.csv created.
+INFO:root:2022-12-08 12:17:16.244127 /home/ljin/Projects/poiqa/results/Subcategory_Performing_Arts.csv created.
+WARNING:root:2022-12-08 12:17:16.249904 The commons list has less than 20 elements.        len(Wine and Liquor) = 17
+INFO:root:2022-12-08 12:17:16.250252 /home/ljin/Projects/poiqa/results/Subcategory_Wine_and_Liquor.csv created.
+WARNING:root:2022-12-08 12:17:16.255573 The commons list has less than 20 elements.        len(Thai Food) = 15
+INFO:root:2022-12-08 12:17:16.255744 /home/ljin/Projects/poiqa/results/Subcategory_Thai_Food.csv created.
+INFO:root:2022-12-08 12:17:16.273517 /home/ljin/Projects/poiqa/results/Subcategory_Auto_Dealership.csv created.
+INFO:root:2022-12-08 12:17:16.279568 /home/ljin/Projects/poiqa/results/Subcategory_Rest_Area.csv created.
+INFO:root:2022-12-08 12:17:16.290936 /home/ljin/Projects/poiqa/results/Subcategory_Beach.csv created.
+INFO:root:2022-12-08 12:17:16.297355 /home/ljin/Projects/poiqa/results/Subcategory_Fusion_Food.csv created.
+INFO:root:2022-12-08 12:17:16.304743 /home/ljin/Projects/poiqa/results/Subcategory_Office_Supplies_Store.csv created.
+INFO:root:2022-12-08 12:17:16.310694 /home/ljin/Projects/poiqa/results/Subcategory_Ferry.csv created.
+INFO:root:2022-12-08 12:17:16.319200 /home/ljin/Projects/poiqa/results/Subcategory_Soccer.csv created.
+INFO:root:2022-12-08 12:17:16.325085 /home/ljin/Projects/poiqa/results/Subcategory_Steak_House.csv created.
+INFO:root:2022-12-08 12:17:16.332622 /home/ljin/Projects/poiqa/results/Subcategory_Restaurant.csv created.
+INFO:root:2022-12-08 12:17:16.341713 /home/ljin/Projects/poiqa/results/Subcategory_Museum.csv created.
+WARNING:root:2022-12-08 12:17:16.347089 The commons list has less than 20 elements.        len(Court House) = 12
+INFO:root:2022-12-08 12:17:16.347264 /home/ljin/Projects/poiqa/results/Subcategory_Court_House.csv created.
+INFO:root:2022-12-08 12:17:16.354745 /home/ljin/Projects/poiqa/results/Subcategory_Cinema.csv created.
+WARNING:root:2022-12-08 12:17:16.360071 The commons list has less than 20 elements.        len(Turkish Food) = 10
+INFO:root:2022-12-08 12:17:16.360241 /home/ljin/Projects/poiqa/results/Subcategory_Turkish_Food.csv created.
+INFO:root:2022-12-08 12:17:16.365791 /home/ljin/Projects/poiqa/results/Subcategory_Swimming_Pool.csv created.
+INFO:root:2022-12-08 12:17:16.374312 /home/ljin/Projects/poiqa/results/Subcategory_Live_Music.csv created.
+WARNING:root:2022-12-08 12:17:16.379630 The commons list has less than 20 elements.        len(Airport) = 4
+INFO:root:2022-12-08 12:17:16.379819 /home/ljin/Projects/poiqa/results/Subcategory_Airport.csv created.
+WARNING:root:2022-12-08 12:17:16.384898 The commons list has less than 20 elements.        len(Train Station) = 8
+INFO:root:2022-12-08 12:17:16.385148 /home/ljin/Projects/poiqa/results/Subcategory_Train_Station.csv created.
+WARNING:root:2022-12-08 12:17:16.390155 The commons list has less than 20 elements.        len(Radio Station) = 3
+INFO:root:2022-12-08 12:17:16.390329 /home/ljin/Projects/poiqa/results/Subcategory_Radio_Station.csv created.
+WARNING:root:2022-12-08 12:17:16.395233 The commons list has less than 20 elements.        len(Ice Skating Rink) = 5
+INFO:root:2022-12-08 12:17:16.395375 /home/ljin/Projects/poiqa/results/Subcategory_Ice_Skating_Rink.csv created.
+INFO:root:2022-12-08 12:17:16.401859 /home/ljin/Projects/poiqa/results/Subcategory_Candy_Store.csv created.
+WARNING:root:2022-12-08 12:17:16.407650 The commons list has less than 20 elements.        len(Highway Exit) = 10
+INFO:root:2022-12-08 12:17:16.407893 /home/ljin/Projects/poiqa/results/Subcategory_Highway_Exit.csv created.
+INFO:root:2022-12-08 12:17:16.414381 /home/ljin/Projects/poiqa/results/Subcategory_Industrial_Zone.csv created.
+WARNING:root:2022-12-08 12:17:16.419795 The commons list has less than 20 elements.        len(Science Museum) = 10
+INFO:root:2022-12-08 12:17:16.420086 /home/ljin/Projects/poiqa/results/Subcategory_Science_Museum.csv created.
+WARNING:root:2022-12-08 12:17:16.424904 The commons list has less than 20 elements.        len(Taxi) = 3
+INFO:root:2022-12-08 12:17:16.425061 /home/ljin/Projects/poiqa/results/Subcategory_Taxi.csv created.
+INFO:root:2022-12-08 12:17:16.431230 /home/ljin/Projects/poiqa/results/Subcategory_History_Museum.csv created.
+WARNING:root:2022-12-08 12:17:16.436648 The commons list has less than 20 elements.        len(Hot Spring) = 7
+INFO:root:2022-12-08 12:17:16.437166 /home/ljin/Projects/poiqa/results/Subcategory_Hot_Spring.csv created.
+WARNING:root:2022-12-08 12:17:16.442527 The commons list has less than 20 elements.        len(Hostel) = 11
+INFO:root:2022-12-08 12:17:16.442711 /home/ljin/Projects/poiqa/results/Subcategory_Hostel.csv created.
+WARNING:root:2022-12-08 12:17:16.447845 The commons list has less than 20 elements.        len(Mexican Food) = 7
+INFO:root:2022-12-08 12:17:16.448006 /home/ljin/Projects/poiqa/results/Subcategory_Mexican_Food.csv created.
+WARNING:root:2022-12-08 12:17:16.454558 The commons list has less than 20 elements.        len(Cargo Center) = 11
+INFO:root:2022-12-08 12:17:16.454822 /home/ljin/Projects/poiqa/results/Subcategory_Cargo_Center.csv created.
+WARNING:root:2022-12-08 12:17:16.459878 The commons list has less than 20 elements.        len(Seafood) = 7
+INFO:root:2022-12-08 12:17:16.460071 /home/ljin/Projects/poiqa/results/Subcategory_Seafood.csv created.
+WARNING:root:2022-12-08 12:17:16.464984 The commons list has less than 20 elements.        len(Shrine) = 6
+INFO:root:2022-12-08 12:17:16.465117 /home/ljin/Projects/poiqa/results/Subcategory_Shrine.csv created.
+WARNING:root:2022-12-08 12:17:16.471009 The commons list has less than 20 elements.        len(Shooting Range) = 17
+INFO:root:2022-12-08 12:17:16.471272 /home/ljin/Projects/poiqa/results/Subcategory_Shooting_Range.csv created.
+WARNING:root:2022-12-08 12:17:16.476321 The commons list has less than 20 elements.        len(Embassy) = 5
+INFO:root:2022-12-08 12:17:16.476519 /home/ljin/Projects/poiqa/results/Subcategory_Embassy.csv created.
+WARNING:root:2022-12-08 12:17:16.481647 The commons list has less than 20 elements.        len(French Food) = 5
+INFO:root:2022-12-08 12:17:16.481865 /home/ljin/Projects/poiqa/results/Subcategory_French_Food.csv created.
+WARNING:root:2022-12-08 12:17:16.487150 The commons list has less than 20 elements.        len(Tunnel) = 2
+INFO:root:2022-12-08 12:17:16.487436 /home/ljin/Projects/poiqa/results/Subcategory_Tunnel.csv created.
+WARNING:root:2022-12-08 12:17:16.492812 The commons list has less than 20 elements.        len(Observatory) = 10
+INFO:root:2022-12-08 12:17:16.493001 /home/ljin/Projects/poiqa/results/Subcategory_Observatory.csv created.
+WARNING:root:2022-12-08 12:17:16.497894 The commons list has less than 20 elements.        len(Water Treatment) = 3
+INFO:root:2022-12-08 12:17:16.498109 /home/ljin/Projects/poiqa/results/Subcategory_Water_Treatment.csv created.
+WARNING:root:2022-12-08 12:17:16.503205 The commons list has less than 20 elements.        len(Spanish Food) = 2
+INFO:root:2022-12-08 12:17:16.503499 /home/ljin/Projects/poiqa/results/Subcategory_Spanish_Food.csv created.
+WARNING:root:2022-12-08 12:17:16.508452 The commons list has less than 20 elements.        len(Zoo) = 3
+INFO:root:2022-12-08 12:17:16.508658 /home/ljin/Projects/poiqa/results/Subcategory_Zoo.csv created.
+WARNING:root:2022-12-08 12:17:16.513662 The commons list has less than 20 elements.        len(Scenic Overlook) = 3
+INFO:root:2022-12-08 12:17:16.513906 /home/ljin/Projects/poiqa/results/Subcategory_Scenic_Overlook.csv created.
+INFO:root:2022-12-08 12:17:16.513962 Built all prep csvs
+INFO:root:2022-12-08 14:28:05.941853 Subcategory_Bank.csv processed. Found these to be problematic:
+출장소,새마을금고,인천,기업은행,본점,금융,남동,지점,센터,공단,주안
+INFO:root:Bank
+	Original Length:147466
+	Incorrect Length:210
+	Percentage:0.14240570707824177
+INFO:root:2022-12-08 14:29:04.467891 Subcategory_Airport.csv processed. Found these to be problematic:
+
+INFO:root:Airport
+	Original Length:147466
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-08 14:29:49.713295 Subcategory_Basketball.csv processed. Found these to be problematic:
+한화,농구장,단지,타운
+INFO:root:Basketball
+	Original Length:147466
+	Incorrect Length:11
+	Percentage:0.007459346561241235
+INFO:root:2022-12-08 14:31:18.903058 Subcategory_Motel.csv processed. Found these to be problematic:
+파크,랜드,테마,호텔,스테이,인천,모텔
+INFO:root:Motel
+	Original Length:147466
+	Incorrect Length:103
+	Percentage:0.06984660870980429
+INFO:root:2022-12-08 14:33:24.235446 Subcategory_Motel.csv processed. Found these to be problematic:
+스테이,호텔,랜드,인천,테마
+INFO:root:Motel
+	Original Length:147466
+	Incorrect Length:14
+	Percentage:0.009493713805216117
+INFO:root:2022-12-08 14:36:19.674217 Subcategory_Motel.csv processed. Found these to be problematic:
+스테이,호텔,랜드,인천
+INFO:root:Motel
+	Original Length:147466
+	Incorrect Length:9
+	Percentage:0.006103101731924647
+INFO:root:2022-12-08 14:37:36.424634 Subcategory_Motel.csv processed. Found these to be problematic:
+인천,스테이,호텔
+INFO:root:Motel
+	Original Length:147466
+	Incorrect Length:3
+	Percentage:0.0020343672439748824
+INFO:root:2022-12-08 14:40:09.478081 Subcategory_Pizza.csv processed. Found these to be problematic:
+구월,인천,피자,피자헛,연수
+INFO:root:Pizza
+	Original Length:147466
+	Incorrect Length:26
+	Percentage:0.017631182781115647
+INFO:root:2022-12-08 14:41:36.988589 Subcategory_Pizza.csv processed. Found these to be problematic:
+연수,인천,피자,구월
+INFO:root:Pizza
+	Original Length:147466
+	Incorrect Length:10
+	Percentage:0.006781224146582941
+INFO:root:2022-12-08 14:57:23.582357 Subcategory_Car_Wash.csv processed. Found these to be problematic:
+세차,스팀,자동차
+INFO:root:Car Wash
+	Original Length:147466
+	Incorrect Length:16
+	Percentage:0.010849958634532706
+INFO:root:2022-12-08 14:58:32.216305 Subcategory_Car_Wash.csv processed. Found these to be problematic:
+세차,자동차,스팀
+INFO:root:Car Wash
+	Original Length:147466
+	Incorrect Length:6
+	Percentage:0.004068734487949765
+INFO:root:2022-12-08 15:06:29.685945 Subcategory_School.csv processed. Found these to be problematic:
+인천,중학교,국제학교
+INFO:root:School
+	Original Length:147466
+	Incorrect Length:7
+	Percentage:0.004746856902608058
+INFO:root:2022-12-08 15:07:24.143555 Subcategory_School.csv processed. Found these to be problematic:
+중학교,인천
+INFO:root:School
+	Original Length:147466
+	Incorrect Length:3
+	Percentage:0.0020343672439748824
+INFO:root:2022-12-08 15:09:58.574207 Subcategory_Restaurant.csv processed. Found these to be problematic:
+스테이크하우스
+INFO:root:Restaurant
+	Original Length:147466
+	Incorrect Length:7
+	Percentage:0.004746856902608058
+INFO:root:2022-12-08 15:10:28.513529 Subcategory_Restaurant.csv processed. Found these to be problematic:
+
+INFO:root:Restaurant
+	Original Length:147466
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-08 15:12:34.271996 Subcategory_Womens_Apparel.csv processed. Found these to be problematic:
+롯데백화점
+INFO:root:Womens Apparel
+	Original Length:147466
+	Incorrect Length:58
+	Percentage:0.03933110005018106
+INFO:root:2022-12-08 15:12:45.465475 Subcategory_Womens_Apparel.csv processed. Found these to be problematic:
+
+INFO:root:Womens Apparel
+	Original Length:147466
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-08 15:14:52.537280 Subcategory_Tire_Store.csv processed. Found these to be problematic:
+타이어,한국타이어,인천,자동차
+INFO:root:Tire Store
+	Original Length:147466
+	Incorrect Length:19
+	Percentage:0.012884325878507588
+INFO:root:2022-12-08 15:17:56.021725 Subcategory_Parking.csv processed. Found these to be problematic:
+인천,병원,공영,센터,교회,주차장,주안
+INFO:root:Parking
+	Original Length:147466
+	Incorrect Length:152
+	Percentage:0.1030746070280607
+INFO:root:2022-12-09 10:47:13.463431 Subcategory_Korean_Food.csv processed. Found these to be problematic:
+족발,본점,인천,갈비,칼국수,분식,김밥,곱창,떡볶이,부평,식당,순대
+INFO:root:Korean Food
+	Original Length:147466
+	Incorrect Length:1581
+	Percentage:1.072111537574763
+INFO:root:2022-12-09 10:48:50.401257 Subcategory_Korean_Food.csv processed. Found these to be problematic:
+부평,분식,본점,김밥,떡볶이,칼국수,순대,식당,족발,인천,곱창,갈비
+INFO:root:Korean Food
+	Original Length:10181
+	Incorrect Length:1581
+	Percentage:15.528926431588253
+INFO:root:2022-12-09 10:55:23.709910 Subcategory_Vietnamese_Food.csv processed. Found these to be problematic:
+메인,쌀국수
+INFO:root:Vietnamese Food
+	Original Length:33
+	Incorrect Length:8
+	Percentage:24.242424242424242
+INFO:root:2022-12-09 10:59:38.657320 Subcategory_Tire_Store.csv processed. Found these to be problematic:
+자동차,한국타이어,타이어,인천
+INFO:root:Tire Store
+	Original Length:255
+	Incorrect Length:19
+	Percentage:7.450980392156863
+INFO:root:2022-12-09 11:04:59.037199 Subcategory_Tunnel.csv processed. Found these to be problematic:
+터널
+INFO:root:Tunnel
+	Original Length:1
+	Incorrect Length:1
+	Percentage:100.0
+INFO:root:2022-12-09 11:05:16.906014 Subcategory_Tunnel.csv processed. Found these to be problematic:
+터널
+INFO:root:Tunnel
+	Original Length:1
+	Incorrect Length:1
+	Percentage:100.0
+INFO:root:2022-12-09 11:07:04.419459 Subcategory_Burgers.csv processed. Found these to be problematic:
+구월,맥도날드,인천,송도
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:23
+	Percentage:13.529411764705882
+INFO:root:2022-12-09 11:08:49.299294 Subcategory_Burgers.csv processed. Found these to be problematic:
+구월,송도,맥도날드,인천
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:5
+	Percentage:2.9411764705882355
+INFO:root:2022-12-09 11:09:08.973856 Subcategory_Burgers.csv processed. Found these to be problematic:
+맥도날드,송도,구월,인천
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:23
+	Percentage:13.529411764705882
+INFO:root:2022-12-09 11:09:35.498862 Subcategory_Burgers.csv processed. Found these to be problematic:
+송도,맥도날드,구월,인천
+INFO:root:Burgers
+	Original Length:170
+	Incorrect Length:5
+	Percentage:2.9411764705882355
+INFO:root:2022-12-09 11:11:55.003788 Subcategory_Southeast_Asian_Food.csv processed. Found these to be problematic:
+오리,마라탕,인천,쌀국수
+INFO:root:Southeast Asian Food
+	Original Length:41
+	Incorrect Length:7
+	Percentage:17.073170731707318
+INFO:root:2022-12-09 11:15:42.932749 Subcategory_Convenience_Store.csv processed. Found these to be problematic:
+구월,미니스톱,주안,인천,연수,이마트,영종
+INFO:root:Convenience Store
+	Original Length:2150
+	Incorrect Length:232
+	Percentage:10.790697674418604
+INFO:root:2022-12-09 11:16:35.156770 Subcategory_Convenience_Store.csv processed. Found these to be problematic:
+영종,미니스톱,구월,연수,이마트,인천,주안
+INFO:root:Convenience Store
+	Original Length:2150
+	Incorrect Length:116
+	Percentage:5.395348837209302
+INFO:root:2022-12-09 11:23:23.384700 Subcategory_Bus_Station.csv processed. Found these to be problematic:
+마을,환승,센터,정류장
+INFO:root:Bus Station
+	Original Length:70
+	Incorrect Length:16
+	Percentage:22.857142857142858
+INFO:root:2022-12-09 11:28:43.301794 Subcategory_Bus_Station.csv processed. Found these to be problematic:
+센터,환승,정류장
+INFO:root:Bus Station
+	Original Length:70
+	Incorrect Length:12
+	Percentage:17.142857142857142
+INFO:root:2022-12-09 11:31:32.461293 Subcategory_Cinema.csv processed. Found these to be problematic:
+영화,연수,메가박스
+INFO:root:Cinema
+	Original Length:27
+	Incorrect Length:3
+	Percentage:11.11111111111111
+INFO:root:2022-12-09 11:42:25.489605 Subcategory_Coffee_Shop.csv processed. Found these to be problematic:
+구월,인천,다방,카페,커피
+INFO:root:Coffee Shop
+	Original Length:2659
+	Incorrect Length:194
+	Percentage:7.295975930801053
+INFO:root:2022-12-09 11:46:42.455384 Subcategory_Korean_Food.csv processed. Found these to be problematic:
+갈비,분식,인천,본점,순대,김밥,족발,떡볶이,곱창,식당,칼국수,부평
+INFO:root:Korean Food
+	Original Length:10181
+	Incorrect Length:1581
+	Percentage:15.528926431588253
+INFO:root:2022-12-09 11:52:33.082666 Subcategory_Grocery.csv processed. Found these to be problematic:
+유통,매점,상회,현대,할인,슈퍼,인천,농협,마트
+INFO:root:Grocery
+	Original Length:1747
+	Incorrect Length:443
+	Percentage:25.357756153405838
+INFO:root:2022-12-09 11:56:35.789091 Subcategory_Furniture_Store.csv processed. Found these to be problematic:
+인천,동서,부평,전시장,가구
+INFO:root:Furniture Store
+	Original Length:614
+	Incorrect Length:16
+	Percentage:2.6058631921824102
+INFO:root:2022-12-09 11:59:37.515760 Subcategory_Italian_Food.csv processed. Found these to be problematic:
+나폴리,비스트
+INFO:root:Italian Food
+	Original Length:64
+	Incorrect Length:7
+	Percentage:10.9375
+INFO:root:2022-12-09 12:00:45.906221 Subcategory_Italian_Food.csv processed. Found these to be problematic:
+비스트로,나폴리
+INFO:root:Italian Food
+	Original Length:64
+	Incorrect Length:2
+	Percentage:3.125
+INFO:root:2022-12-09 12:02:53.046732 Subcategory_Ice_Cream_Shop.csv processed. Found these to be problematic:
+구월,홈플러스,인천,배스킨라빈스
+INFO:root:Ice Cream Shop
+	Original Length:146
+	Incorrect Length:105
+	Percentage:71.91780821917808
+INFO:root:2022-12-09 12:10:08.165429 Subcategory_Metro_Station.csv processed. Found these to be problematic:
+원인재역,철도
+INFO:root:Metro Station
+	Original Length:91
+	Incorrect Length:7
+	Percentage:7.6923076923076925
+INFO:root:2022-12-09 12:10:46.168094 Subcategory_Metro_Station.csv processed. Found these to be problematic:
+원인재역,자기부상
+INFO:root:Metro Station
+	Original Length:91
+	Incorrect Length:7
+	Percentage:7.6923076923076925
+INFO:root:2022-12-09 12:11:10.835405 Subcategory_Metro_Station.csv processed. Found these to be problematic:
+원인재역
+INFO:root:Metro Station
+	Original Length:91
+	Incorrect Length:1
+	Percentage:1.098901098901099
+INFO:root:2022-12-09 12:14:10.337964 Subcategory_College.csv processed. Found these to be problematic:
+인천대학교,신학,전문대학,대학
+INFO:root:College
+	Original Length:57
+	Incorrect Length:9
+	Percentage:15.789473684210526
+INFO:root:2022-12-09 12:17:30.882434 Subcategory_College.csv processed. Found these to be problematic:
+전문대학,인천대학교,대학,신학
+INFO:root:College
+	Original Length:57
+	Incorrect Length:14
+	Percentage:24.56140350877193
+INFO:root:2022-12-09 12:36:57.827403 Subcategory_Toy_Store.csv processed. Found these to be problematic:
+매니아,프라모델
+INFO:root:Toy Store
+	Original Length:50
+	Incorrect Length:2
+	Percentage:4.0
+INFO:root:2022-12-12 08:30:13.539686 Subcategory_Toy_Store.csv processed. Found these to be problematic:
+프라모델,매니아
+INFO:root:Toy Store
+	Original Length:50
+	Incorrect Length:2
+	Percentage:4.0
+INFO:root:2022-12-12 08:30:29.131853 Subcategory_Japanese_Food.csv processed. Found these to be problematic:
+우동,연어,샤브샤브,인천,일식,구월,초밥,돈가스,부평,본점
+INFO:root:Japanese Food
+	Original Length:402
+	Incorrect Length:53
+	Percentage:13.18407960199005
+INFO:root:2022-12-12 08:37:59.874962 Subcategory_Japanese_Food.csv processed. Found these to be problematic:
+구월,우동,인천,돈가스,일식,연어,샤브샤브,초밥,부평,본점
+INFO:root:Japanese Food
+	Original Length:402
+	Incorrect Length:47
+	Percentage:11.691542288557214
+INFO:root:2022-12-12 08:43:15.517472 Subcategory_Laundry.csv processed. Found these to be problematic:
+수선,운동화,세탁소,세탁,현대
+INFO:root:Laundry
+	Original Length:1067
+	Incorrect Length:350
+	Percentage:32.802249297094654
+INFO:root:2022-12-12 08:44:16.282739 Subcategory_Laundry.csv processed. Found these to be problematic:
+현대,세탁,운동화,수선,세탁소
+INFO:root:Laundry
+	Original Length:1067
+	Incorrect Length:343
+	Percentage:32.146204311152765
+INFO:root:2022-12-12 08:50:25.199714 Subcategory_Ice_Skating_Rink.csv processed. Found these to be problematic:
+야외
+INFO:root:Ice Skating Rink
+	Original Length:1
+	Incorrect Length:1
+	Percentage:100.0
+INFO:root:2022-12-12 08:50:43.499865 Subcategory_Ice_Skating_Rink.csv processed. Found these to be problematic:
+
+INFO:root:Ice Skating Rink
+	Original Length:1
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-12 08:51:54.917467 Subcategory_Train_Station.csv processed. Found these to be problematic:
+화물
+INFO:root:Train Station
+	Original Length:2
+	Incorrect Length:1
+	Percentage:50.0
+INFO:root:2022-12-12 08:52:52.375895 Subcategory_Train_Station.csv processed. Found these to be problematic:
+
+INFO:root:Train Station
+	Original Length:2
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-12 08:54:12.260584 Subcategory_Turkish_Food.csv processed. Found these to be problematic:
+
+INFO:root:Turkish Food
+	Original Length:6
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-12 08:58:17.062592 Subcategory_Turkish_Food.csv processed. Found these to be problematic:
+
+INFO:root:Turkish Food
+	Original Length:6
+	Incorrect Length:0
+	Percentage:0.0
+INFO:root:2022-12-12 08:58:34.297588 Subcategory_Tourist_Attraction.csv processed. Found these to be problematic:
+유원지,광장,상트페테르부르크
+INFO:root:Tourist Attraction
+	Original Length:20
+	Incorrect Length:8
+	Percentage:40.0
+INFO:root:2022-12-12 08:59:47.811397 Subcategory_Tourist_Attraction.csv processed. Found these to be problematic:
+유원지,광장,하늘
+INFO:root:Tourist Attraction
+	Original Length:20
+	Incorrect Length:7
+	Percentage:35.0
+INFO:root:2022-12-12 09:05:34.690047 Subcategory_Sushi.csv processed. Found these to be problematic:
+초밥,궁기,유진
+INFO:root:Sushi
+	Original Length:72
+	Incorrect Length:5
+	Percentage:6.944444444444445
