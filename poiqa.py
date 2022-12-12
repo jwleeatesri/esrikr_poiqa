@@ -14,7 +14,7 @@ from konlpy.tag import Komoran
 from settings import BUILD_CSV
 from enums import Category, Subcategory
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 # start komoran
 komoran = Komoran()
@@ -110,6 +110,23 @@ def load_location_dictionary() -> dict:
         data = json.loads(_f.read())
     return data
 
+def update_json(category:str,
+                subcategory:Subcategory,
+                correct:int,
+                incorrect:int):
+    """Use the given values to update the json file"""
+    update_path = os.path.join(REPORTS_DIR, category,"report.json")
+    with open(update_path, "r", encoding="utf-8") as f:
+        data:dict = json.load(f)
+        data[subcategory.value]["incorrect"] = incorrect
+        data[subcategory.value]["correct"] = correct
+    result_json = json.dumps(data)
+    with open(update_path, "w", encoding="utf-8") as p:
+        print("Im in!")
+        p.write(result_json)
+        print("Im out!")
+
+
 def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float:
     """Read df and reviews the categories
     :param _df DataFrame: source dataframe (this dataframe is the entire dataset)
@@ -135,29 +152,20 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
                 problems.add(elem[0])
                 return False
         return True
-    df_interest = _df.loc[_df["subcategory"] == subcategory.value]
+    df_interest = _df.loc[_df["subcategory"] == subcategory.value].copy()
     df_interest.loc[:,"result"] = df_interest.apply(review,axis=1)
     df_result = df_interest.loc[df_interest["result"] == False] # deprecated?
     main_category = df_interest["category"].iloc[0]
-    print(main_category)
-
     # if no problem, no file
     if len(problems) == 0:
         logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
+        update_json(main_category,subcategory,len(df_interest),0) 
+        print(f"YAY {subcategory.value} 0 probs")
     else:
-        # review_string = ",".join(problems)
-        # logging.info("%s %s processed. Found these to be problematic:\n%s",
-        #     datetime.now(),
-        #     filename,
-        #     review_string)
-
         subcategory_report_name = os.path.join(REPORTS_DIR,main_category,filename)
         df_result.to_csv(subcategory_report_name,encoding="utf-8")
-        # logging.info("%s\n\tOriginal Length:%s\n\tIncorrect Length:%s\n\tPercentage:%s",
-        #     subcategory.value,
-        #     (lendf:=len(df_interest)),
-        #     (lenres:=len(df_result)),
-        #     100 * lenres/lendf)
+        update_json(main_category,subcategory,len(df_interest) - len(df_result),len(df_result))
+        print(f"YAY {subcategory.value} probs")
     return 100 * len(df_result)/len(df_interest)
 
 def process_all(_df: pd.DataFrame):
@@ -168,9 +176,10 @@ def process_all(_df: pd.DataFrame):
         try:
             process_by_subcategory(_df,member)
         except AttributeError:
-            logging.warning("%s %s dictionary is not yet built",
-                datetime.now(),
-                member)
+            # logging.warning("%s %s dictionary is not yet built",
+            #     datetime.now(),
+            #     member.value)
+            pass
 
 if __name__ == "__main__":
     dw = pd.read_csv("dw_poi_all.csv", encoding="utf-8")

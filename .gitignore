@@ -3,6 +3,4 @@
 prepare/
 dw_poi_all.csv
 *.ipynb
-randomtest.py
 region_db.py
-process.md
