@@ -35,19 +35,24 @@ def build_markdown(filepath):
 
 def build_individual_plot(data:dict,title:str):
     report_dict = dict.fromkeys(data.keys(),0)
-    report_dict["Correct"] = 0
+    # report_dict["Correct"] = 0
     fig,ax = plt.subplots()
     for k,v in data.items():
         try:
-            report_dict["Correct"] += v["correct"]
+            # report_dict["Correct"] += v["correct"]
             report_dict[k] += v["incorrect"]
         except TypeError:
             pass
     try:
         filepath = os.path.join(BASE_REPORT_PATH,title,"report")
         for_md = os.path.join(BASE_REPORT_PATH,title)
-        ax.pie(report_dict.values(),labels=report_dict.keys())
+        axes = sorted([(k,v) for k,v in report_dict.items()], key=lambda x:x[1])
+        x_axis = [elem[1] for elem in axes]
+        y_axis = [elem[0] for elem in axes]
+        ax.barh(y_axis,x_axis)
         ax.set_title(title)
+        ax.set_ylabel("Subcategory")
+        ax.set_xlabel("Count")
         fig.savefig(filepath)
         plt.close(fig)
         build_markdown(for_md)
