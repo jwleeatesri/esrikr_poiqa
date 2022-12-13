@@ -1,3 +1,3 @@
-,name,name_eng,problems,category,subcategory
-76643,로이스타코,Roy Starco,"('타코', 'Taco')",Food,Mexican Food
-107584,백본타코,backbone pub,"('타코', 'Taco')",Food,Mexican Food
+,name,name_eng,problems
+76643,로이스타코,Roy Starco,"[('타코', 'Taco')]"
+107584,백본타코,backbone pub,"[('타코', 'Taco')]"

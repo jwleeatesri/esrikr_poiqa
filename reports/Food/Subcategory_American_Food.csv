@@ -1,32 +1,22 @@
-,name,name_eng,problems,category,subcategory
-3420,청춘감성쌀핫도그 청운대점,Youth Emotional Rice Hot Dog Cheongundae Branch,"('감성', 'Gamsung')",Food,American Food
-11675,뉴욕핫도그앤커피 구월점,New York Hot Dog and Coffee Guwol,"('핫도그', 'Hotdog')",Food,American Food
-13590,명랑핫도그 간석역점,Myeongnang Hot Dog Ganseok Station Branch,"('명랑', 'Myungrang')",Food,American Food
-38872,명랑핫도그 인천논현점,Myeongrang Hot Dog Incheon Nonhyeon Branch,"('명랑', 'Myungrang')",Food,American Food
-40581,팔팔핫도그,Palpal hot dog,"('핫도그', 'Hotdog')",Food,American Food
-48250,명랑핫도그 인천서창점,Myeongrang Hot Dog Incheon Seochang Branch,"('명랑', 'Myungrang')",Food,American Food
-52857,시빌라핫도그 인천문학경기장점,Sybila Hot Dog Incheon Munhak Stadium,"('핫도그', 'Hotdog')",Food,American Food
-58486,엑스오엑스오핫도그앤커피,XOXO Hot Dog & Coffee,"('핫도그', 'Hotdog')",Food,American Food
-65696,명랑핫도그 인천가좌점,Myeongrang Hot Dog Incheon Gajwa,"('명랑', 'Myungrang')",Food,American Food
-82331,핫도그고,hot dog,"('핫도그', 'Hotdog')",Food,American Food
-83989,명랑핫도그 모래내역점,Myeongnang Hot Dog Sandaenae Branch,"('명랑', 'Myungrang')",Food,American Food
-85386,선식당 스퀘어원점,Sun's Sikdang Square One,"('식당', 'Restaurant')",Food,American Food
-95298,명랑핫도그 영종하늘도시점,Myeongnang Hot Dog Yeongjong Sky City Branch,"('명랑', 'Myungrang')",Food,American Food
-97830,명랑핫도그 부평점,Myeongnang Hot Dog Bupyeong,"('명랑', 'Myungrang')",Food,American Food
-107349,쏘자핫도그 송도점,Soja Hot Dog Songdo Branch,"('핫도그', 'Hotdog')",Food,American Food
-107965,스웽키핫도그,Swanky Hot Dog,"('핫도그', 'Hotdog')",Food,American Food
-111469,명랑핫도그 송현점,Myeongrang Hot Dog Songhyeon Branch,"('명랑', 'Myungrang')",Food,American Food
-114355,명랑핫도그 임학역점,Myeongrang Hot Dog Imhak Station Branch,"('명랑', 'Myungrang')",Food,American Food
-114597,스테프핫도그 부평CGV점,Stef Hot Dog Bupyeong CGV,"('핫도그', 'Hotdog')",Food,American Food
-116690,명랑핫도그 인천도화점,Myeongrang Hot Dog Incheon Dohwa Branch,"('명랑', 'Myungrang')",Food,American Food
-116740,명랑핫도그 구월선수촌점,Myeongnang Hot Dog Guwol Sports Village,"('명랑', 'Myungrang')",Food,American Food
-117019,청춘감성쌀핫도그 인천구월점,Youth Emotional Rice Hot Dog Incheon Guwol Branch,"('감성', 'Gamsung')",Food,American Food
-122844,명랑핫도그 송도캠퍼스타운점,Myeongnang Hot Dog Songdo Campus Town Branch,"('명랑', 'Myungrang')",Food,American Food
-130373,명랑핫도그 산곡점,Myeongrang Hot Dog Sangok Branch,"('명랑', 'Myungrang')",Food,American Food
-130816,추억82꽈배기핫도그인천신현점,"Memories 82 Twist Hot Dog Sinhyeon, Incheon","('핫도그', 'Hotdog')",Food,American Food
-138701,명랑핫도그 인천신현점,Myeongnang Hot Dog Incheon Sinhyeon Branch,"('명랑', 'Myungrang')",Food,American Food
-142695,스테프핫도그 홈플러스 송도점,Steph Hot Dog Homeplus Songdo Branch,"('핫도그', 'Hotdog')",Food,American Food
-142918,명랑핫도그 인천만수점,Myeongnang Hot Dog Incheon Bay Branch,"('명랑', 'Myungrang')",Food,American Food
-143706,명랑핫도그 주안공단점,Myeongnang Hot Dog Juan Industrial Complex,"('명랑', 'Myungrang')",Food,American Food
-144262,청춘감성쌀핫도그 송도 트리플스트리트점,Youth Emotional Rice Hot Dog Songdo Triple Street,"('감성', 'Gamsung')",Food,American Food
-146388,명랑핫도그 인천송도점,Myeongrang Hot Dog Incheon Songdo Branch,"('명랑', 'Myungrang')",Food,American Food
+,name,name_eng,problems
+3420,청춘감성쌀핫도그 청운대점,Youth Emotional Rice Hot Dog Cheongundae Branch,"[('감성', 'Gamsung'), ('청춘감성', 'Chungchun')]"
+13590,명랑핫도그 간석역점,Myeongnang Hot Dog Ganseok Station Branch,"[('명랑', 'Myungrang')]"
+38872,명랑핫도그 인천논현점,Myeongrang Hot Dog Incheon Nonhyeon Branch,"[('명랑', 'Myungrang')]"
+48250,명랑핫도그 인천서창점,Myeongrang Hot Dog Incheon Seochang Branch,"[('명랑', 'Myungrang')]"
+65696,명랑핫도그 인천가좌점,Myeongrang Hot Dog Incheon Gajwa,"[('명랑', 'Myungrang')]"
+83989,명랑핫도그 모래내역점,Myeongnang Hot Dog Sandaenae Branch,"[('명랑', 'Myungrang')]"
+85386,선식당 스퀘어원점,Sun's Sikdang Square One,"[('식당', 'Restaurant')]"
+95298,명랑핫도그 영종하늘도시점,Myeongnang Hot Dog Yeongjong Sky City Branch,"[('명랑', 'Myungrang')]"
+97830,명랑핫도그 부평점,Myeongnang Hot Dog Bupyeong,"[('명랑', 'Myungrang')]"
+111469,명랑핫도그 송현점,Myeongrang Hot Dog Songhyeon Branch,"[('명랑', 'Myungrang')]"
+114355,명랑핫도그 임학역점,Myeongrang Hot Dog Imhak Station Branch,"[('명랑', 'Myungrang')]"
+116690,명랑핫도그 인천도화점,Myeongrang Hot Dog Incheon Dohwa Branch,"[('명랑', 'Myungrang')]"
+116740,명랑핫도그 구월선수촌점,Myeongnang Hot Dog Guwol Sports Village,"[('명랑', 'Myungrang')]"
+117019,청춘감성쌀핫도그 인천구월점,Youth Emotional Rice Hot Dog Incheon Guwol Branch,"[('감성', 'Gamsung'), ('청춘감성', 'Chungchun')]"
+122844,명랑핫도그 송도캠퍼스타운점,Myeongnang Hot Dog Songdo Campus Town Branch,"[('명랑', 'Myungrang')]"
+130373,명랑핫도그 산곡점,Myeongrang Hot Dog Sangok Branch,"[('명랑', 'Myungrang')]"
+138701,명랑핫도그 인천신현점,Myeongnang Hot Dog Incheon Sinhyeon Branch,"[('명랑', 'Myungrang')]"
+142918,명랑핫도그 인천만수점,Myeongnang Hot Dog Incheon Bay Branch,"[('명랑', 'Myungrang')]"
+143706,명랑핫도그 주안공단점,Myeongnang Hot Dog Juan Industrial Complex,"[('명랑', 'Myungrang')]"
+144262,청춘감성쌀핫도그 송도 트리플스트리트점,Youth Emotional Rice Hot Dog Songdo Triple Street,"[('감성', 'Gamsung'), ('청춘감성', 'Chungchun')]"
+146388,명랑핫도그 인천송도점,Myeongrang Hot Dog Incheon Songdo Branch,"[('명랑', 'Myungrang')]"

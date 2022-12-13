@@ -1,36 +1,36 @@
-,name,name_eng,problems,category,subcategory
-2151,한우동 아울렛점,Hanwoo Dong Outlet Store,"('우동', 'Udon')",Food,Japanese Food
-4095,용우동 인천계양구청점,Yongwoo-dong Incheon Gyeyang-gu Office Branch,"('우동', 'Udon')",Food,Japanese Food
-11691,육회왕자연어공주 인천계산점,King Yukhoe Natural Language Princess Incheon Gyesan Branch,"('연어', 'Salmon')",Food,Japanese Food
-15825,삼학도일식,Three-Hakdo Japanese Eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
-16391,방이샤브샤브칼국수 예술회관점,Bangi Shabu Shabu Kalguksu Art Center Branch,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-16506,덴세츠라멘 인하대본점,Densetsu Ramen Inha University Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-25093,주원일식,juwon solar eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
-35522,큰손샤브샤브,big hand shabu shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-39091,산촌샤브샤브칼국수,Sanchon Shabu Shabu Kalguksu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-42341,박승광샤브샤브,Park Seung-kwang Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-48655,가빈돈까스 본점,Gavin Pork Cutlet Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-52716,명진일식,Myongjin Eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
-57125,소문난 수제돈가스,Famous handmade pork cutlet,"('돈가스', 'Tonkatsu')",Food,Japanese Food
-59512,진달래샤브샤브,Azalea Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-62365,다래회초밥,Darae Sashimi,"('초밥', 'Sushi')",Food,Japanese Food
-66680,설가네샤브샤브,Seolgane Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-69543,육회야문연어 본점,Yukhoe Yamun Salmon Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-73640,용우동 인천만수점,Yongwoo-dong Incheon Bay Branch,"('우동', 'Udon')",Food,Japanese Food
-77572,화초밥,flower rice,"('초밥', 'Sushi')",Food,Japanese Food
-80331,목동수제돈가스,Mokdong handmade pork cutlet,"('돈가스', 'Tonkatsu')",Food,Japanese Food
-82562,우정일식,friendship eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
-83678,유래일식,eclipse of origin,"('일식', 'Japanese Food')",Food,Japanese Food
-90869,역전우동0410 인천루원시티점,Yeokjeon U-dong 0410 Incheon Luwon City Branch,"('우동', 'Udon')",Food,Japanese Food
-93851,금화왕돈까스 가좌본점,Geumhwa King Pork Cutlet Gajwa Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-102078,삼원일식,three-way eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
-102620,용우동 인천검단점,Yongwoo-dong Incheon Geomdan Branch,"('우동', 'Udon')",Food,Japanese Food
-103377,채선당 인천연수점,Chaeseondang Yeonsujeom (Shabu & Grilled Korean Beef),"('인천', 'Incheon')",Food,Japanese Food
-104981,채선당 월남쌈&샤브샤브 인천주안점,Chaeseondang Incheon Juan Branch,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
-112553,청라바다사나이 본점,Cheongna Sea Man Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-113861,난바우동딜리버리 부평점,Namba udon,"('부평', 'Bupyeong')",Food,Japanese Food
-119469,불타는돈가스,burning pork belly,"('돈가스', 'Tonkatsu')",Food,Japanese Food
-123731,역전우동0410 연수구청점,Yeokjeon U-dong 0410 Yeonsu-gu Office Branch,"('우동', 'Udon')",Food,Japanese Food
-140078,육회왕자연어공주 부평점,King Yukhoe Natural Language Princess Bupyeong Branch,"('연어', 'Salmon')",Food,Japanese Food
-144140,부자돈까스 본점,Bubu Pork Cutlet Main Store,"('본점', 'Main Branch')",Food,Japanese Food
-144292,이백장돈가스 인천간석점,Lee Baek Jang Pork Cutlet Incheon Ganseok Branch,"('돈가스', 'Tonkatsu')",Food,Japanese Food
+,name,name_eng,problems
+2151,한우동 아울렛점,Hanwoo Dong Outlet Store,"[('우동', 'Udon')]"
+4095,용우동 인천계양구청점,Yongwoo-dong Incheon Gyeyang-gu Office Branch,"[('우동', 'Udon')]"
+11691,육회왕자연어공주 인천계산점,King Yukhoe Natural Language Princess Incheon Gyesan Branch,"[('연어', 'Salmon')]"
+15825,삼학도일식,Three-Hakdo Japanese Eclipse,"[('일식', 'Japanese Food')]"
+16391,방이샤브샤브칼국수 예술회관점,Bangi Shabu Shabu Kalguksu Art Center Branch,"[('샤브샤브', 'Shabu-shabu')]"
+16506,덴세츠라멘 인하대본점,Densetsu Ramen Inha University Main Store,"[('본점', 'Main Branch')]"
+25093,주원일식,juwon solar eclipse,"[('일식', 'Japanese Food')]"
+35522,큰손샤브샤브,big hand shabu shabu,"[('샤브샤브', 'Shabu-shabu')]"
+39091,산촌샤브샤브칼국수,Sanchon Shabu Shabu Kalguksu,"[('샤브샤브', 'Shabu-shabu')]"
+42341,박승광샤브샤브,Park Seung-kwang Shabu Shabu,"[('샤브샤브', 'Shabu-shabu')]"
+48655,가빈돈까스 본점,Gavin Pork Cutlet Main Store,"[('본점', 'Main Branch')]"
+52716,명진일식,Myongjin Eclipse,"[('일식', 'Japanese Food')]"
+57125,소문난 수제돈가스,Famous handmade pork cutlet,"[('돈가스', 'Tonkatsu')]"
+59512,진달래샤브샤브,Azalea Shabu Shabu,"[('샤브샤브', 'Shabu-shabu')]"
+62365,다래회초밥,Darae Sashimi,"[('초밥', 'Sushi')]"
+66680,설가네샤브샤브,Seolgane Shabu Shabu,"[('샤브샤브', 'Shabu-shabu')]"
+69543,육회야문연어 본점,Yukhoe Yamun Salmon Main Store,"[('본점', 'Main Branch')]"
+73640,용우동 인천만수점,Yongwoo-dong Incheon Bay Branch,"[('우동', 'Udon')]"
+77572,화초밥,flower rice,"[('초밥', 'Sushi')]"
+80331,목동수제돈가스,Mokdong handmade pork cutlet,"[('돈가스', 'Tonkatsu')]"
+82562,우정일식,friendship eclipse,"[('일식', 'Japanese Food')]"
+83678,유래일식,eclipse of origin,"[('일식', 'Japanese Food')]"
+90869,역전우동0410 인천루원시티점,Yeokjeon U-dong 0410 Incheon Luwon City Branch,"[('우동', 'Udon')]"
+93851,금화왕돈까스 가좌본점,Geumhwa King Pork Cutlet Gajwa Main Store,"[('본점', 'Main Branch')]"
+102078,삼원일식,three-way eclipse,"[('일식', 'Japanese Food')]"
+102620,용우동 인천검단점,Yongwoo-dong Incheon Geomdan Branch,"[('우동', 'Udon')]"
+103377,채선당 인천연수점,Chaeseondang Yeonsujeom (Shabu & Grilled Korean Beef),"[('인천', 'Incheon')]"
+104981,채선당 월남쌈&샤브샤브 인천주안점,Chaeseondang Incheon Juan Branch,"[('샤브샤브', 'Shabu-shabu')]"
+112553,청라바다사나이 본점,Cheongna Sea Man Main Store,"[('본점', 'Main Branch')]"
+113861,난바우동딜리버리 부평점,Namba udon,"[('부평', 'Bupyeong')]"
+119469,불타는돈가스,burning pork belly,"[('돈가스', 'Tonkatsu')]"
+123731,역전우동0410 연수구청점,Yeokjeon U-dong 0410 Yeonsu-gu Office Branch,"[('우동', 'Udon')]"
+140078,육회왕자연어공주 부평점,King Yukhoe Natural Language Princess Bupyeong Branch,"[('연어', 'Salmon')]"
+144140,부자돈까스 본점,Bubu Pork Cutlet Main Store,"[('본점', 'Main Branch')]"
+144292,이백장돈가스 인천간석점,Lee Baek Jang Pork Cutlet Incheon Ganseok Branch,"[('돈가스', 'Tonkatsu')]"

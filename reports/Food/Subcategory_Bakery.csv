@@ -1,41 +1,41 @@
-,name,name_eng,problems,category,subcategory
-398,옵스 롯데백화점인천점,OPS,"('인천', 'Incheon')",Food,Bakery
-18250,아임파인과자점,I'm Pine Sweets,"('과자', 'Snack')",Food,Bakery
-19281,스마일명품찹쌀꽈배기,Smile Luxury Glutinous Rice Twinkle,"('찹쌀', 'Chapssal')",Food,Bakery
-21232,연이네찹쌀꽈배기,Yeoninee glutinous rice pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-24467,박찬회화과자 롯데백화점인천점,Park Chan Confectionery Lotte Department Store Incheon,"('과자', 'Snack')",Food,Bakery
-28777,OK찹쌀꽈배기,OK glutinous rice pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-29963,신포꽈배기,Sinpo Pretzel,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-32722,세필즈과자점,Sepilz Sweets,"('과자', 'Snack')",Food,Bakery
-39684,못난이꽈배기 인천점,Ugly Twitch Incheon Branch,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-49214,못난이꽈배기 학익점,Ugly Twist,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-49217,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-53306,까레몽과자점 동인천점,Carremont Confectionery Dongincheon Branch,"('과자', 'Snack')",Food,Bakery
-55254,노랑고래 찹쌀꽈배기 효성점,Yellow whale glutinous rice pretzel Hyosung,"('찹쌀', 'Chapssal')",Food,Bakery
-60336,빠리짱과자점,parisan sweets shop,"('과자', 'Snack')",Food,Bakery
-61897,아비앙또과자점,Avianto Confectionery,"('과자', 'Snack')",Food,Bakery
-69409,한상민과자점 검단신도시점,Han Sang-min Sweets Store Geomdan New Town Store,"('과자', 'Snack')",Food,Bakery
-77186,끌림과자점,attraction confectionery,"('과자', 'Snack')",Food,Bakery
-81954,못난이찹쌀꽈배기,Ugly sticky rice pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-87102,리후레쉬과자점,Refresh Confectionery,"('과자', 'Snack')",Food,Bakery
-87502,쉐프윤찹쌀꽈배기고로케 용현점,Chef Yoon Glutinous Rice Twist Croquette Yonghyeon Branch,"('찹쌀', 'Chapssal')",Food,Bakery
-88894,성수동꿀꽈배기 연수역점,Seongsu-dong Honey Twist Sweet Potatoes Yeonsu Station Branch,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-90823,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-96934,서창동꿀꽈배기,Seochang-dong Honey Twist,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-98834,파리바게뜨 연수로얄점,Paris Baguette Yeon Royal Branch,"('연수', 'Yeonsu')",Food,Bakery
-99162,못난이꽈배기 병방점,Ugly Twitch Byeongbang Branch,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-99888,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-110896,소문난즉석꽈배기,Famous instant pretzels,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-113219,굿데이과자점,Good Day Sweets,"('과자', 'Snack')",Food,Bakery
-113313,꽈배기상회 부개직영점,Bugae direct management store,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-118304,빨간풍차과자점 부개점,Red Windmill Confectionery Bug Open,"('과자', 'Snack')",Food,Bakery
-120614,파리바게뜨 구월팬더,Paris Baguette September Panda,"('구월', 'Guwol')",Food,Bakery
-121620,스마일꽈배기,Smile Pretzel,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-128261,몽뻬르과자점,Montper Confectionery Store,"('과자', 'Snack')",Food,Bakery
-128768,파리바게뜨 인천연희점,Paris Baguette Inn Cheonyeonhee,"('인천', 'Incheon')",Food,Bakery
-129836,명꽈배기,Myeong pretzel,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-130244,스마일명품찹쌀꽈배기,Smile luxury glutinous rice pretzel,"('찹쌀', 'Chapssal')",Food,Bakery
-134933,스마일꽈배기,Smile Pretzel,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-137197,못난이꽈배기 송도점,Ugly Twitch Songdo Branch,"('꽈배기', 'Kkwabaegi')",Food,Bakery
-141192,한상민과자점,Han Sang-min Confectionery,"('과자', 'Snack')",Food,Bakery
-142568,쉐프윤찹쌀꽈배기고로케 선재도점,Chef Yoon Glutinous Rice Twist Croquette Seonjaedo Branch,"('찹쌀', 'Chapssal')",Food,Bakery
+,name,name_eng,problems
+398,옵스 롯데백화점인천점,OPS,"[('인천', 'Incheon')]"
+18250,아임파인과자점,I'm Pine Sweets,"[('과자', 'Snack')]"
+19281,스마일명품찹쌀꽈배기,Smile Luxury Glutinous Rice Twinkle,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+21232,연이네찹쌀꽈배기,Yeoninee glutinous rice pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+24467,박찬회화과자 롯데백화점인천점,Park Chan Confectionery Lotte Department Store Incheon,"[('과자', 'Snack')]"
+28777,OK찹쌀꽈배기,OK glutinous rice pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+29963,신포꽈배기,Sinpo Pretzel,"[('꽈배기', 'Kkwabaegi')]"
+32722,세필즈과자점,Sepilz Sweets,"[('과자', 'Snack')]"
+39684,못난이꽈배기 인천점,Ugly Twitch Incheon Branch,"[('꽈배기', 'Kkwabaegi')]"
+49214,못난이꽈배기 학익점,Ugly Twist,"[('꽈배기', 'Kkwabaegi')]"
+49217,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+53306,까레몽과자점 동인천점,Carremont Confectionery Dongincheon Branch,"[('과자', 'Snack')]"
+55254,노랑고래 찹쌀꽈배기 효성점,Yellow whale glutinous rice pretzel Hyosung,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+60336,빠리짱과자점,parisan sweets shop,"[('과자', 'Snack')]"
+61897,아비앙또과자점,Avianto Confectionery,"[('과자', 'Snack')]"
+69409,한상민과자점 검단신도시점,Han Sang-min Sweets Store Geomdan New Town Store,"[('과자', 'Snack')]"
+77186,끌림과자점,attraction confectionery,"[('과자', 'Snack')]"
+81954,못난이찹쌀꽈배기,Ugly sticky rice pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+87102,리후레쉬과자점,Refresh Confectionery,"[('과자', 'Snack')]"
+87502,쉐프윤찹쌀꽈배기고로케 용현점,Chef Yoon Glutinous Rice Twist Croquette Yonghyeon Branch,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+88894,성수동꿀꽈배기 연수역점,Seongsu-dong Honey Twist Sweet Potatoes Yeonsu Station Branch,"[('꽈배기', 'Kkwabaegi')]"
+90823,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+96934,서창동꿀꽈배기,Seochang-dong Honey Twist,"[('꽈배기', 'Kkwabaegi')]"
+98834,파리바게뜨 연수로얄점,Paris Baguette Yeon Royal Branch,"[('연수', 'Yeonsu')]"
+99162,못난이꽈배기 병방점,Ugly Twitch Byeongbang Branch,"[('꽈배기', 'Kkwabaegi')]"
+99888,스마일찹쌀꽈배기,Smile Glutinous Rice Pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+110896,소문난즉석꽈배기,Famous instant pretzels,"[('꽈배기', 'Kkwabaegi')]"
+113219,굿데이과자점,Good Day Sweets,"[('과자', 'Snack')]"
+113313,꽈배기상회 부개직영점,Bugae direct management store,"[('꽈배기', 'Kkwabaegi')]"
+118304,빨간풍차과자점 부개점,Red Windmill Confectionery Bug Open,"[('과자', 'Snack')]"
+120614,파리바게뜨 구월팬더,Paris Baguette September Panda,"[('구월', 'Guwol')]"
+121620,스마일꽈배기,Smile Pretzel,"[('꽈배기', 'Kkwabaegi')]"
+128261,몽뻬르과자점,Montper Confectionery Store,"[('과자', 'Snack')]"
+128768,파리바게뜨 인천연희점,Paris Baguette Inn Cheonyeonhee,"[('인천', 'Incheon')]"
+129836,명꽈배기,Myeong pretzel,"[('꽈배기', 'Kkwabaegi')]"
+130244,스마일명품찹쌀꽈배기,Smile luxury glutinous rice pretzel,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"
+134933,스마일꽈배기,Smile Pretzel,"[('꽈배기', 'Kkwabaegi')]"
+137197,못난이꽈배기 송도점,Ugly Twitch Songdo Branch,"[('꽈배기', 'Kkwabaegi')]"
+141192,한상민과자점,Han Sang-min Confectionery,"[('과자', 'Snack')]"
+142568,쉐프윤찹쌀꽈배기고로케 선재도점,Chef Yoon Glutinous Rice Twist Croquette Seonjaedo Branch,"[('찹쌀', 'Chapssal'), ('꽈배기', 'Kkwabaegi')]"

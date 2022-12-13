@@ -1,10 +1,10 @@
-,name,name_eng,problems,category,subcategory
-6772,석남중학교,Seoknam Middle School,"('석남', 'Seongnam')",Education,School
-20343,인천현송중학교,Ocean 3 Middle School (planned for March 2022),"('인천', 'Incheon')",Education,School
-22862,경문실용전문학교,Gyeongmun Practical College,"('학교', 'School')",Education,School
-35695,한국인천화교중산소학,Korean-Chinese Chinese  Middle School,"('인천', 'Incheon')",Education,School
-46698,인천여자신학교,Incheon Women's Seminary,"('학교', 'School')",Education,School
-52604,남동청소년경찰학교,Namdong Youth Police Academy,"('학교', 'School')",Education,School
-105906,석남초등학교,Seoknam Elementary School,"('석남', 'Seongnam')",Education,School
-110586,능허대중학교,Neungheo University,"('학교', 'School')",Education,School
-126652,석남서초등학교,Seoknamseo Elementary School,"('석남', 'Seongnam')",Education,School
+,name,name_eng,problems
+6772,석남중학교,Seoknam Middle School,"[('석남', 'Seongnam')]"
+20343,인천현송중학교,Ocean 3 Middle School (planned for March 2022),"[('인천', 'Incheon')]"
+22862,경문실용전문학교,Gyeongmun Practical College,"[('학교', 'School')]"
+35695,한국인천화교중산소학,Korean-Chinese Chinese  Middle School,"[('인천', 'Incheon')]"
+46698,인천여자신학교,Incheon Women's Seminary,"[('학교', 'School')]"
+52604,남동청소년경찰학교,Namdong Youth Police Academy,"[('학교', 'School')]"
+105906,석남초등학교,Seoknam Elementary School,"[('석남', 'Seongnam')]"
+110586,능허대중학교,Neungheo University,"[('학교', 'School'), ('중학교', 'Middle School')]"
+126652,석남서초등학교,Seoknamseo Elementary School,"[('석남', 'Seongnam')]"

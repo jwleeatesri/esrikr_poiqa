@@ -1,8 +1,8 @@
-,name,name_eng,problems,category,subcategory
-23495,인천민속과자,Incheon Folk Sweets,"('과자', 'Gwaja')",Shops and Service,Candy Store
-28405,세계과자할인점,World confectionery discount store,"('과자', 'Gwaja')",Shops and Service,Candy Store
-48885,민속과자,folk sweets,"('과자', 'Gwaja')",Shops and Service,Candy Store
-76708,내이브로,nav,"('이브', 'Eve')",Shops and Service,Candy Store
-93122,옛추억민속제과,Old memories folk confectionery,"('민속', 'Minsok')",Shops and Service,Candy Store
-95209,대박과자백화점,Daebak Sweets Department Store,"('과자', 'Gwaja')",Shops and Service,Candy Store
-137825,과자공장,confectionery factory,"('과자', 'Gwaja')",Shops and Service,Candy Store
+,name,name_eng,problems
+23495,인천민속과자,Incheon Folk Sweets,"[('과자', 'Gwaja'), ('민속', 'Minsok')]"
+28405,세계과자할인점,World confectionery discount store,"[('과자', 'Gwaja')]"
+48885,민속과자,folk sweets,"[('과자', 'Gwaja'), ('민속', 'Minsok')]"
+76708,내이브로,nav,"[('이브', 'Eve')]"
+93122,옛추억민속제과,Old memories folk confectionery,"[('민속', 'Minsok'), ('추억', 'Chueok')]"
+95209,대박과자백화점,Daebak Sweets Department Store,"[('과자', 'Gwaja'), ('백화점', 'Baekhwajeom')]"
+137825,과자공장,confectionery factory,"[('과자', 'Gwaja')]"

@@ -1,6 +1,6 @@
-,name,name_eng,problems,category,subcategory
-5593,더바인컴퍼니,the vine,"('컴퍼니', 'Company')",Shops and Service,Wine and Liquor
-17596,헝가리와인,Hungarian wine,"('헝가리', 'Hungary')",Shops and Service,Wine and Liquor
-27856,니키네와인가게,Nikine Wine Shop,"('가게', 'Store')",Shops and Service,Wine and Liquor
-113506,비어마당,beer garden,"('마당', 'Madang')",Shops and Service,Wine and Liquor
-129777,아영에프비씨 롯데백화점 인천점,Ayoung FC Lotte Department Store Incheon Branch,"('아영에프비씨', 'Ayoung FBC')",Shops and Service,Wine and Liquor
+,name,name_eng,problems
+5593,더바인컴퍼니,the vine,"[('컴퍼니', 'Company')]"
+17596,헝가리와인,Hungarian wine,"[('헝가리', 'Hungary')]"
+27856,니키네와인가게,Nikine Wine Shop,"[('가게', 'Store')]"
+113506,비어마당,beer garden,"[('마당', 'Madang')]"
+129777,아영에프비씨 롯데백화점 인천점,Ayoung FC Lotte Department Store Incheon Branch,"[('아영에프비씨', 'Ayoung FBC')]"

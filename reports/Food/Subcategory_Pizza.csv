@@ -1,25 +1,25 @@
-,name,name_eng,problems,category,subcategory
-9397,피자마루 계산점,Pizza Floor Checkout,"('마루', 'Maru')",Food,Pizza
-22544,피자나라치킨공주 관교점,Pizza Nara Chicken Princess Gwangyo Branch,"('공주', 'Gongju')",Food,Pizza
-33933,피자나라치킨공주 인천구월만수점,Pizza Nara Chicken Princess Incheon Guwolmansu,"('공주', 'Gongju')",Food,Pizza
-36289,피자나라치킨공주 인천검단점,Pizza Nara Chicken Princess Incheon Geomdan Branch,"('공주', 'Gongju')",Food,Pizza
-42425,피자나라치킨공주 인천청라2호점,Pizza Nara Chicken Princess Incheon Cheongna 2nd Branch,"('공주', 'Gongju')",Food,Pizza
-45732,수피자 길상점,Sufija Gilsang Store,"('피자', 'Pizza')",Food,Pizza
-63489,수피자 강화점,Sufija Ganghwa,"('피자', 'Pizza')",Food,Pizza
-63539,오구쌀피자 인천갈산점,Ogu Pizza Galsan Branch,"('인천', 'Incheon')",Food,Pizza
-64647,수피자 송도신도시점,Sufija Songdo New Town Branch,"('피자', 'Pizza')",Food,Pizza
-67822,피자나라치킨공주 인천 화평점,Pizza Nara Chicken Princess Incheon Hwapyeong,"('공주', 'Gongju')",Food,Pizza
-74173,명품임실치즈피자 구월점,Luxury Imsil Cheese Pizza,"('구월', 'Guwol')",Food,Pizza
-82112,피자나라치킨공주 인천가정점,Pizza Nara Chicken Princess Incheon Gajeong,"('공주', 'Gongju')",Food,Pizza
-82895,피자나라치킨공주 인천숭의점,Pizza Nara Chicken Princess Incheon Soongui Branch,"('공주', 'Gongju')",Food,Pizza
-84004,피자나라치킨공주 학익주안점,Pizza Nara Chicken Princess Hakikjuan,"('공주', 'Gongju')",Food,Pizza
-88871,피자마루 인천관교점,Pizza Maru Gwangyo Branch,"('인천', 'Incheon')",Food,Pizza
-89456,피자마루 인천 효성점,Pizza Maru Hyosung 1st Store,"('인천', 'Incheon')",Food,Pizza
-90198,피자나라치킨공주 인천연수점,Pizza Nara Chicken Princess Incheon Yeonsu Branch,"('공주', 'Gongju')",Food,Pizza
-92487,피자나라치킨공주 인천작전점,Pizza Nara Chicken Princess Incheon Jakjeon Branch,"('공주', 'Gongju')",Food,Pizza
-92779,피자나라치킨공주 옥련점,Pizza Nara Chicken Princess Ongnyeon,"('공주', 'Gongju')",Food,Pizza
-111170,피자나라치킨공주 인천십정점,Pizza Nara Chicken Princess Incheon 10Jeong,"('공주', 'Gongju')",Food,Pizza
-125605,수피자 구월동점,Supija Guwol-dong,"('피자', 'Pizza')",Food,Pizza
-135002,피자나라치킨공주 검암연희점,Pizza Nara Chicken Princess Geomam Yeonhui,"('공주', 'Gongju')",Food,Pizza
-135155,수피자 부평점,Supija Bupyeong,"('피자', 'Pizza')",Food,Pizza
-145330,피자스쿨연수점,Pizza School Training Center,"('연수', 'Yeonsu')",Food,Pizza
+,name,name_eng,problems
+9397,피자마루 계산점,Pizza Floor Checkout,"[('마루', 'Maru')]"
+22544,피자나라치킨공주 관교점,Pizza Nara Chicken Princess Gwangyo Branch,"[('공주', 'Gongju')]"
+33933,피자나라치킨공주 인천구월만수점,Pizza Nara Chicken Princess Incheon Guwolmansu,"[('공주', 'Gongju')]"
+36289,피자나라치킨공주 인천검단점,Pizza Nara Chicken Princess Incheon Geomdan Branch,"[('공주', 'Gongju')]"
+42425,피자나라치킨공주 인천청라2호점,Pizza Nara Chicken Princess Incheon Cheongna 2nd Branch,"[('공주', 'Gongju')]"
+45732,수피자 길상점,Sufija Gilsang Store,"[('피자', 'Pizza')]"
+63489,수피자 강화점,Sufija Ganghwa,"[('피자', 'Pizza')]"
+63539,오구쌀피자 인천갈산점,Ogu Pizza Galsan Branch,"[('인천', 'Incheon')]"
+64647,수피자 송도신도시점,Sufija Songdo New Town Branch,"[('피자', 'Pizza')]"
+67822,피자나라치킨공주 인천 화평점,Pizza Nara Chicken Princess Incheon Hwapyeong,"[('공주', 'Gongju')]"
+74173,명품임실치즈피자 구월점,Luxury Imsil Cheese Pizza,"[('구월', 'Guwol')]"
+82112,피자나라치킨공주 인천가정점,Pizza Nara Chicken Princess Incheon Gajeong,"[('공주', 'Gongju')]"
+82895,피자나라치킨공주 인천숭의점,Pizza Nara Chicken Princess Incheon Soongui Branch,"[('공주', 'Gongju')]"
+84004,피자나라치킨공주 학익주안점,Pizza Nara Chicken Princess Hakikjuan,"[('공주', 'Gongju')]"
+88871,피자마루 인천관교점,Pizza Maru Gwangyo Branch,"[('인천', 'Incheon')]"
+89456,피자마루 인천 효성점,Pizza Maru Hyosung 1st Store,"[('인천', 'Incheon')]"
+90198,피자나라치킨공주 인천연수점,Pizza Nara Chicken Princess Incheon Yeonsu Branch,"[('공주', 'Gongju')]"
+92487,피자나라치킨공주 인천작전점,Pizza Nara Chicken Princess Incheon Jakjeon Branch,"[('공주', 'Gongju')]"
+92779,피자나라치킨공주 옥련점,Pizza Nara Chicken Princess Ongnyeon,"[('공주', 'Gongju')]"
+111170,피자나라치킨공주 인천십정점,Pizza Nara Chicken Princess Incheon 10Jeong,"[('공주', 'Gongju')]"
+125605,수피자 구월동점,Supija Guwol-dong,"[('피자', 'Pizza')]"
+135002,피자나라치킨공주 검암연희점,Pizza Nara Chicken Princess Geomam Yeonhui,"[('공주', 'Gongju')]"
+135155,수피자 부평점,Supija Bupyeong,"[('피자', 'Pizza')]"
+145330,피자스쿨연수점,Pizza School Training Center,"[('연수', 'Yeonsu')]"

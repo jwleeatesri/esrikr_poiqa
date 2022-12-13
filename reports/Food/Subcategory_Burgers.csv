@@ -1,6 +1,6 @@
-,name,name_eng,problems,category,subcategory
-52464,노브랜드버거 인천서창점,No-Brand Burger,"('인천', 'Incheon')",Food,Burgers
-52972,롯데리아 롯데백화점인천점,LOTTERIA,"('인천', 'Incheon')",Food,Burgers
-109074,맥도날드 씨앤씨점,McDonald&#39;s C&C,"('맥도날드', ""Mcdonald's"")",Food,Burgers
-134282,노브랜드버거 송도학원가점,No-Brand Burger,"('송도', 'Songdo')",Food,Burgers
-144299,버거킹 인천구월아시아드SK점,Burger King Incheon Gu Wall Asiad SK Branch,"('구월', 'Guwol')",Food,Burgers
+,name,name_eng,problems
+52464,노브랜드버거 인천서창점,No-Brand Burger,"[('인천', 'Incheon')]"
+52972,롯데리아 롯데백화점인천점,LOTTERIA,"[('인천', 'Incheon')]"
+109074,맥도날드 씨앤씨점,McDonald&#39;s C&C,"[('맥도날드', ""Mcdonald's"")]"
+134282,노브랜드버거 송도학원가점,No-Brand Burger,"[('송도', 'Songdo')]"
+144299,버거킹 인천구월아시아드SK점,Burger King Incheon Gu Wall Asiad SK Branch,"[('구월', 'Guwol')]"

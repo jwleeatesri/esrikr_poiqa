@@ -1,33 +1,33 @@
-,name,name_eng,problems,category,subcategory
-998,세종문고,Sejong Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-1648,북스캔,book scan,"('북스', 'Books')",Shops and Service,Bookstore
-11797,아벨서점,Abel Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-16920,동일문고,Dongil library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-19076,타임북스,time book,"('북스', 'Books')",Shops and Service,Bookstore
-21176,미래문고,future library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-22855,경기문고,Gyeonggi Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-29059,동아서점,Dong Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-29365,인천문고,Incheon library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-36164,슬기서점,SeulgiBook Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-45040,대원문고,Daewon Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-45901,남동문고,Namdong library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-49240,영풍문고 인천 스퀘어원점,Yeongpoong Bookstore Incheon Square One,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
-60439,그림책방오묘,picture book room,"('책방', 'Bookstore')",Shops and Service,Bookstore
-61817,장원문고,Jangwon Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-65242,종로문고,Jongno Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-66386,성이서점문구,Seongseo Store Stationery,"('서점', 'Bookstore')",Shops and Service,Bookstore
-69993,한빛서점,Hanbit Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-72637,종로서적 청라국제도시점,Jongno-jeok Cheongna International City Branch,"('서적', 'Book')",Shops and Service,Bookstore
-73556,햇빛문고,sunlight library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-74731,북극서점,North Pole,"('서점', 'Bookstore')",Shops and Service,Bookstore
-90912,부평종합서점,Bupyeong Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-91991,보람서점,Boram Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-94931,책방모도,bookshelf,"('책방', 'Bookstore')",Shops and Service,Bookstore
-97304,월드서점책문구,world bookstore,"('문구', 'Stationary')",Shops and Service,Bookstore
-101597,한미서점,Hanmi Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
-104259,해원서점문구,Haewon Bookstore Stationery,"('문구', 'Stationary')",Shops and Service,Bookstore
-121658,부평문고,Bupyeong Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-125973,서협문고,Seohyup library,"('문고', 'Bookstore')",Shops and Service,Bookstore
-127235,영풍문고인천점,Yeongpoong Bookstore Incheon,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
-130042,영풍문고 인천터미널점,Yeongpoong Bookstore Incheon Terminal,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
-130782,아가서적 논현점,Song of Songs Nonhyeon Branch,"('서적', 'Book')",Shops and Service,Bookstore
+,name,name_eng,problems
+998,세종문고,Sejong Library,"[('문고', 'Bookstore')]"
+1648,북스캔,book scan,"[('북스', 'Books')]"
+11797,아벨서점,Abel Book Store,"[('서점', 'Bookstore')]"
+16920,동일문고,Dongil library,"[('문고', 'Bookstore')]"
+19076,타임북스,time book,"[('북스', 'Books')]"
+21176,미래문고,future library,"[('문고', 'Bookstore')]"
+22855,경기문고,Gyeonggi Library,"[('문고', 'Bookstore')]"
+29059,동아서점,Dong Book Store,"[('서점', 'Bookstore')]"
+29365,인천문고,Incheon library,"[('문고', 'Bookstore')]"
+36164,슬기서점,SeulgiBook Store,"[('서점', 'Bookstore')]"
+45040,대원문고,Daewon Library,"[('문고', 'Bookstore')]"
+45901,남동문고,Namdong library,"[('문고', 'Bookstore')]"
+49240,영풍문고 인천 스퀘어원점,Yeongpoong Bookstore Incheon Square One,"[('영풍문고', 'Youngpoong Bookstore')]"
+60439,그림책방오묘,picture book room,"[('책방', 'Bookstore')]"
+61817,장원문고,Jangwon Library,"[('문고', 'Bookstore')]"
+65242,종로문고,Jongno Library,"[('문고', 'Bookstore')]"
+66386,성이서점문구,Seongseo Store Stationery,"[('서점', 'Bookstore'), ('문구', 'Stationary')]"
+69993,한빛서점,Hanbit Book Store,"[('서점', 'Bookstore')]"
+72637,종로서적 청라국제도시점,Jongno-jeok Cheongna International City Branch,"[('서적', 'Book')]"
+73556,햇빛문고,sunlight library,"[('문고', 'Bookstore')]"
+74731,북극서점,North Pole,"[('서점', 'Bookstore')]"
+90912,부평종합서점,Bupyeong Book Store,"[('서점', 'Bookstore')]"
+91991,보람서점,Boram Book Store,"[('서점', 'Bookstore')]"
+94931,책방모도,bookshelf,"[('책방', 'Bookstore')]"
+97304,월드서점책문구,world bookstore,"[('문구', 'Stationary')]"
+101597,한미서점,Hanmi Book Store,"[('서점', 'Bookstore')]"
+104259,해원서점문구,Haewon Bookstore Stationery,"[('문구', 'Stationary')]"
+121658,부평문고,Bupyeong Library,"[('문고', 'Bookstore')]"
+125973,서협문고,Seohyup library,"[('문고', 'Bookstore')]"
+127235,영풍문고인천점,Yeongpoong Bookstore Incheon,"[('영풍문고', 'Youngpoong Bookstore')]"
+130042,영풍문고 인천터미널점,Yeongpoong Bookstore Incheon Terminal,"[('영풍문고', 'Youngpoong Bookstore')]"
+130782,아가서적 논현점,Song of Songs Nonhyeon Branch,"[('서적', 'Book')]"

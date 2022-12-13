@@ -1,9 +1,9 @@
-,name,name_eng,problems,category,subcategory
-1937,한화꿈에그린에코메트로11단지아파트농구장,Hanwha Dream and Green Eco Metro 11 Apartment Basketball Court,"('단지', 'Complex')",Parks and Outdoors,Basketball
-27841,한화꿈에그린에코메트로7단지아파트농구장,Hanwha Dream and Green Eco Metro 7 Complex Apartment Basketball Court,"('한화', 'Hanhwa')",Parks and Outdoors,Basketball
-65074,한화꿈에그린에코메트로5단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 5 Apartment Basketball Court,"('한화', 'Hanhwa')",Parks and Outdoors,Basketball
-76734,한화꿈에그린에코메트로9단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 9 Apartment Basketball Court,"('한화', 'Hanhwa')",Parks and Outdoors,Basketball
-96839,한화꿈에그린에코메트로12단지아파트농구장,Hanwha Dream and Green Eco Metro 12 Apartment Basketball Court,"('단지', 'Complex')",Parks and Outdoors,Basketball
-99901,롯데캐슬골드2단지아파트농구장,Lotte Castle Gold 2 Apartment Basketball Court,"('단지', 'Complex')",Parks and Outdoors,Basketball
-134913,한화꿈에그린에코메트로6단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 6 Apartment Basketball Court,"('한화', 'Hanhwa')",Parks and Outdoors,Basketball
-144364,e편한세상송도농구장,e-Pyunhansang Songdo Basketball Stadium,"('농구장', 'Basketball Court')",Parks and Outdoors,Basketball
+,name,name_eng,problems
+1937,한화꿈에그린에코메트로11단지아파트농구장,Hanwha Dream and Green Eco Metro 11 Apartment Basketball Court,"[('단지', 'Complex'), ('한화', 'Hanhwa')]"
+27841,한화꿈에그린에코메트로7단지아파트농구장,Hanwha Dream and Green Eco Metro 7 Complex Apartment Basketball Court,"[('한화', 'Hanhwa')]"
+65074,한화꿈에그린에코메트로5단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 5 Apartment Basketball Court,"[('한화', 'Hanhwa')]"
+76734,한화꿈에그린에코메트로9단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 9 Apartment Basketball Court,"[('한화', 'Hanhwa')]"
+96839,한화꿈에그린에코메트로12단지아파트농구장,Hanwha Dream and Green Eco Metro 12 Apartment Basketball Court,"[('단지', 'Complex'), ('한화', 'Hanhwa')]"
+99901,롯데캐슬골드2단지아파트농구장,Lotte Castle Gold 2 Apartment Basketball Court,"[('단지', 'Complex')]"
+134913,한화꿈에그린에코메트로6단지아파트농구장,Hanwha Dream and Green Eco Metro Complex 6 Apartment Basketball Court,"[('한화', 'Hanhwa')]"
+144364,e편한세상송도농구장,e-Pyunhansang Songdo Basketball Stadium,"[('농구장', 'Basketball Court')]"

@@ -1,17 +1,17 @@
-,name,name_eng,problems,category,subcategory
-1667,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-12384,인천스타트업파크복합환승센터,Incheon Startup Park Complex Transfer Center,"('환승', 'Transit')",Travel and Transport,Bus Station
-26330,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-27690,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-31746,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-63563,소래포구역환승센터,Soraepo Station Transfer Center,"('환승', 'Transit')",Travel and Transport,Bus Station
-66427,바리미마을,Barimi Village,"('마을', 'Town')",Travel and Transport,Bus Station
-72102,인천영어마을,Incheon English Village,"('마을', 'Town')",Travel and Transport,Bus Station
-81194,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-83605,유현마을,Yuhyeon Village,"('마을', 'Town')",Travel and Transport,Bus Station
-98029,인천영어마을,Incheon English Village,"('마을', 'Town')",Travel and Transport,Bus Station
-100143,송도시외버스환승센터,Song Intercity Bus Transfer Terminal,"('센터', 'Center')",Travel and Transport,Bus Station
-108789,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-119251,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-134090,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
-145573,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+,name,name_eng,problems
+1667,정류장,station,"[('정류장', 'Stop')]"
+12384,인천스타트업파크복합환승센터,Incheon Startup Park Complex Transfer Center,"[('환승', 'Transit')]"
+26330,정류장,station,"[('정류장', 'Stop')]"
+27690,정류장,station,"[('정류장', 'Stop')]"
+31746,정류장,station,"[('정류장', 'Stop')]"
+63563,소래포구역환승센터,Soraepo Station Transfer Center,"[('환승', 'Transit')]"
+66427,바리미마을,Barimi Village,"[('마을', 'Town')]"
+72102,인천영어마을,Incheon English Village,"[('마을', 'Town')]"
+81194,정류장,station,"[('정류장', 'Stop')]"
+83605,유현마을,Yuhyeon Village,"[('마을', 'Town')]"
+98029,인천영어마을,Incheon English Village,"[('마을', 'Town')]"
+100143,송도시외버스환승센터,Song Intercity Bus Transfer Terminal,"[('센터', 'Center'), ('환승', 'Transit')]"
+108789,정류장,station,"[('정류장', 'Stop')]"
+119251,정류장,station,"[('정류장', 'Stop')]"
+134090,정류장,station,"[('정류장', 'Stop')]"
+145573,정류장,station,"[('정류장', 'Stop')]"

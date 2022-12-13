@@ -1,16 +1,16 @@
-,name,name_eng,problems,category,subcategory
-62860,예동해변,Yedong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-78978,사탄동해수욕장,Satan dongBeach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-126070,구리동해수욕장,Guri-dong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-138310,진모래해변,sandy beach,"('모래', 'Morae')",Parks and Outdoors,Beach
-147328,쌍바위해변,Ssangba Beach,"('바위', 'Bawi')",Parks and Outdoors,Beach
-147352,건어장해변,dried fish market,"('해변', 'Beach')",Parks and Outdoors,Beach
-147360,옥죽동해변,Okjukdong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-147362,독바위해안,Sokba Weian,"('바위', 'Bawi')",Parks and Outdoors,Beach
-147364,답동해수욕장,Dapdong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-147366,미아동해변,MiAdong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-147367,대진동해변,DaeJindong Beach,"('동해', 'East Sea')",Parks and Outdoors,Beach
-147369,모래울해변,sandy beach,"('모래', 'Morae')",Parks and Outdoors,Beach
-147398,진모래해변,sandy beach,"('모래', 'Morae')",Parks and Outdoors,Beach
-147405,붉은모래해변,red sand beach,"('모래', 'Morae')",Parks and Outdoors,Beach
-147434,갑진모래해변,Gapjin Sand Beach,"('모래', 'Morae')",Parks and Outdoors,Beach
+,name,name_eng,problems
+62860,예동해변,Yedong Beach,"[('동해', 'East Sea')]"
+78978,사탄동해수욕장,Satan dongBeach,"[('동해', 'East Sea')]"
+126070,구리동해수욕장,Guri-dong Beach,"[('동해', 'East Sea')]"
+138310,진모래해변,sandy beach,"[('모래', 'Morae')]"
+147328,쌍바위해변,Ssangba Beach,"[('바위', 'Bawi')]"
+147352,건어장해변,dried fish market,"[('해변', 'Beach')]"
+147360,옥죽동해변,Okjukdong Beach,"[('동해', 'East Sea')]"
+147362,독바위해안,Sokba Weian,"[('바위', 'Bawi')]"
+147364,답동해수욕장,Dapdong Beach,"[('동해', 'East Sea')]"
+147366,미아동해변,MiAdong Beach,"[('동해', 'East Sea')]"
+147367,대진동해변,DaeJindong Beach,"[('동해', 'East Sea')]"
+147369,모래울해변,sandy beach,"[('모래', 'Morae')]"
+147398,진모래해변,sandy beach,"[('모래', 'Morae')]"
+147405,붉은모래해변,red sand beach,"[('모래', 'Morae')]"
+147434,갑진모래해변,Gapjin Sand Beach,"[('모래', 'Morae')]"

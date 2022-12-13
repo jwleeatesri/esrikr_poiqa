@@ -1,21 +1,21 @@
-,name,name_eng,problems,category,subcategory
-2040,에하드신학대학원,Ehad Theological Seminary,"('대학', 'University')",Education,College
-14117,인하대학교용현캠퍼스의과대학,Inha University Yonghyeon Campus College of Medicine,"('인하대학교', 'Inha National University')",Education,College
-20295,인하공업전문대학,Inha Technical College,"('대학', 'University')",Education,College
-25509,경인교육대학교 교육전문대학원,Gyeongin National University of Education Graduate School of Education,"('전문대학', 'Junior College')",Education,College
-25514,인천대학교 제물포캠퍼스,Incheon University Jemulpo Campus,"('인천대학교', 'Incheon National University')",Education,College
-35220,인하대학교용현캠퍼스 물류전문대학원,Inha University Yonghyeon Campus Logistics Professional Graduate School,"('전문대학', 'Junior College')",Education,College
-41365,강화군농업대학,Ganghwa County Agricultural College,"('대학', 'University')",Education,College
-55019,인하대학교용현캠퍼스,Inha University Yonghyeon Campus,"('인하대학교', 'Inha National University')",Education,College
-56090,인천대학교 일반대학원,Incheon University General Graduate School,"('인천대학교', 'Incheon National University')",Education,College
-65416,인하대학교 송도캠퍼스(2023년3월예정),Inha University Songdo Campus (planned for March 2023),"('인하대학교', 'Inha National University')",Education,College
-73957,인천대학교 평생교육 트라이버시티,Incheon University Lifelong Education Triver City,"('인천대학교', 'Incheon National University')",Education,College
-82529,인하대학교 제조혁신전문대학원,Inha University Manufacturing Innovation Professional Graduate School,"('전문대학', 'Junior College')",Education,College
-109749,인하대학교 경영대학원,Inha University Graduate School of Business,"('인하대학교', 'Inha National University')",Education,College
-110765,인천대학교 송도캠퍼스사회과학대학,Incheon University Songdo Campus College of Social Sciences,"('인천대학교', 'Incheon National University')",Education,College
-115111,인하대학교 항공우주융합캠퍼스,Inha University Aerospace Convergence Campus,"('인하대학교', 'Inha National University')",Education,College
-115877,인천대학교 송도캠퍼스,Incheon University Songdo Campus,"('인천대학교', 'Incheon National University')",Education,College
-119649,인하대학교 정책대학원,Inha University Graduate School of Policy Studies,"('인하대학교', 'Inha National University')",Education,College
-128934,인천대학교 송도캠퍼스법과대학,Incheon University Songdo Campus Law School,"('인천대학교', 'Incheon National University')",Education,College
-133833,인천대학교 동북아물류대학원,Incheon University Northeast Asia Logistics Graduate School,"('인천대학교', 'Incheon National University')",Education,College
-139521,인하대학교 미래융합대학,Inha University Future Convergence University,"('인하대학교', 'Inha National University')",Education,College
+,name,name_eng,problems
+2040,에하드신학대학원,Ehad Theological Seminary,"[('대학', 'University'), ('대학원', 'Graduate School')]"
+14117,인하대학교용현캠퍼스의과대학,Inha University Yonghyeon Campus College of Medicine,"[('인하대학교', 'Inha National University')]"
+20295,인하공업전문대학,Inha Technical College,"[('대학', 'University'), ('전문대학', 'Junior College')]"
+25509,경인교육대학교 교육전문대학원,Gyeongin National University of Education Graduate School of Education,"[('전문대학', 'Junior College')]"
+25514,인천대학교 제물포캠퍼스,Incheon University Jemulpo Campus,"[('인천대학교', 'Incheon National University')]"
+35220,인하대학교용현캠퍼스 물류전문대학원,Inha University Yonghyeon Campus Logistics Professional Graduate School,"[('전문대학', 'Junior College'), ('인하대학교', 'Inha National University')]"
+41365,강화군농업대학,Ganghwa County Agricultural College,"[('대학', 'University')]"
+55019,인하대학교용현캠퍼스,Inha University Yonghyeon Campus,"[('인하대학교', 'Inha National University')]"
+56090,인천대학교 일반대학원,Incheon University General Graduate School,"[('인천대학교', 'Incheon National University')]"
+65416,인하대학교 송도캠퍼스(2023년3월예정),Inha University Songdo Campus (planned for March 2023),"[('인하대학교', 'Inha National University')]"
+73957,인천대학교 평생교육 트라이버시티,Incheon University Lifelong Education Triver City,"[('인천대학교', 'Incheon National University')]"
+82529,인하대학교 제조혁신전문대학원,Inha University Manufacturing Innovation Professional Graduate School,"[('전문대학', 'Junior College'), ('인하대학교', 'Inha National University')]"
+109749,인하대학교 경영대학원,Inha University Graduate School of Business,"[('인하대학교', 'Inha National University')]"
+110765,인천대학교 송도캠퍼스사회과학대학,Incheon University Songdo Campus College of Social Sciences,"[('인천대학교', 'Incheon National University')]"
+115111,인하대학교 항공우주융합캠퍼스,Inha University Aerospace Convergence Campus,"[('인하대학교', 'Inha National University')]"
+115877,인천대학교 송도캠퍼스,Incheon University Songdo Campus,"[('인천대학교', 'Incheon National University')]"
+119649,인하대학교 정책대학원,Inha University Graduate School of Policy Studies,"[('인하대학교', 'Inha National University')]"
+128934,인천대학교 송도캠퍼스법과대학,Incheon University Songdo Campus Law School,"[('인천대학교', 'Incheon National University')]"
+133833,인천대학교 동북아물류대학원,Incheon University Northeast Asia Logistics Graduate School,"[('인천대학교', 'Incheon National University')]"
+139521,인하대학교 미래융합대학,Inha University Future Convergence University,"[('인하대학교', 'Inha National University')]"
