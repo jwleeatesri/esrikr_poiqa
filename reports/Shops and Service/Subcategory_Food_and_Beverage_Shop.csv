@@ -1,9 +1,9 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-28753,28754,3419005,김정현의 스타파티홀 주안점,,Kim Jung-hyun's Star Party Hall Main Point,Shops and Service,Food and Beverage Shop,126.67942168902788,37.46454464223617,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,주안로,89,238-1,2019-11-14 23:29:41,음식||뷔페||종합뷔페||종합뷔페-일반,False
-31629,31630,4342479,홍실한식뷔폐,,Hongsil Korean buffet,Shops and Service,Food and Beverage Shop,126.53572877139776,37.48627541250316,대한민국,KOR,KOR,인천광역시,중구,,운남동,,운남로82번길,27,195,2022-08-16 16:52:33,음식||뷔페||종합뷔페||종합뷔페-일반,False
-55144,55145,27102795,천유향 샤브샤브훠궈뷔페,,Cheon Yuhyang Shabu-Shabu Hotpot Buffet,Shops and Service,Food and Beverage Shop,126.65096109222387,37.39570523938854,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,컨벤시아대로,69,3-1,2022-08-16 16:52:33,음식||뷔페||종합뷔페||종합뷔페-일반,False
-76189,76190,27184511,천유향 샤브샤브훠궈뷔페 본점,,Cheon Yuhyang Shabu-Shabu Hotpot Buffet Main Store,Shops and Service,Food and Beverage Shop,126.72530769299192,37.487327188430505,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,경인로,952,645-11,2022-08-16 16:52:33,음식||뷔페||종합뷔페||종합뷔페-일반,False
-114404,114405,20020501,돌꼭지한식부페검단산업단지점,,Dolkop Korean Buffet Geomdan Industrial Complex Branch,Shops and Service,Food and Beverage Shop,126.61529052770784,37.59333557463452,대한민국,KOR,KOR,인천광역시,서구,,오류동,,원당대로,109,1657-12,2022-05-01 12:37:48,음식||뷔페||종합뷔페||종합뷔페-일반,False
-116848,116849,27228033,토지한식부페,,Toji Korean Buffet,Shops and Service,Food and Beverage Shop,126.66693530626092,37.47790918580208,대한민국,KOR,KOR,인천광역시,미추홀구,,도화동,,방축로,212,765-2,2022-05-01 12:37:48,음식||뷔페||종합뷔페||종합뷔페-일반,False
-129947,129948,5453334,고기탐험대 무한리필 주안점,,Meat Exploration Team All-you-can-eat Main Point,Shops and Service,Food and Beverage Shop,126.6837131887889,37.46634174287048,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,석정로,432,23-36,2022-08-12 13:15:03,음식||뷔페||고기뷔페||고기뷔페-일반,False
-140344,140345,27068196,무한리필숯불갈비 주안점,,All-you-can-eat charcoal grilled ribs,Shops and Service,Food and Beverage Shop,126.67816931313388,37.465727501312365,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,염창로,38,29-1,2022-05-01 12:37:48,음식||뷔페||고기뷔페||고기뷔페-일반,False
+,name,name_eng,problems,category,subcategory
+28753,김정현의 스타파티홀 주안점,Kim Jung-hyun's Star Party Hall Main Point,"('주안점', 'Juan Branch')",Shops and Service,Food and Beverage Shop
+31629,홍실한식뷔폐,Hongsil Korean buffet,"('한식', 'Korean Food')",Shops and Service,Food and Beverage Shop
+55144,천유향 샤브샤브훠궈뷔페,Cheon Yuhyang Shabu-Shabu Hotpot Buffet,"('훠궈', 'Huoguo')",Shops and Service,Food and Beverage Shop
+76189,천유향 샤브샤브훠궈뷔페 본점,Cheon Yuhyang Shabu-Shabu Hotpot Buffet Main Store,"('훠궈', 'Huoguo')",Shops and Service,Food and Beverage Shop
+114404,돌꼭지한식부페검단산업단지점,Dolkop Korean Buffet Geomdan Industrial Complex Branch,"('한식', 'Korean Food')",Shops and Service,Food and Beverage Shop
+116848,토지한식부페,Toji Korean Buffet,"('한식', 'Korean Food')",Shops and Service,Food and Beverage Shop
+129947,고기탐험대 무한리필 주안점,Meat Exploration Team All-you-can-eat Main Point,"('주안점', 'Juan Branch')",Shops and Service,Food and Beverage Shop
+140344,무한리필숯불갈비 주안점,All-you-can-eat charcoal grilled ribs,"('주안점', 'Juan Branch')",Shops and Service,Food and Beverage Shop

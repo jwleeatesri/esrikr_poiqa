@@ -1,4 +1,4 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-8398,8399,51067,왕궁볼링장,,Royal Palace Bowling Alley,Arts and Entertainment,Bowling Alley,126.73150917376692,37.54743888158093,대한민국,KOR,KOR,인천광역시,계양구,,임학동,,계양산로,140,36,2022-08-18 12:00:50,"레져,체육||구기||볼링장",False
-19583,19584,760316,아주볼링장,,Ajou Bowling Alley,Arts and Entertainment,Bowling Alley,126.72318749988096,37.50952500109158,대한민국,KOR,KOR,인천광역시,부평구,,갈산동,,갈월서로,26,374,2022-08-12 13:15:03,"레져,체육||구기||볼링장",False
-114142,114143,5712926,남동볼링장,,Namdong Bowling Center,Arts and Entertainment,Bowling Alley,126.70613431902191,37.44491358768488,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,인하로535번길,39,1168-4,2022-09-06 15:18:26,"레져,체육||구기||볼링장",False
+,name,name_eng,problems,category,subcategory
+8398,왕궁볼링장,Royal Palace Bowling Alley,"('왕궁', 'Wanggung')",Arts and Entertainment,Bowling Alley
+19583,아주볼링장,Ajou Bowling Alley,"('아주', 'Aju')",Arts and Entertainment,Bowling Alley
+114142,남동볼링장,Namdong Bowling Center,"('볼링장', 'Bowling Alley')",Arts and Entertainment,Bowling Alley

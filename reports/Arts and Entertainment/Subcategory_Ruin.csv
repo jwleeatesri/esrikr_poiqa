@@ -1,2 +1,2 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-38837,38838,4053265,석모도 수목원,,Seokmodo Arboretum,Arts and Entertainment,Ruin,126.32674209999932,37.69100779999952,대한민국,KOR,KOR,인천광역시,강화군,,삼산면,석모리,삼산북로449번길,161,산133-2,2022-09-06 15:18:26,"관광,명소||문화,유적||식물원,수목원",False
+,name,name_eng,problems,category,subcategory
+38837,석모도 수목원,Seokmodo Arboretum,"('석모도', 'Seongmodo')",Arts and Entertainment,Ruin

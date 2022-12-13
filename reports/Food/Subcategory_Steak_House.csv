@@ -1,4 +1,4 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-9360,9361,5684017,더블핸스테이크월미도점,WHandSteak월미도점,Double Hand Steak Wolmido,Food,Steak House,126.59709314409884,37.47392341349328,대한민국,KOR,KOR,인천광역시,중구,,북성동1가,,월미문화로,51,98-420,2022-05-01 12:37:48,"음식||양식||스테이크,립||프랜차이즈||더블핸스테이크",False
-95191,95192,27232240,딜스테이크 인천석남점,,Deal Steak Incheon Seoknam Branch,Food,Steak House,126.67909492521892,37.508878123788776,대한민국,KOR,KOR,인천광역시,서구,,석남동,,서달로116번길,3,109-65,2022-05-01 12:37:48,"음식||양식||스테이크,립||프랜차이즈||딜스테이크",False
-112242,112243,27068760,김볶스 본점,,Kimbokki Main Store,Food,Steak House,126.723633,37.49306479999981,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,부평대로20번길,8,199-27,2022-06-13 10:44:13,"음식||양식||스테이크,립||스테이크,립-일반",False
+,name,name_eng,problems,category,subcategory
+9360,더블핸스테이크월미도점,Double Hand Steak Wolmido,"('핸스', 'Hans')",Food,Steak House
+95191,딜스테이크 인천석남점,Deal Steak Incheon Seoknam Branch,"('석남', 'Seongnam')",Food,Steak House
+112242,김볶스 본점,Kimbokki Main Store,"('본점', 'Main Branch')",Food,Steak House

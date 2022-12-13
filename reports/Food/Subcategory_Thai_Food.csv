@@ -1,3 +1,3 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-5711,5712,23983517,태국전통식당,,Thai traditional restaurant,Food,Thai Food,126.66850390380888,37.51471778722268,대한민국,KOR,KOR,인천광역시,서구,,신현동,,염곡로,335-2,143-15,2022-08-16 16:52:33,음식||아시아음식||태국음식||태국음식-일반,False
-71956,71957,4323286,타카이타이 신포점,,Takatai Shinpo Branch,Food,Thai Food,126.62516994699784,37.47100228125888,대한민국,KOR,KOR,인천광역시,중구,,신포동,,우현로35번길,24-3,26-20,2022-08-16 16:52:33,음식||아시아음식||태국음식||태국음식-일반,False
+,name,name_eng,problems,category,subcategory
+5711,태국전통식당,Thai traditional restaurant,"('태국', 'Thailand')",Food,Thai Food
+71956,타카이타이 신포점,Takatai Shinpo Branch,"('타이', 'Thai')",Food,Thai Food

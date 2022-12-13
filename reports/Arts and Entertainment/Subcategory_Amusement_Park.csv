@@ -1,4 +1,4 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-18460,18461,27132544,"뮤직랩100,석남",,"Music Lab 100, Seoknam",Arts and Entertainment,Amusement Park,126.6727708821039,37.50066829423778,대한민국,KOR,KOR,인천광역시,서구,,석남동,,석남로,100,579-13,2022-05-01 12:37:48,"산업,유통||전문,기술서비스||공연기획사",False
-18742,18743,27050523,파란,,blue,Arts and Entertainment,Amusement Park,126.66672842964388,37.51019814767739,대한민국,KOR,KOR,인천광역시,서구,,석남동,,율도로42번길,37-1,189-28,2022-08-12 13:15:03,"산업,유통||전문,기술서비스||공연기획사",False
-146179,146180,27178091,엔터스테이지 컴퍼니,,Enter Stage Company,Arts and Entertainment,Amusement Park,126.68048579999994,37.45188819999978,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,미추홀대로614번길,10,1469-20,2022-08-16 16:52:33,"산업,유통||전문,기술서비스||공연기획사",False
+,name,name_eng,problems,category,subcategory
+18460,"뮤직랩100,석남","Music Lab 100, Seoknam","('석남', 'Seongnam')",Arts and Entertainment,Amusement Park
+18742,파란,blue,"('파란', 'Paran')",Arts and Entertainment,Amusement Park
+146179,엔터스테이지 컴퍼니,Enter Stage Company,"('엔터스테이지', 'Enterstage')",Arts and Entertainment,Amusement Park

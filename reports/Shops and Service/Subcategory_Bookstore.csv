@@ -1,33 +1,33 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-998,999,1037525,세종문고,,Sejong Library,Shops and Service,Bookstore,126.6785781255963,37.41160400127644,대한민국,KOR,KOR,인천광역시,연수구,,연수동,,샘말로8번길,13-2,630-8,2022-08-18 12:00:50,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-1648,1649,3334542,북스캔,,book scan,Shops and Service,Bookstore,126.7008644467279,37.44393081210757,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,인하로,485,1465-1,2019-11-14 23:24:34,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-11797,11798,3079646,아벨서점,,Abel Book Store,Shops and Service,Bookstore,126.63635872616484,37.472669241624665,대한민국,KOR,KOR,인천광역시,동구,,금곡동,,금곡로,5-1,13-1,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||중고서점",False
-16920,16921,1260927,동일문고,,Dongil library,Shops and Service,Bookstore,126.73765521898996,37.44327861018639,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,장승남로,48,1040,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-19076,19077,27119717,타임북스,,time book,Shops and Service,Bookstore,126.73756825698491,37.538218414190894,대한민국,KOR,KOR,인천광역시,계양구,,용종동,,계산새로,85,210-6,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-21176,21177,3128963,미래문고,,future library,Shops and Service,Bookstore,126.73920616336694,37.48701712784889,대한민국,KOR,KOR,인천광역시,부평구,,부개동,,수변로,3,301-10,2022-08-18 12:00:50,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-22855,22856,5655763,경기문고,,Gyeonggi Library,Shops and Service,Bookstore,126.6823512949619,37.495252881281885,대한민국,KOR,KOR,인천광역시,서구,,가좌동,,원적로,99,122-8,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-29059,29060,20017208,동아서점,,Dong Book Store,Shops and Service,Bookstore,126.6712265396259,37.59548490686692,대한민국,KOR,KOR,인천광역시,서구,,마전동,,완정로,26,1002-5,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-29365,29366,1261471,인천문고,,Incheon library,Shops and Service,Bookstore,126.70936012386788,37.48842255508889,대한민국,KOR,KOR,인천광역시,부평구,,산곡동,,경원대로,1252-1,307-13,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-36164,36165,1272147,슬기서점,,SeulgiBook Store,Shops and Service,Bookstore,126.74025354065292,37.54759174109343,대한민국,KOR,KOR,인천광역시,계양구,,병방동,,계양산로,219,317-2,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-45040,45041,20762679,대원문고,,Daewon Library,Shops and Service,Bookstore,126.70969689430272,37.463920392090536,대한민국,KOR,KOR,인천광역시,남동구,,간석동,,남동대로916번길,24,182-4,2022-08-16 16:52:33,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-45901,45902,3119161,남동문고,만수문고,Namdong library,Shops and Service,Bookstore,126.73335459999991,37.460460299999774,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,만수로,45,72-49,2022-09-06 15:18:26,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-49240,49241,27068832,영풍문고 인천 스퀘어원점,,Yeongpoong Bookstore Incheon Square One,Shops and Service,Bookstore,126.6835082999999,37.40607529999975,대한민국,KOR,KOR,인천광역시,연수구,,동춘동,,청능대로,210,926,2022-09-06 15:18:26,"쇼핑,편의||도서,음반,문구||서점||프랜차이즈||영풍문고",False
-60439,60440,27069500,그림책방오묘,,picture book room,Shops and Service,Bookstore,126.72630065080992,37.51133761291921,대한민국,KOR,KOR,인천광역시,부평구,,갈산동,,주부토로,184,367-4,2022-08-12 13:15:03,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-61817,61818,887221,장원문고,,Jangwon Library,Shops and Service,Bookstore,126.7079461753909,37.46102858008309,대한민국,KOR,KOR,인천광역시,남동구,,간석동,,남동대로,879,285-5,2022-08-18 12:00:50,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-65242,65243,1255399,종로문고,,Jongno Library,Shops and Service,Bookstore,126.66146056260388,37.60373261395842,대한민국,KOR,KOR,인천광역시,서구,,마전동,,검단로,519,931-5,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-66386,66387,1259992,성이서점문구,성이철물,Seongseo Store Stationery,Shops and Service,Bookstore,126.69191634624588,37.44622147285868,대한민국,KOR,KOR,인천광역시,미추홀구,,관교동,,인하로406번길,22,467-5,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-69993,69994,2594136,한빛서점,,Hanbit Book Store,Shops and Service,Bookstore,126.65443074631187,37.46794533005876,대한민국,KOR,KOR,인천광역시,미추홀구,,도화동,,석정로,172,80-47,2022-08-16 16:52:33,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-72637,72638,27098900,종로서적 청라국제도시점,,Jongno-jeok Cheongna International City Branch,Shops and Service,Bookstore,126.65612029934088,37.532348500070086,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라에메랄드로,79,165-11,2022-08-16 16:52:33,"쇼핑,편의||도서,음반,문구||서점||프랜차이즈||종로서적",False
-73556,73557,27184061,햇빛문고,햇빛문고,sunlight library,Shops and Service,Bookstore,126.73805106023036,37.443304948855854,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,장승남로,52,1040-2,2022-08-18 12:00:50,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-74731,74732,27184328,북극서점,,North Pole,Shops and Service,Bookstore,126.72934819999996,37.5053521999998,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,장제로221번길,27,907,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||독립서점",False
-90912,90913,2155863,부평종합서점,부평서점,Bupyeong Book Store,Shops and Service,Bookstore,126.72451043594634,37.49250010122674,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,시장로,13-1,193-59,2022-08-18 12:00:50,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-91991,91992,5679702,보람서점,보람서점,Boram Book Store,Shops and Service,Bookstore,126.68095712329288,37.4939739865186,대한민국,KOR,KOR,인천광역시,서구,,가좌동,,원적로,79,129-37,2022-07-13 13:54:25,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-94931,94932,27182519,책방모도,,bookshelf,Shops and Service,Bookstore,126.63198689999992,37.4830675999998,대한민국,KOR,KOR,인천광역시,동구,,화수동,,화수로47번길,14,40-1,2022-08-26 9:52:19,"쇼핑,편의||도서,음반,문구||서점||독립서점",False
-97304,97305,2607562,월드서점책문구,,world bookstore,Shops and Service,Bookstore,126.70852399999994,37.49994899999981,대한민국,KOR,KOR,인천광역시,부평구,,산곡동,,안남로206번길,18,274-5,2022-05-01 12:37:48,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-101597,101598,3079647,한미서점,,Hanmi Book Store,Shops and Service,Bookstore,126.63664279991184,37.47264270095408,대한민국,KOR,KOR,인천광역시,동구,,금곡동,,금곡로,9,14-4,2022-08-16 16:52:33,"쇼핑,편의||도서,음반,문구||서점||중고서점",False
-104259,104260,4338777,해원서점문구,,Haewon Bookstore Stationery,Shops and Service,Bookstore,126.62892293188916,37.52553494810569,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라한내로,7,103-27,2022-08-16 16:52:33,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-121658,121659,2609392,부평문고,,Bupyeong Library,Shops and Service,Bookstore,126.72274979999996,37.4934106999998,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,부평대로,30,126-10,2022-09-06 15:18:26,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-125973,125974,1256560,서협문고,,Seohyup library,Shops and Service,Bookstore,126.48956314785768,37.49335031905884,대한민국,KOR,KOR,인천광역시,중구,,운서동,,신도시남로141번길,5-8,2796-5,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||서점-일반",False
-127235,127236,345648,영풍문고인천점,,Yeongpoong Bookstore Incheon,Shops and Service,Bookstore,126.70117869965794,37.44154835931748,대한민국,KOR,KOR,인천광역시,미추홀구,,관교동,,연남로,35,15,2022-06-13 10:44:13,"쇼핑,편의||도서,음반,문구||서점||프랜차이즈||영풍문고",False
-130042,130043,27276768,영풍문고 인천터미널점,,Yeongpoong Bookstore Incheon Terminal,Shops and Service,Bookstore,126.70154296999992,37.44149639999977,대한민국,KOR,KOR,인천광역시,미추홀구,,관교동,,연남로,35,15,2022-09-06 15:18:26,"쇼핑,편의||도서,음반,문구||서점||프랜차이즈||영풍문고",False
-130782,130783,3255865,아가서적 논현점,,Song of Songs Nonhyeon Branch,Shops and Service,Bookstore,126.7237506837779,37.40591252226676,대한민국,KOR,KOR,인천광역시,남동구,,논현동,,논고개로,166,593-6,2022-08-24 14:41:06,"쇼핑,편의||도서,음반,문구||서점||아동도서||아동도서-일반",False
+,name,name_eng,problems,category,subcategory
+998,세종문고,Sejong Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+1648,북스캔,book scan,"('북스', 'Books')",Shops and Service,Bookstore
+11797,아벨서점,Abel Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+16920,동일문고,Dongil library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+19076,타임북스,time book,"('북스', 'Books')",Shops and Service,Bookstore
+21176,미래문고,future library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+22855,경기문고,Gyeonggi Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+29059,동아서점,Dong Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+29365,인천문고,Incheon library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+36164,슬기서점,SeulgiBook Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+45040,대원문고,Daewon Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+45901,남동문고,Namdong library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+49240,영풍문고 인천 스퀘어원점,Yeongpoong Bookstore Incheon Square One,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
+60439,그림책방오묘,picture book room,"('책방', 'Bookstore')",Shops and Service,Bookstore
+61817,장원문고,Jangwon Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+65242,종로문고,Jongno Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+66386,성이서점문구,Seongseo Store Stationery,"('서점', 'Bookstore')",Shops and Service,Bookstore
+69993,한빛서점,Hanbit Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+72637,종로서적 청라국제도시점,Jongno-jeok Cheongna International City Branch,"('서적', 'Book')",Shops and Service,Bookstore
+73556,햇빛문고,sunlight library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+74731,북극서점,North Pole,"('서점', 'Bookstore')",Shops and Service,Bookstore
+90912,부평종합서점,Bupyeong Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+91991,보람서점,Boram Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+94931,책방모도,bookshelf,"('책방', 'Bookstore')",Shops and Service,Bookstore
+97304,월드서점책문구,world bookstore,"('문구', 'Stationary')",Shops and Service,Bookstore
+101597,한미서점,Hanmi Book Store,"('서점', 'Bookstore')",Shops and Service,Bookstore
+104259,해원서점문구,Haewon Bookstore Stationery,"('문구', 'Stationary')",Shops and Service,Bookstore
+121658,부평문고,Bupyeong Library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+125973,서협문고,Seohyup library,"('문고', 'Bookstore')",Shops and Service,Bookstore
+127235,영풍문고인천점,Yeongpoong Bookstore Incheon,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
+130042,영풍문고 인천터미널점,Yeongpoong Bookstore Incheon Terminal,"('영풍문고', 'Youngpoong Bookstore')",Shops and Service,Bookstore
+130782,아가서적 논현점,Song of Songs Nonhyeon Branch,"('서적', 'Book')",Shops and Service,Bookstore

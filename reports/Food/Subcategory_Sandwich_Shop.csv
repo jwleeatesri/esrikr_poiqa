@@ -1,2 +1,2 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-133110,133111,27156203,대만샌드위치 메이젠 본점,,Taiwan Sandwich Meizen Main Store,Food,Sandwich Shop,126.64915017184688,37.39717009081286,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,신송로,153,21-38,2022-08-12 13:15:03,음식||양식||샌드위치||프랜차이즈||메이젠,False
+,name,name_eng,problems,category,subcategory
+133110,대만샌드위치 메이젠 본점,Taiwan Sandwich Meizen Main Store,"('본점', 'Main Branch')",Food,Sandwich Shop

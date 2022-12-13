@@ -1,41 +1,25 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-9397,9398,2386392,피자마루 계산점,,Pizza Floor Checkout,Food,Pizza,126.73130771282392,37.542669881482205,대한민국,KOR,KOR,인천광역시,계양구,,계산동,,경명대로,1116,348-2,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자마루,False
-20252,20253,27449952,피자헛 인천검암점,,Pizza Hut Incheon Geomam Branch,Food,Pizza,126.68269042768068,37.56643370376037,대한민국,KOR,KOR,인천광역시,서구,,검암동,,승학로,568,514-6,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자헛,False
-22544,22545,5668744,피자나라치킨공주 관교점,피자나라관교점,Pizza Nara Chicken Princess Gwangyo Branch,Food,Pizza,126.69497846611588,37.44821769271257,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,문화서로23번길,28,1359-5,2022-05-18 11:21:23,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-33933,33934,27068927,피자나라치킨공주 인천구월만수점,,Pizza Nara Chicken Princess Incheon Guwolmansu,Food,Pizza,126.72648910927492,37.45387447410925,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,구월말로58번길,28,919,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-36289,36290,3954104,피자나라치킨공주 인천검단점,피자나라검단점,Pizza Nara Chicken Princess Incheon Geomdan Branch,Food,Pizza,126.67584635583869,37.59584907725414,대한민국,KOR,KOR,인천광역시,서구,,마전동,,원당대로685번길,31,1055-1,2022-08-24 14:41:06,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-37717,37718,241771,피자헛 부흥오거리점,,Pizza Hut Buheung Ogeori Branch,Food,Pizza,126.73078929400648,37.4991401818506,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,장제로,154,126-1,2022-05-01 12:37:48,음식||양식||피자||프랜차이즈||피자헛,False
-37941,37942,693471,피자헛 연수동춘점,PIZZAHUT 연수동춘점,Pizza Hut Yeonsudongchun,Food,Pizza,126.66592236143192,37.40799310507215,대한민국,KOR,KOR,인천광역시,연수구,,동춘동,,봉재산로44번길,3,1141,2022-08-30 9:43:30,음식||양식||피자||프랜차이즈||피자헛,False
-42425,42426,27187129,피자나라치킨공주 인천청라2호점,,Pizza Nara Chicken Princess Incheon Cheongna 2nd Branch,Food,Pizza,126.64091820933783,37.53765836901671,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라루비로144번길,6-4,142-3,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-45732,45733,3623359,수피자 길상점,,Sufija Gilsang Store,Food,Pizza,126.48547222250068,37.639716795653605,대한민국,KOR,KOR,인천광역시,강화군,,길상면,온수리,마니산로,65,436-18,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||수피자,False
-49152,49153,27453460,피자헛 인천남동점,,Pizza Hut Incheon Namdong,Food,Pizza,126.70759410265974,37.44744058061443,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,남동대로,730,1191-9,2022-08-30 9:43:30,음식||양식||피자||프랜차이즈||피자헛,False
-51403,51404,3589360,피자헛 청라점,PIZZAHUT청라점,Pizza Hut Cheongna Branch,Food,Pizza,126.64443098739287,37.536487204142176,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라커낼로319번길,3-5,144-22,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자헛,False
-52315,52316,859612,피자헛 용현점,PIZZAHUT 용현점,Pizza Hut Yonghyeon,Food,Pizza,126.65031231647588,37.45655908769778,대한민국,KOR,KOR,인천광역시,미추홀구,,용현동,,인주대로,119,459-67,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-63489,63490,3113639,수피자 강화점,,Sufija Ganghwa,Food,Pizza,126.49050117310544,37.743464825355595,대한민국,KOR,KOR,인천광역시,강화군,,강화읍,관청리,강화대로,358,102-12,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||수피자,False
-63539,63540,3125842,오구쌀피자 인천갈산점,오구쌀피자 갈산점,Ogu Pizza Galsan Branch,Food,Pizza,126.72620339223354,37.5114849486261,대한민국,KOR,KOR,인천광역시,부평구,,갈산동,,주부토로,184,367-4,2022-09-06 15:18:26,음식||양식||피자||프랜차이즈||59피자,False
-64647,64648,27183473,수피자 송도신도시점,,Sufija Songdo New Town Branch,Food,Pizza,126.65341149999993,37.37491889999976,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,송도문화로28번길,28,190-2,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||수피자,False
-67822,67823,3133736,피자나라치킨공주 인천 화평점,,Pizza Nara Chicken Princess Incheon Hwapyeong,Food,Pizza,126.63066985911387,37.48033116598648,대한민국,KOR,KOR,인천광역시,동구,,화평동,,화도진로88번길,21,3-189,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-70164,70165,4342732,피자헛 인천박촌점,PIZZAHUT인천박촌점,Pizza Hut Incheon Bakchon Branch,Food,Pizza,126.74600240044096,37.5565483012586,대한민국,KOR,KOR,인천광역시,계양구,,박촌동,,동양로,11,309,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자헛,False
-73933,73934,27446902,피자헛 송도점,PIZZAHUT 송도점,Pizza Hut Songdo,Food,Pizza,126.66217825782287,37.38942859256345,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,신송로6번길,7,2-12,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자헛,False
-74173,74174,20010689,명품임실치즈피자 구월점,임실치즈피자,Luxury Imsil Cheese Pizza,Food,Pizza,126.71438229999995,37.45117999999978,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,용천로,18,1225-34,2022-08-26 9:52:19,음식||양식||피자||프랜차이즈||명품임실치즈피자,False
-82112,82113,4458634,피자나라치킨공주 인천가정점,피자나라인천가정점,Pizza Nara Chicken Princess Incheon Gajeong,Food,Pizza,126.6739809058109,37.515366393599514,대한민국,KOR,KOR,인천광역시,서구,,가정동,,가경주로24번길,4-1,519-3,2022-05-01 12:37:48,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-82895,82896,5658211,피자나라치킨공주 인천숭의점,피자나라숭의점,Pizza Nara Chicken Princess Incheon Soongui Branch,Food,Pizza,126.64818650303089,37.45911503685058,대한민국,KOR,KOR,인천광역시,미추홀구,,숭의동,,장천로24번길,21,294-24,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-84004,84005,3027172,피자나라치킨공주 학익주안점,피자나라 학익주안점,Pizza Nara Chicken Princess Hakikjuan,Food,Pizza,126.67311706671488,37.45055981520117,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,인주대로330번길,23,1421-18,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-88293,88294,1246897,피자헛 인천검단점,,Pizza Hut Incheon Geomdan Branch,Food,Pizza,126.67568336269532,37.593906842219255,대한민국,KOR,KOR,인천광역시,서구,,마전동,,원당대로,669,1057-4,2022-05-01 12:37:48,음식||양식||피자||프랜차이즈||피자헛,False
-88369,88370,27489366,피자헛 인천논현점,,Pizza Hut Incheon Nonhyeon,Food,Pizza,126.73320391245484,37.4021856533462,대한민국,KOR,KOR,인천광역시,남동구,,논현동,,소래역동로,2-15,666-7,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-88871,88872,2386146,피자마루 인천관교점,,Pizza Maru Gwangyo Branch,Food,Pizza,126.6947113434449,37.44233017063871,대한민국,KOR,KOR,인천광역시,미추홀구,,관교동,,주승로,234-1,493-5,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자마루,False
-89456,89457,2386390,피자마루 인천 효성점,,Pizza Maru Hyosung 1st Store,Food,Pizza,126.71036373610052,37.53341690105045,대한민국,KOR,KOR,인천광역시,계양구,,효성동,,안남로,566,60-13,2022-08-26 9:52:19,음식||양식||피자||프랜차이즈||피자마루,False
-90198,90199,3589617,피자나라치킨공주 인천연수점,피자나라 인천연수점,Pizza Nara Chicken Princess Incheon Yeonsu Branch,Food,Pizza,126.6822262143599,37.41495866033237,대한민국,KOR,KOR,인천광역시,연수구,,연수동,,벚꽃로158번길,5,619-13,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-92487,92488,3027174,피자나라치킨공주 인천작전점,피자나라인천작전점,Pizza Nara Chicken Princess Incheon Jakjeon Branch,Food,Pizza,126.7270144814194,37.534315166518326,대한민국,KOR,KOR,인천광역시,계양구,,작전동,,주부토로449번길,8,858-5,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-92779,92780,5663755,피자나라치킨공주 옥련점,피자나라 옥련점,Pizza Nara Chicken Princess Ongnyeon,Food,Pizza,126.64887483773587,37.427903993526336,대한민국,KOR,KOR,인천광역시,연수구,,옥련동,,한진로,62,126-1,2022-09-06 15:18:26,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-101532,101533,26978830,피자헛 인천신기점,,Pizza Hut Incheon Shinki Branch,Food,Pizza,126.6794411510329,37.44880751844755,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,미추홀대로,577,1460-6,2022-05-01 12:37:48,음식||양식||피자||프랜차이즈||피자헛,False
-109296,109297,1258163,피자헛 동암점,PIZZAHUT동암점,Pizza Hut Dongam,Food,Pizza,126.70130599798692,37.47022285481729,대한민국,KOR,KOR,인천광역시,부평구,,십정동,,열우물로,22,408-11,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-111170,111171,3589526,피자나라치킨공주 인천십정점,,Pizza Nara Chicken Princess Incheon 10Jeong,Food,Pizza,126.69887222493288,37.46953187985779,대한민국,KOR,KOR,인천광역시,부평구,,십정동,,백범로478번길,8-3,440-2,2022-05-18 11:21:23,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-122458,122459,3120917,피자헛 동인천역점,PIZZAHUT 동인천역점,Pizza Hut Dongincheon Station Branch,Food,Pizza,126.63042151021386,37.47395555207057,대한민국,KOR,KOR,인천광역시,중구,,인현동,,우현로,80,67,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-125605,125606,5665383,수피자 구월동점,SooPizza구월동점,Supija Guwol-dong,Food,Pizza,126.69590072532588,37.446682767756265,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,문화서로,15,1393-2,2022-08-24 14:41:06,음식||양식||피자||프랜차이즈||수피자,False
-135002,135003,3027175,피자나라치킨공주 검암연희점,피자나라검암경서점,Pizza Nara Chicken Princess Geomam Yeonhui,Food,Pizza,126.68051874720788,37.56749503530792,대한민국,KOR,KOR,인천광역시,서구,,검암동,,검암로,38,503-2,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자나라치킨공주,False
-135155,135156,4339779,수피자 부평점,,Supija Bupyeong,Food,Pizza,126.7321792779509,37.49034597783661,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,부일로,17,494-1,2022-08-12 13:15:03,음식||양식||피자||프랜차이즈||수피자,False
-137748,137749,162946,피자헛 만수역점,PIZZAHUT만수2호점,Pizza Hut Mansu Station Branch,Food,Pizza,126.73065567406891,37.454896361632265,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,구월로,360,948-6,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-138342,138343,3954863,피자헛 영종스카이점,,Pizza Hut Yeongjong Sky,Food,Pizza,126.49837192848068,37.49478998001714,대한민국,KOR,KOR,인천광역시,중구,,운서동,,화랑목로100번길,74,3044-5,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자헛,False
-144150,144151,302984,피자헛 가정2호점,,Pizza Hut Family 2,Food,Pizza,126.6676036125489,37.51791420814138,대한민국,KOR,KOR,인천광역시,서구,,신현동,,원창로,163,82-6,2022-08-18 12:00:50,음식||양식||피자||프랜차이즈||피자헛,False
-145330,145331,2855794,피자스쿨연수점,PIZZASchool연수점,Pizza School Training Center,Food,Pizza,126.68026642643991,37.41288415244376,대한민국,KOR,KOR,인천광역시,연수구,,연수동,,용담로,148,625-6,2022-08-16 16:52:33,음식||양식||피자||프랜차이즈||피자스쿨,False
+,name,name_eng,problems,category,subcategory
+9397,피자마루 계산점,Pizza Floor Checkout,"('마루', 'Maru')",Food,Pizza
+22544,피자나라치킨공주 관교점,Pizza Nara Chicken Princess Gwangyo Branch,"('공주', 'Gongju')",Food,Pizza
+33933,피자나라치킨공주 인천구월만수점,Pizza Nara Chicken Princess Incheon Guwolmansu,"('공주', 'Gongju')",Food,Pizza
+36289,피자나라치킨공주 인천검단점,Pizza Nara Chicken Princess Incheon Geomdan Branch,"('공주', 'Gongju')",Food,Pizza
+42425,피자나라치킨공주 인천청라2호점,Pizza Nara Chicken Princess Incheon Cheongna 2nd Branch,"('공주', 'Gongju')",Food,Pizza
+45732,수피자 길상점,Sufija Gilsang Store,"('피자', 'Pizza')",Food,Pizza
+63489,수피자 강화점,Sufija Ganghwa,"('피자', 'Pizza')",Food,Pizza
+63539,오구쌀피자 인천갈산점,Ogu Pizza Galsan Branch,"('인천', 'Incheon')",Food,Pizza
+64647,수피자 송도신도시점,Sufija Songdo New Town Branch,"('피자', 'Pizza')",Food,Pizza
+67822,피자나라치킨공주 인천 화평점,Pizza Nara Chicken Princess Incheon Hwapyeong,"('공주', 'Gongju')",Food,Pizza
+74173,명품임실치즈피자 구월점,Luxury Imsil Cheese Pizza,"('구월', 'Guwol')",Food,Pizza
+82112,피자나라치킨공주 인천가정점,Pizza Nara Chicken Princess Incheon Gajeong,"('공주', 'Gongju')",Food,Pizza
+82895,피자나라치킨공주 인천숭의점,Pizza Nara Chicken Princess Incheon Soongui Branch,"('공주', 'Gongju')",Food,Pizza
+84004,피자나라치킨공주 학익주안점,Pizza Nara Chicken Princess Hakikjuan,"('공주', 'Gongju')",Food,Pizza
+88871,피자마루 인천관교점,Pizza Maru Gwangyo Branch,"('인천', 'Incheon')",Food,Pizza
+89456,피자마루 인천 효성점,Pizza Maru Hyosung 1st Store,"('인천', 'Incheon')",Food,Pizza
+90198,피자나라치킨공주 인천연수점,Pizza Nara Chicken Princess Incheon Yeonsu Branch,"('공주', 'Gongju')",Food,Pizza
+92487,피자나라치킨공주 인천작전점,Pizza Nara Chicken Princess Incheon Jakjeon Branch,"('공주', 'Gongju')",Food,Pizza
+92779,피자나라치킨공주 옥련점,Pizza Nara Chicken Princess Ongnyeon,"('공주', 'Gongju')",Food,Pizza
+111170,피자나라치킨공주 인천십정점,Pizza Nara Chicken Princess Incheon 10Jeong,"('공주', 'Gongju')",Food,Pizza
+125605,수피자 구월동점,Supija Guwol-dong,"('피자', 'Pizza')",Food,Pizza
+135002,피자나라치킨공주 검암연희점,Pizza Nara Chicken Princess Geomam Yeonhui,"('공주', 'Gongju')",Food,Pizza
+135155,수피자 부평점,Supija Bupyeong,"('피자', 'Pizza')",Food,Pizza
+145330,피자스쿨연수점,Pizza School Training Center,"('연수', 'Yeonsu')",Food,Pizza

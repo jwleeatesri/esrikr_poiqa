@@ -1,36 +1,36 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-2151,2152,3128863,한우동 아울렛점,,Hanwoo Dong Outlet Store,Food,Japanese Food,126.70359572546188,37.52175422736448,대한민국,KOR,KOR,인천광역시,부평구,,청천동,,마장로,489,386,2022-08-18 12:00:50,"음식||일식||우동,소바||프랜차이즈||한우동",False
-4095,4096,1268796,용우동 인천계양구청점,,Yongwoo-dong Incheon Gyeyang-gu Office Branch,Food,Japanese Food,126.73716098622904,37.53975663441374,대한민국,KOR,KOR,인천광역시,계양구,,용종동,,오조산공원로,22,209-4,2022-08-18 12:00:50,"음식||일식||우동,소바||프랜차이즈||용우동",False
-11691,11692,27069609,육회왕자연어공주 인천계산점,,King Yukhoe Natural Language Princess Incheon Gyesan Branch,Food,Japanese Food,126.73424529999993,37.532887299999835,대한민국,KOR,KOR,인천광역시,계양구,,작전동,,장제로,728,900-1,2022-08-12 13:15:03,음식||일식||일식당||프랜차이즈||육회왕자연어공주,False
-15825,15826,27053390,삼학도일식,,Three-Hakdo Japanese Eclipse,Food,Japanese Food,126.59683403356787,37.47323654167344,대한민국,KOR,KOR,인천광역시,중구,,북성동1가,,월미문화로,57-1,98-277,2022-05-01 12:37:48,음식||일식||일식당||일식당-일반,False
-16391,16392,26979187,방이샤브샤브칼국수 예술회관점,,Bangi Shabu Shabu Kalguksu Art Center Branch,Food,Japanese Food,126.69886299999988,37.44722069999968,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,문화로89번길,6,1367-15,2022-09-06 15:18:26,음식||일식||샤브샤브||프랜차이즈||방이샤브샤브칼국수,False
-16506,16507,5681054,덴세츠라멘 인하대본점,,Densetsu Ramen Inha University Main Store,Food,Japanese Food,126.65609589910788,37.45209840334657,대한민국,KOR,KOR,인천광역시,미추홀구,,용현동,,인하로67번길,13,197-18,2022-08-16 16:52:33,음식||일식||일본식라면||일본식라면-일반,False
-25093,25094,537715,주원일식,,juwon solar eclipse,Food,Japanese Food,126.69915464072642,37.4513164913401,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,문화로133번길,8-5,1110-10,2022-08-18 12:00:50,음식||일식||일식당||일식당-일반,False
-35522,35523,20482682,큰손샤브샤브,,big hand shabu shabu,Food,Japanese Food,126.65682259999996,37.4519069999998,대한민국,KOR,KOR,인천광역시,미추홀구,,용현동,,경인남길30번길,41,194-25,2022-08-12 13:15:03,음식||일식||샤브샤브||샤브샤브-일반,False
-39091,39092,3133865,산촌샤브샤브칼국수,,Sanchon Shabu Shabu Kalguksu,Food,Japanese Food,126.70845200028587,37.50329499970098,대한민국,KOR,KOR,인천광역시,부평구,,산곡동,,안남로,229,159-50,2022-08-16 16:52:33,음식||일식||샤브샤브||샤브샤브-일반,False
-42341,42342,20012600,박승광샤브샤브,,Park Seung-kwang Shabu Shabu,Food,Japanese Food,126.6631024316959,37.44018349153907,대한민국,KOR,KOR,인천광역시,미추홀구,,학익동,,매소홀로,372,689-1,2019-11-14 0:00:00,음식||일식||샤브샤브||샤브샤브-일반,False
-48655,48656,374222,가빈돈까스 본점,,Gavin Pork Cutlet Main Store,Food,Japanese Food,126.7227136456029,37.547652606923606,대한민국,KOR,KOR,인천광역시,계양구,,계산동,,계양산로,64,898-8,2022-08-18 12:00:50,음식||일식||돈가스||돈가스-일반,False
-52716,52717,5455792,명진일식, ,Myongjin Eclipse,Food,Japanese Food,126.62369518146448,37.471581891439484,대한민국,KOR,KOR,인천광역시,중구,,중앙동4가,,신포로23번길,21,8-3,2022-08-30 9:43:30,음식||일식||일식당||일식당-일반,False
-57125,57126,27258106,소문난 수제돈가스,,Famous handmade pork cutlet,Food,Japanese Food,126.73678173075292,37.53496653613471,대한민국,KOR,KOR,인천광역시,계양구,,계산동,,계양문화로,48,1082-10,2022-05-01 12:37:48,음식||일식||돈가스||돈가스-일반,False
-59512,59513,4888261,진달래샤브샤브,,Azalea Shabu Shabu,Food,Japanese Food,126.72915913759192,37.49430657588969,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,부평문화로,115,522-4,2022-08-16 16:52:33,음식||일식||샤브샤브||샤브샤브-일반,False
-62365,62366,27256599,다래회초밥,,Darae Sashimi,Food,Japanese Food,126.62305555320742,37.415263690879385,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,랜드마크로,68,311-1,2022-05-01 12:37:48,음식||일식||일식당||일식당-일반,False
-66680,66681,2597450,설가네샤브샤브,,Seolgane Shabu Shabu,Food,Japanese Food,126.67037617501188,37.46526138692927,대한민국,KOR,KOR,인천광역시,미추홀구,,도화동,,숙골로8번길,33,558-8,2022-08-12 13:15:03,음식||일식||샤브샤브||샤브샤브-일반,False
-69543,69544,26945771,육회야문연어 본점,,Yukhoe Yamun Salmon Main Store,Food,Japanese Food,126.6658504999999,37.40793829999976,대한민국,KOR,KOR,인천광역시,연수구,,동춘동,,봉재산로44번길,3,1141,2022-08-30 9:43:30,음식||일식||일식당||일식당-일반,False
-73640,73641,4326917,용우동 인천만수점,,Yongwoo-dong Incheon Bay Branch,Food,Japanese Food,126.73855799999998,37.44128649999978,대한민국,KOR,KOR,인천광역시,남동구,,만수동,,담방로21번길,3,1045,2022-08-18 12:00:50,"음식||일식||우동,소바||프랜차이즈||용우동",False
-77572,77573,5695214,화초밥,,flower rice,Food,Japanese Food,126.70850002125296,37.44317578774789,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,성리로,2,1492-4,2022-08-24 14:41:06,음식||일식||일식당||일식당-일반,False
-80331,80332,27224460,목동수제돈가스,,Mokdong handmade pork cutlet,Food,Japanese Food,126.68366775349791,37.494340284674,대한민국,KOR,KOR,인천광역시,서구,,가좌동,,원적로96번길,11-1,30-54,2022-08-12 13:15:03,음식||일식||돈가스||돈가스-일반,False
-82562,82563,370729,우정일식,,friendship eclipse,Food,Japanese Food,126.62233598800314,37.4728072417295,대한민국,KOR,KOR,인천광역시,중구,,중앙동2가,,신포로27번길,57,5,2022-08-08 10:29:42,음식||일식||일식당||일식당-일반,False
-83678,83679,4329256,유래일식,,eclipse of origin,Food,Japanese Food,126.62699587144483,37.470605562379674,대한민국,KOR,KOR,인천광역시,중구,,신포동,,우현로35번길,6,17-15,2022-08-18 12:00:50,음식||일식||일식당||일식당-일반,False
-90869,90870,27330102,역전우동0410 인천루원시티점,,Yeokjeon U-dong 0410 Incheon Luwon City Branch,Food,Japanese Food,126.67141790528488,37.5226307291713,대한민국,KOR,KOR,인천광역시,서구,,가정동,,,,479-12,2022-09-06 15:18:26,"음식||일식||우동,소바||프랜차이즈||역전우동0410",False
-93851,93852,20087575,금화왕돈까스 가좌본점,,Geumhwa King Pork Cutlet Gajwa Main Store,Food,Japanese Food,126.67091729999996,37.488784799999806,대한민국,KOR,KOR,인천광역시,서구,,가좌동,,가정로37번길,4,578-1,2019-03-12 0:00:00,음식||일식||돈가스||프랜차이즈||금화왕돈까스,False
-102078,102079,5723276,삼원일식,,three-way eclipse,Food,Japanese Food,126.67664649896288,37.45944505246896,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,경인로325번길,14,199-8,2022-05-01 12:37:48,음식||일식||일식당||일식당-일반,False
-102620,102621,20014748,용우동 인천검단점,,Yongwoo-dong Incheon Geomdan Branch,Food,Japanese Food,126.65708448692288,37.60168092014963,대한민국,KOR,KOR,인천광역시,서구,,왕길동,,검단로,474,659-5,2022-08-18 12:00:50,"음식||일식||우동,소바||프랜차이즈||용우동",False
-103377,103378,1852241,채선당 인천연수점,채선당샤브샤브연수점,Chaeseondang Yeonsujeom (Shabu & Grilled Korean Beef),Food,Japanese Food,126.67773280177389,37.41434542631506,대한민국,KOR,KOR,인천광역시,연수구,,연수동,,용담로118번길,7,598-15,2022-09-06 15:18:26,음식||일식||샤브샤브||프랜차이즈||채선당,False
-104981,104982,3431012,채선당 월남쌈&샤브샤브 인천주안점,,Chaeseondang Incheon Juan Branch,Food,Japanese Food,126.67993636242288,37.46056743639138,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,미추홀대로,707,206-4,2022-08-16 16:52:33,음식||일식||샤브샤브||프랜차이즈||채선당,False
-112553,112554,27243012,청라바다사나이 본점,,Cheongna Sea Man Main Store,Food,Japanese Food,126.66457653582152,37.55203732126273,대한민국,KOR,KOR,인천광역시,서구,,연희동,,봉수대로,806,826,2022-05-01 12:37:48,음식||일식||돈가스||돈가스-일반,False
-113861,113862,26879703,난바우동딜리버리 부평점,,Namba udon,Food,Japanese Food,126.73616022588878,37.50278220260376,대한민국,KOR,KOR,인천광역시,부평구,,부개동,,충선로149번길,2,21-10,2022-08-24 14:41:06,"음식||일식||우동,소바||우동,소바-일반",False
-119469,119470,4335514,불타는돈가스,,burning pork belly,Food,Japanese Food,126.71140004285031,37.465134417135616,대한민국,KOR,KOR,인천광역시,남동구,,간석동,,백범로,353,171-1,2022-08-16 16:52:33,음식||일식||돈가스||돈가스-일반,False
-123731,123732,27053344,역전우동0410 연수구청점,,Yeokjeon U-dong 0410 Yeonsu-gu Office Branch,Food,Japanese Food,126.6764358569079,37.413755721881465,대한민국,KOR,KOR,인천광역시,연수구,,연수동,,청능대로,103,599,2022-08-12 13:15:03,"음식||일식||우동,소바||프랜차이즈||역전우동0410",False
-140078,140079,27444231,육회왕자연어공주 부평점,,King Yukhoe Natural Language Princess Bupyeong Branch,Food,Japanese Food,126.72871524768986,37.48953091850823,대한민국,KOR,KOR,인천광역시,부평구,,부평동,,장제로,45,539-2,2022-08-12 13:15:03,음식||일식||일식당||프랜차이즈||육회왕자연어공주,False
-144140,144141,27226242,부자돈까스 본점,,Bubu Pork Cutlet Main Store,Food,Japanese Food,126.74328958792493,37.48472001490849,대한민국,KOR,KOR,인천광역시,부평구,,일신동,,경인로1118번길,14-7,107,2022-08-16 16:52:33,음식||일식||돈가스||돈가스-일반,False
-144292,144293,26996897,이백장돈가스 인천간석점,,Lee Baek Jang Pork Cutlet Incheon Ganseok Branch,Food,Japanese Food,126.71496923209487,37.46299635354051,대한민국,KOR,KOR,인천광역시,남동구,,간석동,,용천로,154,39-8,2022-05-01 12:37:48,음식||일식||돈가스||프랜차이즈||이백장돈가스,False
+,name,name_eng,problems,category,subcategory
+2151,한우동 아울렛점,Hanwoo Dong Outlet Store,"('우동', 'Udon')",Food,Japanese Food
+4095,용우동 인천계양구청점,Yongwoo-dong Incheon Gyeyang-gu Office Branch,"('우동', 'Udon')",Food,Japanese Food
+11691,육회왕자연어공주 인천계산점,King Yukhoe Natural Language Princess Incheon Gyesan Branch,"('연어', 'Salmon')",Food,Japanese Food
+15825,삼학도일식,Three-Hakdo Japanese Eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
+16391,방이샤브샤브칼국수 예술회관점,Bangi Shabu Shabu Kalguksu Art Center Branch,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+16506,덴세츠라멘 인하대본점,Densetsu Ramen Inha University Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+25093,주원일식,juwon solar eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
+35522,큰손샤브샤브,big hand shabu shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+39091,산촌샤브샤브칼국수,Sanchon Shabu Shabu Kalguksu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+42341,박승광샤브샤브,Park Seung-kwang Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+48655,가빈돈까스 본점,Gavin Pork Cutlet Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+52716,명진일식,Myongjin Eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
+57125,소문난 수제돈가스,Famous handmade pork cutlet,"('돈가스', 'Tonkatsu')",Food,Japanese Food
+59512,진달래샤브샤브,Azalea Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+62365,다래회초밥,Darae Sashimi,"('초밥', 'Sushi')",Food,Japanese Food
+66680,설가네샤브샤브,Seolgane Shabu Shabu,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+69543,육회야문연어 본점,Yukhoe Yamun Salmon Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+73640,용우동 인천만수점,Yongwoo-dong Incheon Bay Branch,"('우동', 'Udon')",Food,Japanese Food
+77572,화초밥,flower rice,"('초밥', 'Sushi')",Food,Japanese Food
+80331,목동수제돈가스,Mokdong handmade pork cutlet,"('돈가스', 'Tonkatsu')",Food,Japanese Food
+82562,우정일식,friendship eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
+83678,유래일식,eclipse of origin,"('일식', 'Japanese Food')",Food,Japanese Food
+90869,역전우동0410 인천루원시티점,Yeokjeon U-dong 0410 Incheon Luwon City Branch,"('우동', 'Udon')",Food,Japanese Food
+93851,금화왕돈까스 가좌본점,Geumhwa King Pork Cutlet Gajwa Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+102078,삼원일식,three-way eclipse,"('일식', 'Japanese Food')",Food,Japanese Food
+102620,용우동 인천검단점,Yongwoo-dong Incheon Geomdan Branch,"('우동', 'Udon')",Food,Japanese Food
+103377,채선당 인천연수점,Chaeseondang Yeonsujeom (Shabu & Grilled Korean Beef),"('인천', 'Incheon')",Food,Japanese Food
+104981,채선당 월남쌈&샤브샤브 인천주안점,Chaeseondang Incheon Juan Branch,"('샤브샤브', 'Shabu-shabu')",Food,Japanese Food
+112553,청라바다사나이 본점,Cheongna Sea Man Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+113861,난바우동딜리버리 부평점,Namba udon,"('부평', 'Bupyeong')",Food,Japanese Food
+119469,불타는돈가스,burning pork belly,"('돈가스', 'Tonkatsu')",Food,Japanese Food
+123731,역전우동0410 연수구청점,Yeokjeon U-dong 0410 Yeonsu-gu Office Branch,"('우동', 'Udon')",Food,Japanese Food
+140078,육회왕자연어공주 부평점,King Yukhoe Natural Language Princess Bupyeong Branch,"('연어', 'Salmon')",Food,Japanese Food
+144140,부자돈까스 본점,Bubu Pork Cutlet Main Store,"('본점', 'Main Branch')",Food,Japanese Food
+144292,이백장돈가스 인천간석점,Lee Baek Jang Pork Cutlet Incheon Ganseok Branch,"('돈가스', 'Tonkatsu')",Food,Japanese Food

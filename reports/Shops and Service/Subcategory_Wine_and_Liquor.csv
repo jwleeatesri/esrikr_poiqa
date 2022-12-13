@@ -1,6 +1,6 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-5593,5594,5762205,더바인컴퍼니,,the vine,Shops and Service,Wine and Liquor,126.62038229999985,37.47185869999976,대한민국,KOR,KOR,인천광역시,중구,,항동4가,,제물량로,215,3,2022-06-29 11:25:35,"쇼핑,편의||식료품||주류||와인",False
-17596,17597,5171332,헝가리와인,,Hungarian wine,Shops and Service,Wine and Liquor,126.65573079999996,37.53360729999982,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라에메랄드로,99,165-12,2022-08-12 13:15:03,"쇼핑,편의||식료품||주류||와인",False
-27856,27857,27183563,니키네와인가게,,Nikine Wine Shop,Shops and Service,Wine and Liquor,126.65237127959529,37.3767050747671,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,송도문화로28번길,28,190-2,2022-05-01 12:37:48,"쇼핑,편의||식료품||주류||와인",False
-113506,113507,26959300,비어마당,,beer garden,Shops and Service,Wine and Liquor,126.67284670760988,37.450612482374055,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,인주대로320번길,21-34,1418-83,2022-08-16 16:52:33,"쇼핑,편의||식료품||주류||와인",False
-129777,129778,27021666,아영에프비씨 롯데백화점 인천점,,Ayoung FC Lotte Department Store Incheon Branch,Shops and Service,Wine and Liquor,126.70137839999988,37.44248529999977,대한민국,KOR,KOR,인천광역시,미추홀구,,관교동,,연남로,35,15,2022-05-01 12:37:48,"쇼핑,편의||식료품||주류||와인",False
+,name,name_eng,problems,category,subcategory
+5593,더바인컴퍼니,the vine,"('컴퍼니', 'Company')",Shops and Service,Wine and Liquor
+17596,헝가리와인,Hungarian wine,"('헝가리', 'Hungary')",Shops and Service,Wine and Liquor
+27856,니키네와인가게,Nikine Wine Shop,"('가게', 'Store')",Shops and Service,Wine and Liquor
+113506,비어마당,beer garden,"('마당', 'Madang')",Shops and Service,Wine and Liquor
+129777,아영에프비씨 롯데백화점 인천점,Ayoung FC Lotte Department Store Incheon Branch,"('아영에프비씨', 'Ayoung FBC')",Shops and Service,Wine and Liquor

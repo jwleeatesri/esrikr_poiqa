@@ -1,2 +1,2 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-115559,115560,4383535,승기철교,,Seunggi Cheol Bridge,Travel and Transport,Bridge,126.68877349999995,37.411749799999775,대한민국,KOR,KOR,인천광역시,남동구,,논현동,,,,471-1,2016-08-10 12:13:14,"지형,지물||철도시설||시설||기타노선||교량",False
+,name,name_eng,problems,category,subcategory
+115559,승기철교,Seunggi Cheol Bridge,"('철교', 'Railway Bridge')",Travel and Transport,Bridge

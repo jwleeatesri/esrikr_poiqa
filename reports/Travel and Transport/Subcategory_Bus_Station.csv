@@ -1,17 +1,17 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-1667,1668,2609055,정류장,,station,Travel and Transport,Bus Station,126.42542799958778,37.433016999724,대한민국,KOR,KOR,인천광역시,중구,,덕교동,,용유로93번길,15,73-1,2021-12-23 15:49:18,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-12384,12385,2598055,인천스타트업파크복합환승센터,투모로우시티환승센터,Incheon Startup Park Complex Transfer Center,Travel and Transport,Bus Station,126.64045649999883,37.38745409999935,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,컨벤시아대로,204,93,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||버스환승센터",False
-26330,26331,2601565,정류장,,station,Travel and Transport,Bus Station,126.4262270004938,37.432557999713474,대한민국,KOR,KOR,인천광역시,중구,,덕교동,,,,76-1,2021-12-23 15:49:18,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-27690,27691,2601564,정류장,,station,Travel and Transport,Bus Station,126.42677400047477,37.43188100045949,대한민국,KOR,KOR,인천광역시,중구,,운서동,,,,3221,2021-12-23 15:49:18,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-31746,31747,1255112,정류장,,station,Travel and Transport,Bus Station,126.61543750001792,37.476384600482085,대한민국,KOR,KOR,인천광역시,중구,,북성동1가,,월미로,22,4-3,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-63563,63564,3630729,소래포구역환승센터,소래포구역버스환승센터,Soraepo Station Transfer Center,Travel and Transport,Bus Station,126.73374879999996,37.400365199999776,대한민국,KOR,KOR,인천광역시,남동구,,논현동,,,,750-1,2018-04-20 17:17:17,"도로,교통||교통시설||버스터미널,정류장||버스환승센터",False
-66427,66428,36037,바리미마을,,Barimi Village,Travel and Transport,Bus Station,126.71683347350493,37.59379710486064,대한민국,KOR,KOR,인천광역시,서구,,원당동,,,,434-7,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-72102,72103,156616,인천영어마을,,Incheon English Village,Travel and Transport,Bus Station,126.71150920036496,37.59226871982144,대한민국,KOR,KOR,인천광역시,서구,,원당동,,,,480-19,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-81194,81195,939238,정류장,,station,Travel and Transport,Bus Station,126.4243919996868,37.42368100025137,대한민국,KOR,KOR,인천광역시,중구,,덕교동,,,,128-51,2021-12-23 15:49:18,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-83605,83606,883294,유현마을,,Yuhyeon Village,Travel and Transport,Bus Station,126.72119564014093,37.59639351044635,대한민국,KOR,KOR,인천광역시,서구,,원당동,,,,284-1,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-98029,98030,572125,인천영어마을,,Incheon English Village,Travel and Transport,Bus Station,126.71157170961393,37.591827099676244,대한민국,KOR,KOR,인천광역시,서구,,당하동,,,,1171,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-100143,100144,3239054,송도시외버스환승센터,송도신도시시외버스정률장,Song Intercity Bus Transfer Terminal,Travel and Transport,Bus Station,126.64058299956989,37.38730240122304,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,,,91,2022-08-08 10:29:42,"도로,교통||교통시설||버스터미널,정류장||버스환승센터",False
-108789,108790,801291,정류장,,station,Travel and Transport,Bus Station,126.71233433015097,37.584861139761934,대한민국,KOR,KOR,인천광역시,서구,,당하동,,,,531-5,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-119251,119252,302976,정류장,,station,Travel and Transport,Bus Station,126.4232599999528,37.428319999484565,대한민국,KOR,KOR,인천광역시,중구,,운서동,,,,3220,2021-12-23 15:49:18,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-134090,134091,1254735,정류장,,station,Travel and Transport,Bus Station,126.60657499975991,37.4689929404026,대한민국,KOR,KOR,인천광역시,중구,,북성동1가,,,,125,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
-145573,145574,1856373,정류장,,station,Travel and Transport,Bus Station,126.60891800008892,37.477161000304285,대한민국,KOR,KOR,인천광역시,중구,,북성동1가,,,,6-44,2022-05-01 12:37:48,"도로,교통||교통시설||버스터미널,정류장||시내버스정류장명",False
+,name,name_eng,problems,category,subcategory
+1667,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+12384,인천스타트업파크복합환승센터,Incheon Startup Park Complex Transfer Center,"('환승', 'Transit')",Travel and Transport,Bus Station
+26330,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+27690,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+31746,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+63563,소래포구역환승센터,Soraepo Station Transfer Center,"('환승', 'Transit')",Travel and Transport,Bus Station
+66427,바리미마을,Barimi Village,"('마을', 'Town')",Travel and Transport,Bus Station
+72102,인천영어마을,Incheon English Village,"('마을', 'Town')",Travel and Transport,Bus Station
+81194,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+83605,유현마을,Yuhyeon Village,"('마을', 'Town')",Travel and Transport,Bus Station
+98029,인천영어마을,Incheon English Village,"('마을', 'Town')",Travel and Transport,Bus Station
+100143,송도시외버스환승센터,Song Intercity Bus Transfer Terminal,"('센터', 'Center')",Travel and Transport,Bus Station
+108789,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+119251,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+134090,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station
+145573,정류장,station,"('정류장', 'Stop')",Travel and Transport,Bus Station

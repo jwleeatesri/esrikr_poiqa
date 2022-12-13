@@ -1,7 +1,7 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-18620,18621,27110527,탄탄면공방 송도타임스페이스점,,Tantanmyeon Workshop Songdo Time Space Branch,Food,Fusion Food,126.64212178527109,37.383590700090366,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,하모니로,158,8-21,2022-08-24 14:41:06,음식||퓨전음식||프랜차이즈||탄탄면공방,False
-71429,71430,27035272,탄탄면공방 인천시청점,,Tantanmyeon Workshop Incheon City Hall Branch,Food,Fusion Food,126.70689084119044,37.454048084028926,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,남동대로799번길,34,1608,2022-09-06 15:18:26,음식||퓨전음식||프랜차이즈||탄탄면공방,False
-80056,80057,27183584,탄탄면공방 현대프리미엄아울렛 송도점,,Tantanmyeon Workshop Hyundai Premium Outlet Songdo Branch,Food,Fusion Food,126.65748147689092,37.38170664698323,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,송도국제대로,123,168-1,2022-08-24 14:41:06,음식||퓨전음식||프랜차이즈||탄탄면공방,False
-87033,87034,27181707,탄탄면공방 인천스퀘어원점,,Tantanmyeon Workshop Incheon Square One,Food,Fusion Food,126.68334072404468,37.40628067946147,대한민국,KOR,KOR,인천광역시,연수구,,동춘동,,청능대로,210,926,2022-08-24 14:41:06,음식||퓨전음식||프랜차이즈||탄탄면공방,False
-119596,119597,27069052,탄탄면공방 인천인하대점,,Tantanmyeon Workshop Incheon Inha University,Food,Fusion Food,126.64813765663747,37.44745632142463,대한민국,KOR,KOR,인천광역시,미추홀구,,용현동,,용정공원로83번길,49,665-8,2022-08-24 14:41:06,음식||퓨전음식||프랜차이즈||탄탄면공방,False
-120820,120821,27187113,탄탄면공방 청라점,,Tantanmyeon Workshop Cheongna Branch,Food,Fusion Food,126.64695775744644,37.53265680679356,대한민국,KOR,KOR,인천광역시,서구,,청라동,,청라커낼로260번길,27,157-21,2022-08-24 14:41:06,음식||퓨전음식||프랜차이즈||탄탄면공방,False
+,name,name_eng,problems,category,subcategory
+18620,탄탄면공방 송도타임스페이스점,Tantanmyeon Workshop Songdo Time Space Branch,"('탄탄면', 'Tantanmen')",Food,Fusion Food
+71429,탄탄면공방 인천시청점,Tantanmyeon Workshop Incheon City Hall Branch,"('탄탄면', 'Tantanmen')",Food,Fusion Food
+80056,탄탄면공방 현대프리미엄아울렛 송도점,Tantanmyeon Workshop Hyundai Premium Outlet Songdo Branch,"('탄탄면', 'Tantanmen')",Food,Fusion Food
+87033,탄탄면공방 인천스퀘어원점,Tantanmyeon Workshop Incheon Square One,"('탄탄면', 'Tantanmen')",Food,Fusion Food
+119596,탄탄면공방 인천인하대점,Tantanmyeon Workshop Incheon Inha University,"('탄탄면', 'Tantanmen')",Food,Fusion Food
+120820,탄탄면공방 청라점,Tantanmyeon Workshop Cheongna Branch,"('탄탄면', 'Tantanmen')",Food,Fusion Food

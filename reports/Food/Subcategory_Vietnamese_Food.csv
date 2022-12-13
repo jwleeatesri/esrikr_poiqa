@@ -1,12 +1,12 @@
-,OID_,id,name,name_alias,name_eng,category,subcategory,lon,lat,country,country_code,language_code,sd,sgg,sgg_sub,emd,ri,street,number_st,number_jb,update_date,dwnm,result
-23914,23915,4572531,월남선생 강화군청점,,Teacher Wolnam Ganghwa-guncheong Branch,Food,Vietnamese Food,126.48681060000068,37.74676570000324,대한민국,KOR,KOR,인천광역시,강화군,,강화읍,관청리,강화대로404번길,7,175-1,2022-08-16 16:52:33,음식||아시아음식||베트남음식||프랜차이즈||월남선생,False
-36813,36814,26997639,포메인 RED 송도점,,4 Main RED Songdo Branch,Food,Vietnamese Food,126.64950053368788,37.39776281125254,대한민국,KOR,KOR,인천광역시,연수구,,송도동,,신송로,154,20-20,2022-05-01 12:37:48,음식||아시아음식||베트남음식||프랜차이즈||포메인,False
-51453,51454,4355859,포메인 인천청라점,,4 Main Incheon Cheongna Branch,Food,Vietnamese Food,126.65261859999994,37.53163869999958,대한민국,KOR,KOR,인천광역시,서구,,청라동,,중봉대로586번길,22,164-1,2022-08-12 13:15:03,음식||아시아음식||베트남음식||프랜차이즈||포메인,False
-55803,55804,27098630,포아이니 인천당하점,,Poini Incheon Dangha Branch,Food,Vietnamese Food,126.67274919999991,37.59246029999984,대한민국,KOR,KOR,인천광역시,서구,,당하동,,청마로19번길,21,1077-11,2022-08-16 16:52:33,음식||아시아음식||베트남음식||프랜차이즈||포아이니,False
-61370,61371,27184801,포메인 부평CGV점,,4main Bupyeong CGV,Food,Vietnamese Food,126.70354510719888,37.5217934728957,대한민국,KOR,KOR,인천광역시,부평구,,청천동,,마장로,489,386,2022-08-24 14:41:06,음식||아시아음식||베트남음식||프랜차이즈||포메인,False
-88069,88070,27251140,포슈아쌀국수배달전문 주안점,,Foshua Rice Noodle Delivery Specialty Store,Food,Vietnamese Food,126.67561129999994,37.45602249999979,대한민국,KOR,KOR,인천광역시,미추홀구,,주안동,,경인로326번길,60-4,555-28,2022-05-01 12:37:48,음식||아시아음식||베트남음식||베트남음식-일반,False
-105337,105338,26985416,베트남꼬치&쌀국수,,Vietnamese Skewers & Rice Noodles,Food,Vietnamese Food,126.67346913378088,37.41708011766755,대한민국,KOR,KOR,인천광역시,연수구,,청학동,,청명로3번길,18,484-5,2022-05-01 12:37:48,음식||아시아음식||베트남음식||베트남음식-일반,False
-116783,116784,27173466,포트리스베트남쌀국수,,Fortress Vietnamese Rice Noodles,Food,Vietnamese Food,126.72752766959591,37.39753651381945,대한민국,KOR,KOR,인천광역시,남동구,,논현동,,논고개로,61,747-1,2022-08-12 13:15:03,음식||아시아음식||베트남음식||베트남음식-일반,False
-134273,134274,5596748,포앤반 인천당하점,포엔반원당점,4&Ban Incheon Dangha Branch,Food,Vietnamese Food,126.6955819265909,37.59327269269682,대한민국,KOR,KOR,인천광역시,서구,,당하동,,원당대로,848,1028-5,2022-08-12 13:15:03,음식||아시아음식||베트남음식||프랜차이즈||포앤반,False
-138534,138535,27047986,홍대쌀국수 뉴코아아울렛 인천점,,Hongdae Rice Noodles New Core Outlet Incheon Branch,Food,Vietnamese Food,126.70070404689888,37.444027311420164,대한민국,KOR,KOR,인천광역시,남동구,,구월동,,인하로,485,1465-1,2022-05-01 12:37:48,음식||아시아음식||베트남음식||프랜차이즈||홍대쌀국수,False
-139626,139627,27044144,대나무베트남명품쌀국수 학익점,대나무쌀국수 2호점,Bamboo Vietnamese famous rice noodles Hakik,Food,Vietnamese Food,126.66934655423916,37.44067734739696,대한민국,KOR,KOR,인천광역시,미추홀구,,학익동,,소성로,192,657-4,2022-08-26 9:52:19,음식||아시아음식||베트남음식||베트남음식-일반,False
+,name,name_eng,problems,category,subcategory
+23914,월남선생 강화군청점,Teacher Wolnam Ganghwa-guncheong Branch,"('월남', 'Vietnam')",Food,Vietnamese Food
+36813,포메인 RED 송도점,4 Main RED Songdo Branch,"('메인', 'Mein')",Food,Vietnamese Food
+51453,포메인 인천청라점,4 Main Incheon Cheongna Branch,"('메인', 'Mein')",Food,Vietnamese Food
+55803,포아이니 인천당하점,Poini Incheon Dangha Branch,"('당하', 'Dnagha')",Food,Vietnamese Food
+61370,포메인 부평CGV점,4main Bupyeong CGV,"('메인', 'Mein')",Food,Vietnamese Food
+88069,포슈아쌀국수배달전문 주안점,Foshua Rice Noodle Delivery Specialty Store,"('쌀국수', 'Pho')",Food,Vietnamese Food
+105337,베트남꼬치&쌀국수,Vietnamese Skewers & Rice Noodles,"('쌀국수', 'Pho')",Food,Vietnamese Food
+116783,포트리스베트남쌀국수,Fortress Vietnamese Rice Noodles,"('쌀국수', 'Pho')",Food,Vietnamese Food
+134273,포앤반 인천당하점,4&Ban Incheon Dangha Branch,"('당하', 'Dnagha')",Food,Vietnamese Food
+138534,홍대쌀국수 뉴코아아울렛 인천점,Hongdae Rice Noodles New Core Outlet Incheon Branch,"('쌀국수', 'Pho')",Food,Vietnamese Food
+139626,대나무베트남명품쌀국수 학익점,Bamboo Vietnamese famous rice noodles Hakik,"('쌀국수', 'Pho')",Food,Vietnamese Food

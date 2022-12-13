@@ -147,25 +147,22 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
         name_eng = row["name_eng"].lower()
         for elem in sorted(_dictionary,key=lambda x:len(x[0])):
             if elem[0] in name and elem[1].lower() not in name_eng:
-                # print(elem[1].lower(),end="\t")
-                # print(name_eng)
                 problems.add(elem[0])
-                return False
-        return True
+                return elem
+        return ""
+
     df_interest = _df.loc[_df["subcategory"] == subcategory.value].copy()
-    df_interest.loc[:,"result"] = df_interest.apply(review,axis=1)
-    df_result = df_interest.loc[df_interest["result"] == False] # deprecated?
+    df_interest.loc[:,"problems"] = df_interest.apply(review,axis=1)
+    df_result = df_interest.loc[df_interest["problems"] != ""].loc[:,["name","name_eng","problems","category","subcategory"]]
     main_category = df_interest["category"].iloc[0]
     # if no problem, no file
     if len(problems) == 0:
         logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
         update_json(main_category,subcategory,len(df_interest),0) 
-        print(f"YAY {subcategory.value} 0 probs")
     else:
         subcategory_report_name = os.path.join(REPORTS_DIR,main_category,filename)
         df_result.to_csv(subcategory_report_name,encoding="utf-8")
         update_json(main_category,subcategory,len(df_interest) - len(df_result),len(df_result))
-        print(f"YAY {subcategory.value} probs")
     return 100 * len(df_result)/len(df_interest)
 
 def process_all(_df: pd.DataFrame):
