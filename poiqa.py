@@ -3,7 +3,8 @@ Processes the POI data and finds accuracy ratio
 일관성과 코드 유지보수를 위해 enum을 넘길 경우 값만 넘기지 말고
 그냥 enum 자체를 넘기자
 """
-from collections import Counter
+from collections import Counter, ChainMap
+from copy import deepcopy
 from datetime import datetime
 import json
 import logging
@@ -126,14 +127,37 @@ def update_json(category:str,
     with open(update_path, "w", encoding="utf-8") as p:
         p.write(result_json)
 
+def load_subcategory_dictionary(dict_path:str,read_index=False):
+    start_line = 0 if read_index else 1
+    with open(dict_path, "r", encoding="utf-8") as f:
+        data = f.readlines()[start_line:]
+    return data
+
+def parse_location(location_data):
+    _location_dictionary = deepcopy(location_dictionary)
+    location_dict = {}
+    for elem in location_data:
+        if elem in _location_dictionary.keys():
+            location_dict[elem["name"]] = elem["name_eng"]
+            location_dict[elem] = " ".join([elem["name_eng"],elem["english_class"]])
+            _location_dictionary = _location_dictionary[elem]
+    return location_dict
+
+def get_location_from_poi(row):
+    location_data = [str(elem) for elem in (row.sd, row.sgg, row.sgg_sub, row.emd)]
+    location_data = [elem for elem in location_data if elem != 'nan']
+    result_dict = parse_location(location_data)
+    return result_dict
+    
+
+# 우선 이 함수가 드럽게 길다. 좀만 줄이자
 def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float:
     """Read df and reviews the categories
     :param _df DataFrame: source dataframe (this dataframe is the entire dataset)
     :param subcategory Subcategory: target subcategory"""
     filename = f"Subcategory_{subcategory.value.replace(' ','_')}.csv"
     subcategory_dict_name = os.path.join(OUTPUT_DIR,filename)
-    with open(subcategory_dict_name,"r",encoding="utf-8") as _f:
-        data = _f.readlines()[1:]
+    data = load_subcategory_dictionary(subcategory_dict_name)
     _dictionary = [(row.split(",")[0],row.split(",")[1]) for row in data]
     if _dictionary[0][1] == "":
         raise AttributeError("The dictionary has not yet been built")
@@ -155,7 +179,7 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
     df_interest.loc[:,"problems"] = df_interest.apply(review,axis=1)
     df_result = df_interest.loc[df_interest["problems"] != ""].loc[:,["name","name_eng","problems"]]
     main_category = df_interest["category"].iloc[0]
-    
+
     # if no problem, no file
     if len(all_problems) == 0:
         logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
