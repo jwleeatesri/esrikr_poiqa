@@ -35,11 +35,9 @@ def build_markdown(filepath):
 
 def build_individual_plot(data:dict,title:str):
     report_dict = dict.fromkeys(data.keys(),0)
-    # report_dict["Correct"] = 0
     fig,ax = plt.subplots()
     for k,v in data.items():
         try:
-            # report_dict["Correct"] += v["correct"]
             report_dict[k] += v["incorrect"]
         except TypeError:
             pass

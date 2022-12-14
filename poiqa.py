@@ -1,5 +1,7 @@
 """
 Processes the POI data and finds accuracy ratio
+일관성과 코드 유지보수를 위해 enum을 넘길 경우 값만 넘기지 말고
+그냥 enum 자체를 넘기자
 """
 from collections import Counter
 from datetime import datetime
@@ -122,9 +124,7 @@ def update_json(category:str,
         data[subcategory.value]["correct"] = correct
     result_json = json.dumps(data)
     with open(update_path, "w", encoding="utf-8") as p:
-        print("Im in!")
         p.write(result_json)
-        print("Im out!")
 
 def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float:
     """Read df and reviews the categories
@@ -155,6 +155,7 @@ def process_by_subcategory(_df: pd.DataFrame, subcategory: Subcategory) -> float
     df_interest.loc[:,"problems"] = df_interest.apply(review,axis=1)
     df_result = df_interest.loc[df_interest["problems"] != ""].loc[:,["name","name_eng","problems"]]
     main_category = df_interest["category"].iloc[0]
+    
     # if no problem, no file
     if len(all_problems) == 0:
         logging.info("%s No errors for the file: %s",datetime.now(),subcategory.value)
@@ -173,9 +174,6 @@ def process_all(_df: pd.DataFrame):
         try:
             process_by_subcategory(_df,member)
         except AttributeError:
-            # logging.warning("%s %s dictionary is not yet built",
-            #     datetime.now(),
-            #     member.value)
             pass
 
 if __name__ == "__main__":
